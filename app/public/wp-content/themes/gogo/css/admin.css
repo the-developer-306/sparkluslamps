@@ -1,0 +1,11 @@
+/*start gogo post meta box style*/
+#gogo-meta-box .post-attributes-label{
+margin-bottom:8px;
+}
+#gogo-meta-box .post-attributes-setting{
+margin-top:0px;
+}
+#gogo-meta-box select{
+width:100%;
+}
+/*end gogo post meta box style*/

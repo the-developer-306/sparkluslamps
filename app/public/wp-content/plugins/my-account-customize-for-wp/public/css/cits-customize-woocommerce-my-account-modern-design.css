@@ -1,0 +1,51 @@
+.woocommerce-MyAccount-navigation ul li a {
+	border-bottom: 1px solid #DDD;
+	padding: 18px 20px;
+}
+
+.woocommerce-MyAccount-navigation ul {
+	border: 1px solid #DDDDDD3D;
+	background: #FFF;
+	box-shadow: 0 0 10px #6F6AF84D;
+	border-radius: 5px;
+}
+
+.woocommerce-MyAccount-content {
+	border: 1px solid #DDDDDD3D;
+	padding: 3%;
+	box-sizing: border-box;
+	background: #FFF;
+	box-shadow: 0 0 10px #6F6AF84D;
+	border-radius: 5px;
+}
+
+
+
+.cits-dashbord-single-item {
+	background: linear-gradient(to left,#0CCDAF,#7ED7CF);
+	color: #FFF;
+	border-radius: 10px;
+	padding: 20px;
+	width: 100%;
+	height: 100%;
+}
+
+.cits-dashbord-single-item span svg {
+	fill: #FFF;
+	width: 25px;
+	height: 25px;
+}
+
+.dashboard-dark-design > div:nth-child(2) .cits-dashbord-single-item {
+	background-image: linear-gradient( 117deg,  rgba(123,216,96,1) 39.2%, rgba(255,255,255,1) 156.2% );
+}
+.dashboard-dark-design > div:nth-child(3) .cits-dashbord-single-item {
+	background: linear-gradient(to left,#087FDF,#89C6F7);
+}
+
+.dashboard-dark-design > div:nth-child(4) .cits-dashbord-single-item {
+	background-image: radial-gradient( circle 941px at 2.6% 6.8%,  rgba(124,74,228,0.81) 15.9%, rgba(249,208,40,0.70) 88.6% );
+}
+.dashboard-dark-design > div:nth-child(5) .cits-dashbord-single-item {
+	background: linear-gradient(to right, #ff9966, #ff5e62);
+}

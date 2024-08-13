@@ -1,0 +1,293 @@
+/*
+Theme Name: Shopcity
+Theme URI: https://websiteinwp.com/shopcity-ecommerce-wordpress-theme-for-store/
+Author: WebsiteinWP
+Author URI: https://websiteinwp.com/
+Description: Shopcity is a powerful and versatile WooCommerce theme designed to elevate your online store with ease. Featuring Full Site Editing, it offers 6 free and 3 premium pre-built demos that can be imported with one click, along with over 20 ready-to-use sections for a highly customizable experience. Lightweight, responsive, and SEO-friendly, Shopcity ensures fast loading times and a polished, professional look on any device. Perfect for any eCommerce or online store, its drag-and-drop interface simplifies the creation of unique, engaging layouts. Transform your eCommerce site with Shopcity's sleek design and unmatched functionality. Explore more about shopcity at https://websiteinwp.com/shopcity-ecommerce-wordpress-theme-for-store/
+Tags: blog, one-column, custom-background, custom-colors, custom-logo, custom-menu, editor-style, featured-images, e-commerce, full-site-editing, block-patterns, full-width-template, rtl-language-support, threaded-comments, translation-ready, block-styles, wide-blocks
+Version: 1.0.2
+Requires at least: 5.9
+Tested up to: 6.5
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: shopcity
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/*=====================
+STYLE FOR CONTACT FORM 7 LAYOUT
+===============*/
+.wpcf7-form-control.wpcf7-text,
+.wpcf7-form-control.wpcf7-textarea,
+.wpcf7-form-control.wpcf7-number.wpcf7-validates-as-number,
+.wpcf7-form-control.wpcf7-select {
+  border-radius: 5px;
+  border: 1px solid #dad7d7;
+  padding: 15px;
+  width: 100%;
+  margin-top: 10px;
+  box-sizing: border-box;
+}
+.wpcf7-form-control.wpcf7-select {
+  appearance: none;
+  position: relative;
+}
+.wpcf7-form-control.wpcf7-select:after {
+  content: ">";
+  font-size: 20px;
+  position: absolute;
+  right: 20px;
+  top: 10px;
+}
+form.wpcf7-form *::placeholder {
+  font-size: 14px;
+}
+form.wpcf7-form *::-moz-placeholder {
+  font-size: 14px;
+}
+form.wpcf7-form *::-webkit-input-placeholder {
+  font-size: 14px;
+}
+input[type="submit"] {
+  transition: all ease 0.23s;
+  -o-transition: all ease 0.23s;
+  -moz-transition: all ease 0.23s;
+  -webkit-transition: all ease 0.23s;
+}
+
+.wpcf7-form-control.has-spinner.wpcf7-submit {
+  background: var(--wp--preset--color--primary);
+  color: var(--wp--preset--color--light-color);
+  border-radius: 0;
+  border: 0;
+  font-size: 16px;
+  padding: 15px 40px;
+}
+.wpcf7-form-control.has-spinner.wpcf7-submit:hover {
+  background: var(--wp--preset--color--secondary);
+  color: var(--wp--preset--color--light-color);
+}
+.wp-block-contact-form-7-contact-form-selector .wpcf7-form input,
+.wp-block-contact-form-7-contact-form-selector .wpcf7-form select,
+.wp-block-contact-form-7-contact-form-selector .wpcf7-form textarea {
+  border-radius: 0;
+  border: 1px solid var(--wp--preset--color--heading-color);
+}
+/*=====================
+STYLE FOR COMMENTS LAYOUT
+===============*/
+.wp-block-comments textarea#comment {
+  border-radius: 4px;
+}
+form.comment-form {
+  border-radius: 20px;
+  margin-top: 24px;
+}
+.wp-block-post-comments-form {
+  border-radius: 20px;
+}
+form.comment-form input[type="email"],
+form.comment-form input[type="text"],
+form.comment-form input[type="url"],
+form.comment-form textarea {
+  border-radius: 5px;
+  margin: 12px 0 25px;
+}
+form.comment-form .form-submit.wp-block-button {
+  margin-top: 25px;
+}
+.wp-block-comment-author-name {
+  font-weight: 600;
+}
+form.comment-form .form-submit.wp-block-button .wp-element-button {
+  border-radius: 4px;
+}
+.wp-block-comment-date a {
+  color: var(--wp--preset--color--foregound);
+  font-size: 13px;
+}
+.wp-block-comment-template li {
+  margin-top: 50px;
+}
+.wp-block-comment-template li li {
+  margin-top: 10px;
+  padding-left: 60px;
+}
+a.comment-reply-link {
+  border: 1px solid;
+  padding: 5px 13px;
+  border-radius: 40px;
+  font-size: 13px;
+  opacity: 0.6;
+}
+.wp-block-post-comments-form {
+  margin-top: 30px;
+  display: inline-block;
+  width: 100%;
+}
+.woocommerce ul.products li.product a img {
+  border-radius: 5px;
+  height: 350px;
+  object-fit: cover;
+}
+.woocommerce ul.products li.product,
+.woocommerce-page ul.products li.product {
+  margin: 0 2.5% 2.992em 0;
+  width: 23.1%;
+}
+.woocommerce ul.products li.last,
+.woocommerce-page ul.products li.last {
+  margin-right: 0;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li {
+  border-radius: 0;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active:before,
+.woocommerce div.product .woocommerce-tabs ul.tabs li:before,
+.woocommerce div.product .woocommerce-tabs ul.tabs li.active:after {
+  display: none;
+}
+.woocommerce div.product .woocommerce-tabs ul.tabs li:after {
+  border: 0;
+}
+.woocommerce #reviews #comments ol.commentlist {
+  padding: 0;
+  margin-top: 20px !important;
+}
+.woocommerce-page .input-text {
+  padding: 11px 30px;
+  border: 1px solid #817e7e;
+  border-radius: 5px;
+}
+.wp-block-post-excerpt__excerpt a,
+.entry-content.wp-block-post-content a,
+p a {
+  text-decoration: underline;
+}
+nav.wp-block-navigation ul li a:hover,
+.wp-block-button.is-style-outline a:hover {
+  color: var(--wp--preset--color--heading-color) !important;
+}
+ul.wp-block-categories-list.shopcity-footer-categories.wp-block-categories li a,
+ul.wp-block-categories-list.shopcity-footer-categories.wp-block-categories li {
+  color: var(--wp--preset--color--foreground-alt) !important;
+}
+span.swiper-pagination-bullet.swiper-pagination-bullet-active,
+span.swiper-pagination-bullet {
+  background-color: var(--wp--preset--color--primary) !important;
+}
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  color: var(--wp--preset--color--primary) !important;
+}
+.swiper-button-prev:hover:after,
+.swiper-button-next:hover:after {
+  color: #ffffff !important;
+}
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  background-color: var(--wp--preset--color--primary) !important;
+}
+.news-ticker-holderv.ticker-2 .swiper-button-prev,
+.news-ticker-holderv.ticker-2 .swiper-button-next {
+  top: 16px !important;
+}
+.tg-related-post .post-box .wp-post-image {
+  height: 180px;
+  border-radius: 7px;
+}
+.tg-related-post .post-box h3.title-heading {
+  font-size: 16px;
+}
+.tg-related-post .post-box h3.title-heading a {
+  color: var(--wp--preset--color--foregound) !important;
+}
+.tg-social-sharing a svg {
+  height: 14px;
+}
+.tg-social-sharing a {
+  width: 34px;
+  height: 34px;
+}
+.shopcity-navigation.wp-block-navigation li a:hover {
+  color: var(--wp--preset--color--secondary) !important;
+}
+.tg-related-post .post-box {
+  display: inline-block;
+  margin-bottom: -40px;
+}
+.wp-block-group.shopcity-hover-box:hover {
+  transform: scale(1.015) translateY(-10px);
+}
+.wp-block-cover.shopcity-hover-cover:hover img.wp-block-cover__image-background {
+  transform: scale(1.25);
+}
+.wp-block-cover.shopcity-hover-cover:hover span.wp-block-cover__background {
+  opacity: 0.5;
+}
+.tg-related-post h3.title-heading a:hover {
+  color: var(--wp--preset--color--secondary) !important;
+}
+.tg-related-post .post-box .wp-post-image {
+  height: 180px;
+  border-radius: 0 !important;
+}
+.wp-block-group.shopcity-overlay-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 99;
+  width: 100%;
+}
+body.logged-in .wp-block-group.shopcity-overlay-header {
+  top: 30px;
+}
+@media (max-width: 767px) {
+  .wp-block-group.shopcity-navigation-row {
+    justify-content: space-between;
+  }
+}
+li.wp-block-post.product .wc-block-components-product-image.wc-block-grid__product-image {
+  overflow: hidden;
+}
+.wc-block-mini-cart__badge {
+  color: inherit;
+}
+.wp-block-button.wc-block-components-product-button a,
+.wp-block-button.wc-block-components-product-button .wp-block-button__link.add_to_cart_button,
+.wp-block-button.is-style-outline .wp-block-button__link {
+  border-width: 1px;
+}
+.wp-block-button.wc-block-components-product-button a:hover,
+.wp-block-button.wc-block-components-product-button .wp-block-button__link.add_to_cart_button:hover,
+.wp-block-button.is-style-outline .wp-block-button__link:hover {
+  background: var(--wp--preset--color--secondary) !important;
+  color: #fff;
+  border-color: var(--wp--preset--color--secondary) !important;
+}
+ul.is-style-list-style-no-bullet.text-center li {
+  text-align: center;
+}
+.wp-block-contact-form-7-contact-form-selector.shopcity-footer-newsletter input.wpcf7-form-control.wpcf7-email {
+  background: transparent;
+  border: 1px solid #fff;
+  height: 56px;
+}
+.wp-block-contact-form-7-contact-form-selector.shopcity-footer-newsletter form.wpcf7-form {
+  position: relative;
+  margin-top: 30px;
+}
+.wp-block-contact-form-7-contact-form-selector.shopcity-footer-newsletter input.wpcf7-form-control.wpcf7-submit {
+  position: absolute;
+  right: 4px;
+  top: 14px;
+}
+.wp-block-button.wc-block-components-product-button.shopcity-slider-cartbtn button.wp-block-button__link {
+  border: 1px solid;
+}
+.wp-block-query.tg-post-carousel.shopcity-colm-slider .swiper-pagination.tgpost-carousel-pagination,
+.wp-block-query.tg-post-carousel-4.shopcity-colm-slider .swiper-pagination.tgpost-carousel-pagination {
+  bottom: 50px;
+}

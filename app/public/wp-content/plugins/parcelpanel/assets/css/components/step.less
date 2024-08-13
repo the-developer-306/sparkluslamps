@@ -1,0 +1,52 @@
+.pp-progress-steps {
+  padding: 0 0 24px;
+  margin: 0;
+  list-style: none outside;
+  overflow: hidden;
+  color: #ccc;
+  width: 100%;
+  display: inline-flex;
+
+  li {
+    flex: 1;
+    padding: 0 0 .8em;
+    margin: 0;
+    text-align: center;
+    position: relative;
+    border-bottom: 4px solid #ccc;
+    line-height: 1.4em;
+
+    &:before {
+      content: "";
+      border: 4px solid #ccc;
+      border-radius: 100%;
+      width: 4px;
+      height: 4px;
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      margin-left: -6px;
+      margin-bottom: -8px;
+      background: #fff;
+    }
+
+    &.is-active {
+      border-color: var(--wp-admin-theme-color);
+      color: var(--wp-admin-theme-color);
+
+      &::before {
+        border-color: var(--wp-admin-theme-color);
+      }
+    }
+
+    &.is-done {
+      border-color: var(--wp-admin-theme-color);
+      color: var(--wp-admin-theme-color);
+
+      &::before {
+        border-color: var(--wp-admin-theme-color);
+        background: var(--wp-admin-theme-color)
+      }
+    }
+  }
+}

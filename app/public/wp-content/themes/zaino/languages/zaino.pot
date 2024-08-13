@@ -1,0 +1,207 @@
+# Copyright (C) 2022 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Zaino 0.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/zaino\n"
+"POT-Creation-Date: 2022-12-13 18:50:18+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. Translators: WordPress link.
+#: patterns/footer-minimal.php:19 patterns/footer.php:106
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: patterns/footer-minimal.php:20 patterns/footer.php:107
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:18
+msgid "10% off your first order"
+msgstr ""
+
+#: patterns/footer.php:22
+msgid "Subscribe to our mailing list for 10% off your first order."
+msgstr ""
+
+#: patterns/footer.php:28
+msgid "30 days returns"
+msgstr ""
+
+#: patterns/footer.php:32
+msgid "Shop with certainty with our 30 day returns policy."
+msgstr ""
+
+#: patterns/footer.php:39
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:43
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer.php:47
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer.php:51
+msgid "Shipping"
+msgstr ""
+
+#: patterns/footer.php:55
+msgid "Returns"
+msgstr ""
+
+#: patterns/footer.php:61
+msgid "Shop"
+msgstr ""
+
+#: patterns/footer.php:65 patterns/home-header.php:42
+msgid "New Arrivals"
+msgstr ""
+
+#: patterns/footer.php:69
+msgid "Bestsellers"
+msgstr ""
+
+#: patterns/footer.php:73
+msgid "Collections"
+msgstr ""
+
+#: patterns/footer.php:79
+msgid "Follow Us"
+msgstr ""
+
+#: patterns/footer.php:83
+msgid "Facebook"
+msgstr ""
+
+#: patterns/footer.php:87
+msgid "Instagram"
+msgstr ""
+
+#: patterns/footer.php:91
+msgid "Pinterest"
+msgstr ""
+
+#: patterns/hidden-404.php:13
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr ""
+
+#: patterns/hidden-404.php:19
+msgctxt "Message to convey that a webpage could not be found"
+msgid "This page could not be found."
+msgstr ""
+
+#: patterns/hidden-404.php:22 patterns/hidden-no-results.php:14
+msgctxt "label"
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-404.php:22 patterns/hidden-no-results.php:14
+msgctxt "placeholder for search field"
+msgid "Search..."
+msgstr ""
+
+#: patterns/hidden-404.php:22 patterns/hidden-no-results.php:14
+msgid "Search"
+msgstr ""
+
+#: patterns/hidden-comments.php:13
+msgctxt "Title of comments section"
+msgid "Comments"
+msgstr ""
+
+#: patterns/hidden-no-results.php:10
+msgctxt "Message explaining that there are no results returned from a search"
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: patterns/home-featured-products.php:13
+msgid "Featured Products"
+msgstr ""
+
+#: patterns/home-featured-products.php:17 patterns/home-posts-list.php:16
+msgid "View All"
+msgstr ""
+
+#: patterns/home-header.php:11 patterns/notice.php:11
+msgid "*** Free shipping on orders over $100 ***"
+msgstr ""
+
+#: patterns/home-header.php:38
+msgid "New Season"
+msgstr ""
+
+#: patterns/home-header.php:48
+msgid "Shop Backpacks"
+msgstr ""
+
+#: patterns/home-header.php:52
+msgid "Shop All"
+msgstr ""
+
+#: patterns/home-posts-list.php:12
+msgid "News"
+msgstr ""
+
+#: patterns/home-posts-list.php:27
+msgid "Read more"
+msgstr ""
+
+#: patterns/post-meta.php:28
+msgctxt "Verb to explain the publication status of a post"
+msgid "Posted"
+msgstr ""
+
+#: patterns/post-meta.php:36
+msgctxt ""
+"Preposition to show the relationship between the post and its categories"
+msgid "in"
+msgstr ""
+
+#: patterns/post-meta.php:48
+msgctxt "Preposition to show the relationship between the post and its author"
+msgid "by"
+msgstr ""
+
+#: patterns/post-meta.php:64
+msgctxt "Label for a list of post tags"
+msgid "Tags:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: wp-content/themes/premium/zaino/style.css
+msgid "Zaino"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#: wp-content/themes/premium/zaino/style.css
+msgid "https://wordpress.com/theme/zaino"
+msgstr ""
+
+#. Description of the plugin/theme
+#: wp-content/themes/premium/zaino/style.css
+msgid ""
+"Zaino puts the spotlight on your products and your customers. This theme "
+"leverages WooCommerce to provide you with intuitive product navigation and "
+"the patterns you need to master digital merchandising."
+msgstr ""
+
+#. Author of the plugin/theme
+#: wp-content/themes/premium/zaino/style.css
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#: wp-content/themes/premium/zaino/style.css
+msgid "https://automattic.com/"
+msgstr ""

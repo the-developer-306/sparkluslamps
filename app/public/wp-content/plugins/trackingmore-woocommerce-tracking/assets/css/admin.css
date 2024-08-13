@@ -1,0 +1,15 @@
+.hidden-field {
+	display: none;
+}
+
+#trackingmore_tracking_provider {
+	width: 100%;
+}
+
+.trackingmore_input_text {
+	width: 300px;
+}
+
+.trackingmore_dropdown {
+	width: 300px;
+}

@@ -1,0 +1,335 @@
+// 使用了 https://github.com/zdhxiong/pp 部分代码
+
+
+//使用方法
+// 格式：pp-{属性}-{方向}-{大小}
+
+/*
+属性：
+m - 设置 margin
+p - 设置 padding
+方向：
+
+t - 设置 margin-top 或 padding-top
+b - 设置 margin-bottom 或 padding-bottom
+l - 设置 margin-left 或 padding-left
+r - 设置 margin-right 或 padding-right
+x - 设置 margin-leftmargin-right 或 padding-leftpadding-right
+y - 设置 margin-topmargin-bottom 或 padding-toppadding-bottom
+a - 设置 margin 或 padding
+*/
+
+// pp-m-t-1  表示 margin-top: 4px
+// pp-m-t-2  表示 margin-top: 8px
+// pp-m-t-3  表示 margin-top: 24px
+
+// pp-m-y-1  表示 margin-top: 4px margin-bottom: 4px
+// pp-m-y-2  表示 margin-top: 8px margin-bottom: 4px
+// pp-m-y-3  表示 margin-top: 24px margin-bottom: 4px
+
+// pp-m-x-1 pp-m-y-2 pp-m-y-3
+
+
+// 基准大小
+@spacing-base: 4px;
+
+// 抽屉栏宽度
+@drawer-width-xs: 280px;
+@drawer-width-sm: 320px;
+@drawer-width-md: 240px;
+
+// 响应式断点
+@screen-xs-max: 599.9px;
+@screen-xs-max-landscape: 959.9px;
+
+@screen-sm-min: 600px;
+@screen-sm-max: 1023.9px;
+
+@screen-md-min: 1024px;
+@screen-md-max: 1439.9px;
+
+@screen-lg-min: 1440px;
+@screen-lg-max: 1919.9px;
+
+@screen-xl-min: 1920px;
+
+/**
+ * =============================================================================
+ * ************   Helper 辅助类   ************
+ * =============================================================================
+ */
+
+// ======================== 边距
+.pp-m-a(@spacing) {
+  margin: @spacing * @spacing-base;
+}
+
+.pp-m-t(@spacing) {
+  margin-top: @spacing * @spacing-base;
+}
+
+.pp-m-r(@spacing) {
+  margin-right: @spacing * @spacing-base;
+}
+
+.pp-m-b(@spacing) {
+  margin-bottom: @spacing * @spacing-base;
+}
+
+.pp-m-l(@spacing) {
+  margin-left: @spacing * @spacing-base;
+}
+
+.pp-m-x(@spacing) {
+  margin-right: @spacing * @spacing-base;
+  margin-left: @spacing * @spacing-base;
+}
+
+.pp-m-y(@spacing) {
+  margin-top: @spacing * @spacing-base;
+  margin-bottom: @spacing * @spacing-base;
+}
+
+.pp-p-a(@spacing) {
+  padding: @spacing * @spacing-base;
+}
+
+.pp-p-t(@spacing) {
+  padding-top: @spacing * @spacing-base;
+}
+
+.pp-p-r(@spacing) {
+  padding-right: @spacing * @spacing-base;
+}
+
+.pp-p-b(@spacing) {
+  padding-bottom: @spacing * @spacing-base;
+}
+
+.pp-p-l(@spacing) {
+  padding-left: @spacing * @spacing-base;
+}
+
+.pp-p-x(@spacing) {
+  padding-right: @spacing * @spacing-base;
+  padding-left: @spacing * @spacing-base;
+}
+
+.pp-p-y(@spacing) {
+  padding-top: @spacing * @spacing-base;
+  padding-bottom: @spacing * @spacing-base;
+}
+
+
+/**
+ * =================== 边距
+ */
+._spacing_margin_mixin(@spacing) when (@spacing > -1) {
+  ._spacing_margin_mixin(@spacing - 1);
+
+  .pp-m-a-@{spacing} {
+    .pp-m-a(@spacing) !important;
+  }
+  .pp-m-t-@{spacing} {
+    .pp-m-t(@spacing) !important;
+  }
+  .pp-m-r-@{spacing} {
+    .pp-m-r(@spacing) !important;
+  }
+  .pp-m-b-@{spacing} {
+    .pp-m-b(@spacing) !important;
+  }
+  .pp-m-l-@{spacing} {
+    .pp-m-l(@spacing) !important;
+  }
+  .pp-m-x-@{spacing} {
+    .pp-m-x(@spacing) !important;
+  }
+  .pp-m-y-@{spacing} {
+    .pp-m-y(@spacing) !important;
+  }
+
+  .pp-p-a-@{spacing} {
+    .pp-p-a(@spacing) !important;
+  }
+  .pp-p-t-@{spacing} {
+    .pp-p-t(@spacing) !important;
+  }
+  .pp-p-r-@{spacing} {
+    .pp-p-r(@spacing) !important;
+  }
+  .pp-p-b-@{spacing} {
+    .pp-p-b(@spacing) !important;
+  }
+  .pp-p-l-@{spacing} {
+    .pp-p-l(@spacing) !important;
+  }
+  .pp-p-x-@{spacing} {
+    .pp-p-x(@spacing) !important;
+  }
+  .pp-p-y-@{spacing} {
+    .pp-p-y(@spacing) !important;
+  }
+}
+
+._spacing_margin_mixin(5);
+
+
+/**
+ * ======================== 快速浮动
+ */
+
+/* 向左浮动 */
+.pp-float-left {
+  float: left !important;
+}
+
+/* 向右浮动 */
+.pp-float-right {
+  float: right !important;
+}
+
+/**
+ * ========================= 文本对齐方式
+ */
+
+/* 文本左对齐 */
+.pp-text-left {
+  text-align: left !important;
+}
+
+/* 文本居中对齐 */
+.pp-text-center {
+  text-align: center !important;
+}
+
+/* 文本向右对齐 */
+.pp-text-right {
+  text-align: right !important;
+}
+
+/**
+ * ========================= 文本大小写转换
+ */
+
+/* 文本转为小写 */
+.pp-text-lowercase {
+  text-transform: lowercase !important;
+}
+
+/* 文本转为大写 */
+.pp-text-uppercase {
+  text-transform: uppercase !important;
+}
+
+/* 文本转为单词的首字母大写 */
+.pp-text-capitalize {
+  text-transform: capitalize !important;
+}
+
+/**
+ * ========================= 隐藏内容
+ */
+
+/* 隐藏元素 */
+.pp-hidden,
+[hidden] {
+  display: none !important;
+}
+
+/* 使元素不可见 */
+.pp-invisible {
+  visibility: hidden;
+}
+
+/* Responsive utilities 响应式工具
+   ========================================================================== */
+
+/* 在特定屏幕的特备上隐藏 */
+@media (max-width: @screen-xs-max) {
+  .pp-hidden-xs {
+    display: none !important;
+  }
+}
+
+@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {
+  .pp-hidden-sm {
+    display: none !important;
+  }
+}
+
+@media (min-width: @screen-md-min) and (max-width: @screen-md-max) {
+  .pp-hidden-md {
+    display: none !important;
+  }
+}
+
+@media (min-width: @screen-lg-min) and (max-width: @screen-lg-max) {
+  .pp-hidden-lg {
+    display: none !important;
+  }
+}
+
+@media (min-width: @screen-xl-min) {
+  .pp-hidden-xl {
+    display: none !important;
+  }
+}
+
+/* 在比特定屏幕小的设备上隐藏 */
+@media (max-width: @screen-xs-max) {
+  .pp-hidden-xs-down {
+    display: none !important;
+  }
+}
+
+@media (max-width: @screen-sm-max) {
+  .pp-hidden-sm-down {
+    display: none !important;
+  }
+}
+
+@media (max-width: @screen-md-max) {
+  .pp-hidden-md-down {
+    display: none !important;
+  }
+}
+
+@media (max-width: @screen-lg-max) {
+  .pp-hidden-lg-down {
+    display: none !important;
+  }
+}
+
+.pp-hidden-xl-down {
+  display: none !important;
+}
+
+/* 在比特定屏幕大的设备上隐藏 */
+.pp-hidden-xs-up {
+  display: none !important;
+}
+
+@media (min-width: @screen-sm-min) {
+  .pp-hidden-sm-up {
+    display: none !important;
+  }
+}
+
+@media (min-width: @screen-md-min) {
+  .pp-hidden-md-up {
+    display: none !important;
+  }
+}
+
+@media (min-width: @screen-lg-min) {
+  .pp-hidden-lg-up {
+    display: none !important;
+  }
+}
+
+@media (min-width: @screen-xl-min) {
+  .pp-hidden-xl-up {
+    display: none !important;
+  }
+}

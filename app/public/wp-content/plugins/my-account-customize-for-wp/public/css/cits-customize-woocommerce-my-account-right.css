@@ -1,0 +1,7 @@
+.woocommerce-account .woocommerce-MyAccount-navigation {
+	float: right !important;
+}
+
+.woocommerce-account .woocommerce-MyAccount-content {
+	float: left !important;
+}

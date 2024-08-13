@@ -1,0 +1,47 @@
+.payment_method_phonepe {
+  align-items: center;
+}
+.payment_method_phonepe img {
+  object-fit: contain;
+  width: 300px;
+  margin: 0px 0 0 0 !important;
+}
+body.pp_loader {
+  background-color: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.pp_pay_loader {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%);
+  left: 50%;
+}
+
+.phonepe_response {
+  padding: 15px;
+  margin-bottom: 40px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  text-align: center;
+}
+.phonepe_response.error-box {
+  color: #a94442;
+  background-color: #f2dede;
+  border-color: #ebccd1;
+}
+.phonepe_response.success-box {
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+}
+@media (max-width: 480px) {
+  .payment_method_phonepe img {
+    margin-top: 7px !important;
+  }
+}

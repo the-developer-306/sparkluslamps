@@ -1,0 +1,71 @@
+.woocommerce-MyAccount-navigation ul li a {
+	border-bottom: 1px solid #ddd !important;
+	padding: 18px 20px !important;
+	background: #F9F9F9;
+	color: #2c3e50 !important;
+}
+
+.woocommerce-MyAccount-navigation ul li.is-active a, 
+.woocommerce-MyAccount-navigation ul li:hover a {
+	background: #fff !important;
+}
+
+.woocommerce-MyAccount-navigation ul {
+	box-shadow: 0 0 10px #D1D4E1;
+}
+
+.woocommerce-MyAccount-content {
+	padding: 3%;
+	box-sizing: border-box;
+	box-shadow: 0 0 10px #D1D4E1;
+	background: #FFF;
+}
+
+.dashbord-simple-area p {
+	padding-bottom: 15px;
+}
+
+.cits-dashbord-single-item {
+	padding: 30px 10px;
+	width: 100%;
+	text-align: center;
+	background: #FFF;
+	box-shadow: 0 0 10px #D1D4E1;
+}
+
+
+
+.dashbord-simple-area p a:hover{
+	text-decoration: underline;
+}
+
+
+.cits-dashbord-single-item span svg {
+	fill: #34495e;
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+ 
+.woocommerce-orders-table.woocommerce-MyAccount-orders tbody tr td,
+.woocommerce-orders-table.woocommerce-MyAccount-orders thead tr th{
+	background: #F9F9F9;
+}
+
+
+.woocommerce-orders-table.woocommerce-MyAccount-orders tbody tr td{
+	border-top: 1px solid #ddd !important;
+}
+
+.woocommerce-orders-table.woocommerce-MyAccount-orders tbody tr:last-child td{
+	border-bottom: 1px solid #ddd !important;
+}
+  
+/*Responsive*/
+@media all and (max-width: 767px){
+	.woocommerce-MyAccount-navigation ul li a {
+		padding: 12px 15px !important;
+	}
+
+
+}

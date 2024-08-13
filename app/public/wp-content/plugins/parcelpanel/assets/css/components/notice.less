@@ -1,0 +1,95 @@
+///////////////////////
+//// 公共样式
+///////////////////////
+
+.notice.parcelpanel-message {
+  padding: 16px 20px !important;
+  display: block !important;
+
+  > *:not(:first-child) {
+    margin-top: 12px;
+  }
+
+  h3 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+  }
+
+  p {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .notice-dismiss {
+    margin: 0;
+    text-decoration: none
+  }
+
+  .btn {
+    padding: 8px 12px;
+    background: none;
+    border: 1px solid #bdcbc8;
+    font-size: 14px;
+    line-height: 20px;
+    border-radius: 2px;
+    color: inherit;
+    cursor: pointer;
+
+    &:hover {
+      border-color: #aeb8b6;
+    }
+  }
+}
+
+
+
+///////////////////////
+//// notice style
+///////////////////////
+
+#pp-notice-question-2 {
+  background-color: rgb(239, 249, 241) !important;
+  border-left: 4px solid rgb(74, 184, 102) !important;
+
+  .btn {
+    border: 1px solid rgb(74, 184, 102) !important;
+    color: rgb(74, 184, 102) !important;
+    box-shadow: none !important;
+  }
+}
+
+#pp-notice-feedback {
+  .pp-rate {
+    margin: 12px 0 0;
+    line-height: 20px;
+  }
+}
+
+#pp-notice-plan-upgrade {
+  padding-top: 9px;
+  padding-bottom: 9px;
+}
+
+#pp-notice-free_sync_orders {
+  position: relative;
+
+  .spinner-box {
+    position: absolute;
+    margin: 0;
+    top: 9px;
+    right: 10px;
+    width: 20px;
+    height: 0;
+  }
+
+  .badge-completed_on-box {
+    position: absolute;
+    margin: 0;
+    right: 10px;
+    bottom: 16px;
+  }
+}

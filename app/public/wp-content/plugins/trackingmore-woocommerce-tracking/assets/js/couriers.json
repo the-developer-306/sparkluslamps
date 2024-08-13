@@ -1,0 +1,6571 @@
+[
+  {
+    "slug": "101iex",
+    "name": "FT Exprss",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "13-ten",
+    "name": "13ten",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "139express",
+    "name": "139 ECONOMIC Package",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "168express",
+    "name": "Antron Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "17feia",
+    "name": "17Feia Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "1dlexpress",
+    "name": "1DL Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "1fkd",
+    "name": "Yao Fei Kuai Di",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "1hcang",
+    "name": "1hcang",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "1shida",
+    "name": "1SD",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "2go",
+    "name": "2GO",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "2uex",
+    "name": "2U Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "360lion",
+    "name": "360lion Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "360zebra",
+    "name": "360zebra",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "3jmslogistics",
+    "name": "3JMS Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "4px",
+    "name": "4PX",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "56net",
+    "name": "MEI TAI",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "800best",
+    "name": "Best Express(logistic)",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "816kf",
+    "name": "XYL 816Kapro",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "8256ru",
+    "name": "BEL",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "8dt",
+    "name": "EWS Profit Fields",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "8europe",
+    "name": "8Europe",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "99minutos",
+    "name": "99minutos",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "aaacooper",
+    "name": "AAA Cooper Transportation",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "abf",
+    "name": "ABF Freight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "abxexpress-my",
+    "name": "ABX Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "acommerce",
+    "name": "ACOMMERCE",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "acscourier",
+    "name": "ACS Courier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "act-logistics",
+    "name": "ACT logistic",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ada-post",
+    "name": "AdaPost",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "adsone",
+    "name": "ADSOne",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "afghan-post",
+    "name": "Afghan Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "air-gtc",
+    "name": "Canada Air Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "air21",
+    "name": "AIR21",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "airfex",
+    "name": "Airfex",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "airpak-express",
+    "name": "Airpak Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "airspeed",
+    "name": "Airspeed International Corporation",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "airtranscourier",
+    "name": "AIRTRANS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "airwings-india",
+    "name": "Airwings Courier Express India",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "al8856",
+    "name": "Ali Business Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "aland-post",
+    "name": "Aland Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "allekurier",
+    "name": "allekurier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "alliance",
+    "name": "Alliance Air Freight & Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "alliedexpress",
+    "name": "Allied Express",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "alljoy",
+    "name": "Alljoy",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "alpha-fast",
+    "name": "Alpha Fast",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "am-home-delivery",
+    "name": "AM Home Delivery",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "amazon",
+    "name": "Amazon Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "amazon-in",
+    "name": "IN Amazon Shipping",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "amazon-uk",
+    "name": "UK Amazon Shipping",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "amsegroup",
+    "name": "AMSEGROUP",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "amsma",
+    "name": "Amsma Group",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "an-post",
+    "name": "An Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "andorra-post",
+    "name": "Andorra Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ane66",
+    "name": "Ane Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "angel",
+    "name": "Angel",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "anicamboxexpress",
+    "name": "Anicam Box Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "anjun",
+    "name": "Anjun Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "annto",
+    "name": "ANNTO",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "anserx",
+    "name": "AnserX",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "anteparcel",
+    "name": "Ant Eparcel",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "anteraja",
+    "name": "Anteraja",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "antilles-post",
+    "name": "Antilles Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "anxl",
+    "name": "anxl",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "apc",
+    "name": "APC Postal Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "aplus100",
+    "name": "A PLUS EXPRESS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "aprche",
+    "name": "Aprche",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "aramex",
+    "name": "Aramex",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "aramexau",
+    "name": "Aramex AU",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "arkexpress",
+    "name": "Ark express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "armenia-post",
+    "name": "Armenia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "arrowxl",
+    "name": "Arrow XL",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "artlogexpress",
+    "name": "Art Logexpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "aruba-post",
+    "name": "Aruba Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ase",
+    "name": "ASE",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "asendia",
+    "name": "Asendia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "asendia-de",
+    "name": "Asendia Germany",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "asendia-hk",
+    "name": "Asendia HK",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "asendia-uk",
+    "name": "Asendia UK",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "asendia-usa",
+    "name": "Asendia USA",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "asendia-wmp",
+    "name": "Asendia UK Premium",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "asiafly",
+    "name": "AsiaFly",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "asigna-es",
+    "name": "Asigna ES",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "asmred",
+    "name": "ASM (GLS ES)",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "asyad",
+    "name": "Asyad Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "atlantic",
+    "name": "Atlantic International Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "auexpress",
+    "name": "Auexpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "auodexpress",
+    "name": "auodexpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "aus",
+    "name": "Ausworld Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "auspost",
+    "name": "Auspost",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "austa",
+    "name": "Austa Internation",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "australia-ems",
+    "name": "Australia EMS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "australia-post",
+    "name": "Australia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "austria-post",
+    "name": "Austrian Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "averittexpress",
+    "name": "AVERITT Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "axlehire",
+    "name": "AxleHire",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "azerbaijan-post",
+    "name": "Azerbaijan Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bab-ru",
+    "name": "BAB international",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bahrain-post",
+    "name": "Bahrain Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bangladesh-ems",
+    "name": "Bangladesh EMS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "baoxianda",
+    "name": "baoxianda",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "barbados-post",
+    "name": "Barbados Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bartolini",
+    "name": "BRT Bartolini",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bee",
+    "name": "Bee Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "beebird",
+    "name": "Beebird Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "belgium-post",
+    "name": "Bpost",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "belize-post",
+    "name": "Belize Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "belpochta",
+    "name": "Belarus Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "benin-post",
+    "name": "Benin Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bermuda-post",
+    "name": "Bermuda Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "best-my",
+    "name": "BEST Express (Malaysia)",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "best-th",
+    "name": "Best Inc. Thailand",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bestex",
+    "name": "Best Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bettertrucks",
+    "name": "Better Trucks",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bf-lg",
+    "name": "Bf-Lg",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bh-posta",
+    "name": "BH Posta",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bhutan-post",
+    "name": "Bhutan Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "birdsystem",
+    "name": "BIRD SYSTEM LTD",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "biz-courier",
+    "name": "Biz Courier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bjytsywl",
+    "name": "BJYTSYWL",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "blexpress",
+    "name": "blexpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bljt56",
+    "name": "BAI LE JIE TONG",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bluecare",
+    "name": "Bluecare Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bluedart",
+    "name": "Bluedart",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "blueskyexpress",
+    "name": "Blue Sky Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bluex",
+    "name": "bluex",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bnexp",
+    "name": "Bona",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bombax",
+    "name": "Bombax",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bombino-express",
+    "name": "Bombino Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bondscouriers",
+    "name": "Bonds Couriers",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "border-express",
+    "name": "Border Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bosnia-and-herzegovina-post",
+    "name": "Bosnia And Herzegovina Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "botswana-post",
+    "name": "Botswana Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "boxberry",
+    "name": "Boxberry",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "boxc",
+    "name": "Boxc Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bqc",
+    "name": "BQC",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "brazil-correios",
+    "name": "Brazil Correios",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bri-ems",
+    "name": "Bridge",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bring",
+    "name": "Bring",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "brunei-post",
+    "name": "Brunei Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bsi",
+    "name": "BSI express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bt-exp",
+    "name": "LJS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "btd56",
+    "name": "Bao Tongda Freight Forwarding",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "buffaloex",
+    "name": "Buffalo",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "bulgaria-post",
+    "name": "Bulgaria Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "burundi-post",
+    "name": "Burundi Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "buylogic",
+    "name": "Buylogic",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cacesapostal",
+    "name": "Cacesa Postal",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cainiao",
+    "name": "Global Cainiao",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cambodia-post",
+    "name": "Cambodia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "campost",
+    "name": "Cameroon Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "canada-post",
+    "name": "Canada Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "canpar",
+    "name": "Canpar Courier",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "cargointl-de",
+    "name": "Cargo International",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cargus",
+    "name": "cargus",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "caribou",
+    "name": "CARIBOU",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cbl-logistica",
+    "name": "CBL Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cbtsd",
+    "name": "Better Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cdek",
+    "name": "CDEK Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cdek-tr",
+    "name": "CDEK Turkey",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cdl",
+    "name": "cdl",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "celeritastransporte",
+    "name": "Celeritas Transporte",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cess",
+    "name": "Cess",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ceva-logistics",
+    "name": "CEVA Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cgs-express",
+    "name": "CGS Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "changjiangexpress",
+    "name": "ChangJiang Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "chengfeng",
+    "name": "SY Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "china-ems",
+    "name": "China EMS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "china-post",
+    "name": "China Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "china-russia56",
+    "name": "China Russia56",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "chinapost-cb",
+    "name": "China Post E-commerce",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "chinastarlogistics",
+    "name": "ChinaStarLogistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "chinz56",
+    "name": "Chinz Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "chitchats",
+    "name": "Chit Chats",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "choice",
+    "name": "CHOICE Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "chronopost",
+    "name": "France EMS - Chronopost",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "chronopost-portugal",
+    "name": "Chronopost Portugal",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cht361",
+    "name": "CHT",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "chukou1",
+    "name": "Chukou1 Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "citisprint",
+    "name": "Citisprint",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cititrans",
+    "name": "cititrans",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "citylinkexpress",
+    "name": "City-Link Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cj-dropshipping",
+    "name": "CJ Packet",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cjlogistics",
+    "name": "CJ Logistics Global",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cjpacket",
+    "name": "Cjpacket",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "clevy-links",
+    "name": "Clevy Links",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cndexpress",
+    "name": "CND Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cnexps",
+    "name": "CNE Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cnilink",
+    "name": "CNILINK",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cnpex",
+    "name": "Cnpex",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "coe",
+    "name": "COE",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "colicoli",
+    "name": "Colicoli",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "colis-prive",
+    "name": "Colis Prive",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "colissimo",
+    "name": "Colissimo",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "collectplus",
+    "name": "Collect+",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "collivery",
+    "name": "collivery",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "colombia-post",
+    "name": "Colombia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "com1express",
+    "name": "ComOne Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cometcourier",
+    "name": "Comet Hellas",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "comethellas",
+    "name": "Comet Hellas",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "comexpress",
+    "name": "COMPASS EXPRESS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "con-way",
+    "name": "Con-way Freight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "connect-co",
+    "name": "ConnectCo",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "coordinadora",
+    "name": "Coordinadora",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "correios-cabo-verde",
+    "name": "Correios Cabo Verde",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "correo-argentino",
+    "name": "Argentina Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "correo-paraguayo",
+    "name": "Paraguay Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "correo-uy",
+    "name": "Correo Uruguayo",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "correos-bolivia",
+    "name": "Bolivia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "correos-del-ecuador",
+    "name": "Ecuador Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "correos-mexico",
+    "name": "Mexico Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "correos-panama",
+    "name": "Panama Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "correos-spain",
+    "name": "Correos Spain",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "correosexpress",
+    "name": "Correos Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cosco",
+    "name": "COSCO eGlobal",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cosex",
+    "name": "Cosex",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "costmeticsnow",
+    "name": "Cosmetics Now",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "courant-plus",
+    "name": "Courant",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "courier-center",
+    "name": "Courier Center",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "courier-it",
+    "name": "Courier IT",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "courierpost",
+    "name": "CourierPost",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "couriers-please",
+    "name": "Couriers Please express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cpex",
+    "name": "CPEX",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cpszy",
+    "name": "CPSZY",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "crazyexpress",
+    "name": "Crazy Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cre",
+    "name": "CRE",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "csd",
+    "name": "CSD Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cse",
+    "name": "CSE",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ctc-express",
+    "name": "CTC Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ctt",
+    "name": "Portugal Post - CTT",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ctt-express",
+    "name": "CTT Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cuba-post",
+    "name": "Cuba Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cubyn",
+    "name": "Cubyn",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cxc",
+    "name": "CXC",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cy-express",
+    "name": "CY Epxress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "cyprus-post",
+    "name": "Cyprus Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "czech-post",
+    "name": "Czech Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dachser",
+    "name": "Dachser",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dao365",
+    "name": "DAO365",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dawn-wing",
+    "name": "Dawn Wing",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dayross",
+    "name": "Day & Ross",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dbschenker",
+    "name": "DB Schenker",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ddexpress",
+    "name": "DD Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "decnlh",
+    "name": "decnlh",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dekun",
+    "name": "Dekun",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "delcart-in",
+    "name": "Delcart",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "delhivery",
+    "name": "Delhivery",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dellin",
+    "name": "Dellin",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "delnext",
+    "name": "Delnext",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "deltafille",
+    "name": "Trending Times",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "deltec-courier",
+    "name": "Deltec Courier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "denmark-post",
+    "name": "Denmark post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "deppon",
+    "name": "DEPPON",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "deutsche-post",
+    "name": "Deutsche Post",
+    "other_name": "",
+    "required_fields": [
+      "tracking_ship_date"
+    ]
+  },
+  {
+    "slug": "dex-i",
+    "name": "DEX-I",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dfglobalex",
+    "name": "dfglobalex",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dg-transporte",
+    "name": "DG Transporte",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "dhl",
+    "name": "DHL Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dhl-active",
+    "name": "DHL Active Tracing",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dhl-benelux",
+    "name": "DHL Benelux",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dhl-es",
+    "name": "DHL Spain Domestic",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dhl-germany",
+    "name": "DHL Germany",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dhl-global-logistics",
+    "name": "DHL Global Forwarding",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dhl-hong-kong",
+    "name": "DHL Hong Kong",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dhl-nl",
+    "name": "DHL Netherlands",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dhl-poland",
+    "name": "DHL Poland Domestic",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dhl-uk",
+    "name": "DHL Parcel UK",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dhlecommerce-asia",
+    "name": "DHL Global Mail Asia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dhlglobalmail",
+    "name": "DHL ECommerce",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dhlink",
+    "name": "Dhlink",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dhlparcel-nl",
+    "name": "DHL Parcel NL",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dicom",
+    "name": "Dicom",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "didadi",
+    "name": "DIDADI LOGISTICS TECH",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "doortodoor",
+    "name": "CJ Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dotzot",
+    "name": "Dotzot",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpd",
+    "name": "DPD",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "dpd-be",
+    "name": "DPD Belgium",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpd-brazil",
+    "name": "Jadlog Brazil",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpd-de",
+    "name": "DPD Germany",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpd-fr",
+    "name": "DPD-FR",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpd-hk",
+    "name": "DPD(HK)",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpd-ireland",
+    "name": "DPD Ireland",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpd-poland",
+    "name": "DPD Poland",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpd-por",
+    "name": "DPD Portugal",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpd-ro",
+    "name": "DPD Romania",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpd-ru",
+    "name": "DPD Russia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpd-uk",
+    "name": "DPD UK",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpe-express",
+    "name": "DPE Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpe-south-africa",
+    "name": "DPE South Africa",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dpex",
+    "name": "DPEX",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "driverfastgo",
+    "name": "Driverfastgo",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dsv",
+    "name": "DSV",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dtdc",
+    "name": "DTDC",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dtdc-plus",
+    "name": "DTDC Plus",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dwz",
+    "name": "DWZ Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "dxdelivery",
+    "name": "DX Delivery",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code",
+      "tracking_destination_country"
+    ]
+  },
+  {
+    "slug": "e-can",
+    "name": "Taiwan Pelican Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "e-commercekz",
+    "name": "e-Commerce KZ",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "earlybird",
+    "name": "Early Bird",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "easy-mail",
+    "name": "Easy Mail",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "easyship",
+    "name": "Easy Ship",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ebowxp",
+    "name": "EBO",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ec-firstclass",
+    "name": "EC-Firstclass",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ecargo-asia",
+    "name": "Ecargo",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "echo",
+    "name": "Echo",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ecms",
+    "name": "ECMS Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ecmsglobal",
+    "name": "Ecmsglobal",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ecom-express",
+    "name": "Ecom Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ecpost",
+    "name": "ECPOST",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ees-logistics",
+    "name": "ees-logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "efs",
+    "name": "EFS Asia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "efspost",
+    "name": "EFSPost",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ekart",
+    "name": "Ekart Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "el-salvador-post",
+    "name": "El Salvador Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "elcorreo",
+    "name": "Guatemala Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "elianpost",
+    "name": "E-lian",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "elitebio",
+    "name": "ELITEBIO",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "elog-luxembourg",
+    "name": "Elog Luxembourg",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "elta-courier-gr",
+    "name": "ELTA Courier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "emirates-post",
+    "name": "Emirates Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "emons",
+    "name": "Emons",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "empsexpress",
+    "name": "EMPS Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ems-post",
+    "name": "International EMS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "envfast",
+    "name": "EnvFast",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "envialia",
+    "name": "Envialia",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "epacket",
+    "name": "ePacket",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "eparcel-kr",
+    "name": "eParcel Korea",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "equick-cn",
+    "name": "Equick China",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "eretail",
+    "name": "eRetail Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "eritrea-post",
+    "name": "Eritrea Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "esnad",
+    "name": "ESNAD Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "espeedpost",
+    "name": "Espeedpost",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "espost",
+    "name": "Espost",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "estafeta",
+    "name": "Estafeta",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "estafetausa",
+    "name": "Estafeta USA",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "estes",
+    "name": "Estes",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "eteenlog",
+    "name": "ETEEN",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ethiopia-post",
+    "name": "Ethiopia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "etotal",
+    "name": "eTotal",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "etower",
+    "name": "etower",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ets-express",
+    "name": "ETS Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "euasia",
+    "name": "Euasia Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "eurodis",
+    "name": "Eurodis",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ewe",
+    "name": "EWE Global Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "exapaq",
+    "name": "DPD France",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "exelot",
+    "name": "Exelot",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "expeditors",
+    "name": "Expeditors",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "expresscourierintl",
+    "name": "Express Courier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "expressone",
+    "name": "Express One",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "eyoupost",
+    "name": "Eyou800",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fafalux",
+    "name": "fafalux",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "famiport",
+    "name": "Famiport",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "far800",
+    "name": "Far International Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "faroe-islands-post",
+    "name": "Faroe Islands Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fastdespatch",
+    "name": "Fast Despatch Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fastgo",
+    "name": "Fastgo",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fastrak-services",
+    "name": "Fastrak Services",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fastway-au",
+    "name": "Aramex Australia(Fastway Australia)",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fastway-ie",
+    "name": "Fastway Ireland",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fastway-nz",
+    "name": "Fastway New Zealand",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fastway-za",
+    "name": "Fastway South Africa",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fb56",
+    "name": "China Railway Flying Leopard",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fbb",
+    "name": "FAST BEE",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fd-express",
+    "name": "FD Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fedex",
+    "name": "Fedex",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fedex-fims",
+    "name": "Fedex FIMS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fedex-freight",
+    "name": "Fedex Freight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fedex-ground",
+    "name": "FedEx Ground",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fedex-uk",
+    "name": "FedEx UK",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fetchr",
+    "name": "Fetchr",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fgmailconnect",
+    "name": "fgmailconnect",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fietskoeriers",
+    "name": "fietskoeriers",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "fiji-post",
+    "name": "Fiji Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "finland-posti",
+    "name": "Finland Post - Posti",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "first-flight",
+    "name": "First Flight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "firstflightme",
+    "name": "First Flight Couriers",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "firstline56",
+    "name": "First Line",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "firstmile",
+    "name": "FirstMile",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "flashexpress",
+    "name": "Flash Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "flashexpress-ph",
+    "name": "FlashExpress PH",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "flow-io",
+    "name": "Flow Commerce",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "flysman",
+    "name": "FLYSMAN",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "flytexpress",
+    "name": "Flyt Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "flywayex",
+    "name": "Flyway Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fmx",
+    "name": "eFMX",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fourseasonsfly",
+    "name": "fourseasonsfly",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fragt",
+    "name": "Danske Fragtm\u00e6nd",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "freightquote",
+    "name": "Freightquote",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ftd",
+    "name": "FTD Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fujexp",
+    "name": "FUJIE Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "fulfillmen",
+    "name": "Fulfillmen",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gaopost",
+    "name": "Gao Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gati-kwe",
+    "name": "Gati-KWE",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gaticn",
+    "name": "GATI Courier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gdex",
+    "name": "GDEX",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gdwse",
+    "name": "WSE Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "geis-cz",
+    "name": "Geis CZ",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gel-express",
+    "name": "GEL Express",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "geodis",
+    "name": "Geodis",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "georgian-post",
+    "name": "Georgia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "geswl",
+    "name": "Yisu International Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ghana-post",
+    "name": "Ghana Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ghn",
+    "name": "Giao H\u00e0ng Nhanh",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "giantpost",
+    "name": "GIANT EXPRESS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gibraltar-post",
+    "name": "Gibraltar Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "global-leader",
+    "name": "Global Leader",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "global-routers",
+    "name": "Echindia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "globegistics",
+    "name": "Globegistics Inc.",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gls",
+    "name": "GLS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gls-es",
+    "name": "GLS Spain",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "gls-italy",
+    "name": "GLS Italy",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gls-nl",
+    "name": "GLS Netherland",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "gls-pl",
+    "name": "GLS PL",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gls-us",
+    "name": "GLS US",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "goex",
+    "name": "Go Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gofly",
+    "name": "Gofly",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "goglobalpost",
+    "name": "Goglobal Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gogo-xpress",
+    "name": "GOGO Xpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gojavas",
+    "name": "GoJavas",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gotofreight",
+    "name": "Gotofreight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "grandslamexpress",
+    "name": "Grand Slam Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "greece-post",
+    "name": "ELTA Hellenic Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "greyhound",
+    "name": "Greyhound",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "grupoampm",
+    "name": "Grupo ampm",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gti",
+    "name": "GTI",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gttexpress",
+    "name": "GTTEXPRESS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "guangdongyongbang",
+    "name": "Yong Bang",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "guernsey-post",
+    "name": "Guernsey Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "gzxdgyl",
+    "name": "XiangDao Supply Chain",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "happy-post",
+    "name": "Happy Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hct",
+    "name": "HCT Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hdc-express",
+    "name": "HD Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hellmann",
+    "name": "Hellmann",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hermes",
+    "name": "Hermesworld",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hermes-borderguru",
+    "name": "Hermes Borderguru",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hermes-de",
+    "name": "Hermes Germany",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hermes-uk",
+    "name": "Evri(Hermes UK)",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hfd",
+    "name": "HFD",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code",
+      "tracking_account_number"
+    ]
+  },
+  {
+    "slug": "hhexp",
+    "name": "Hua Han Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hhyexpress",
+    "name": "HHY Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hi-life",
+    "name": "Hi Life",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hivewms",
+    "name": "HiveWMS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hjwl",
+    "name": "HJWL",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hjyt56",
+    "name": "HJYT Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hkdexpress",
+    "name": "HKD",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hkems",
+    "name": "Cloud mail cross border Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hlihang-express",
+    "name": "Hlihang Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hnfywl",
+    "name": "Hnfywl",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "holisol",
+    "name": "Holisol",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hong-kong-post",
+    "name": "Hong Kong Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hotwms",
+    "name": "HOTWMS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hound",
+    "name": "hound",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hrparcel",
+    "name": "HR Parcel",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hrvatska-posta",
+    "name": "Croatia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ht56",
+    "name": "Hong Tai",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "htkjwl",
+    "name": "HuanTong Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "huanshid",
+    "name": "Huanshid",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "huaxiexpress",
+    "name": "Hua Xi",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "huayu",
+    "name": "Hua Yu",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "huidaex",
+    "name": "Huida Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "huif56",
+    "name": "Hui Feng Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "huilin56",
+    "name": "HuiLin56",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "huilogistics",
+    "name": "Hui Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "huisenky",
+    "name": "HuiSenKy",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hxgj56",
+    "name": "Hanxuan international express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "hzchgj",
+    "name": "CH EXPRESS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "i-parcel",
+    "name": "I-parcel",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "iceland-post",
+    "name": "Iceland Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "icumulus",
+    "name": "iCumulus Global Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "idada56",
+    "name": "Dada logistic",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "idexpress",
+    "name": "IDEX",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "iepost",
+    "name": "IEPost",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "igcaexpress",
+    "name": "Igcaexpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "imexglobalsolutions",
+    "name": "IMEX Global Solutions",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "imile",
+    "name": "iMile",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "imlb2c",
+    "name": "IML Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "imlexpres",
+    "name": "IML",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "india-post",
+    "name": "India Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "indonesia-post",
+    "name": "Indonesia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "inposdom",
+    "name": "Dominican Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "inpost-paczkomaty",
+    "name": "InPost Paczkomaty",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "intelcom",
+    "name": "intelcom",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "international-seur",
+    "name": "Spanish Seur",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code",
+      "tracking_account_number"
+    ]
+  },
+  {
+    "slug": "interparcel-au",
+    "name": "Interparcel Au",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "interparcel-uk",
+    "name": "Interparcel Uk",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "intexpress",
+    "name": "Intexpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "iposita-rwanda",
+    "name": "Rwanda Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "iran-post",
+    "name": "Iran Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "israel-post",
+    "name": "Israel Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "isunnyway",
+    "name": "Sunnyway",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "italy-sda",
+    "name": "Italy SDA",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ivory-coast-ems",
+    "name": "Ivory Coast EMS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "j-net",
+    "name": "J-NET Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jam-express",
+    "name": "Jam Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jamaica-post",
+    "name": "Jamaica Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "janco",
+    "name": "Janco Ecommerce",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jancoexpress",
+    "name": "Janco Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "janio",
+    "name": "Janio Asia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "japan-post",
+    "name": "Japan Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jayeek",
+    "name": "Jayeek",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jayonexpress",
+    "name": "Jayon Express (JEX)",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jcex",
+    "name": "JCEX",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jcsuda",
+    "name": "Jcsuda",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jd",
+    "name": "JD Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jd-168",
+    "name": "JD-168",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jd-logistics",
+    "name": "JD Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jdiex",
+    "name": "JDIEX",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jdy",
+    "name": "JINDOUYUN Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jersey-post",
+    "name": "Jersey Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jet",
+    "name": "JET Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jet-global",
+    "name": "Jet Global Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jet-ship",
+    "name": "Jet-Ship Worldwide",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jetlogistic",
+    "name": "Jetlogistic",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jetstarexp",
+    "name": "Jetstarexp",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jiachenexpress",
+    "name": "JIACHEN INTERNATIONAL",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jiayi56",
+    "name": "Jiayi Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jieborne",
+    "name": "Jieborne",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jne",
+    "name": "jne",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "joeyco",
+    "name": "JoeyCo",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "joomlogistics",
+    "name": "joomlogistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jordan-post",
+    "name": "Jordan Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "joying-box",
+    "name": "JOYING BOX",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "js-exp",
+    "name": "JS EXPRESS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jssdt56",
+    "name": "SDT",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jt-express",
+    "name": "JT Express VN",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jt-express-sg",
+    "name": "JT Express SG",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jt-express-th",
+    "name": "JT Express TH",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "jtexpress",
+    "name": "JT Express CN",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jtexpress-my",
+    "name": "JT Express MY",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "jtexpress-ph",
+    "name": "JT Express PH",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jtexpress-vn",
+    "name": "jtexpress-vn",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "jumstc",
+    "name": "Jumstc",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kahaexpress",
+    "name": "Kaha Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kaigenlogistics",
+    "name": "Kaigenlogistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kajie",
+    "name": "Ka Jie",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kangaroo-my",
+    "name": "Kangaroo Worldwide Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kawa",
+    "name": "Kawa",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kazpost",
+    "name": "Kazakhstan Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kenya-post",
+    "name": "Kenya Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kerry-ecommerce",
+    "name": "Kerry eCommerce",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kerry-logistics",
+    "name": "Kerry Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kerry-tec",
+    "name": "Kerry Tec",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kerryexpress",
+    "name": "Kerry Express VN",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kerryexpress-th",
+    "name": "Kerry Express TH",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kerrytj",
+    "name": "Kerry TJ Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kgmhub",
+    "name": "KGM Hub",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kingfreight",
+    "name": "King Freight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kingruns",
+    "name": "KINGRUNS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kjkd",
+    "name": "Fast Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kjy",
+    "name": "KJY Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kke",
+    "name": "King Kong Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "komonexpress",
+    "name": "KOMON EXPRESS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "korea-post",
+    "name": "Korea Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kuaidaexp",
+    "name": "King Delivery",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kuajingyihao",
+    "name": "K1 Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kuehne",
+    "name": "Kuehne Nagel",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kurasi",
+    "name": "Kurasi",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kwe",
+    "name": "Kintetsu World Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kwt56",
+    "name": "KWT Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kye",
+    "name": "KUAYUE EXPRESS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "kyrgyzpost",
+    "name": "Kyrgyzstan Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "la-poste-monaco",
+    "name": "Monaco Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lahuoex",
+    "name": "La Huo Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "landmark-global",
+    "name": "Landmark Global",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "laos-post",
+    "name": "Laos Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "laposte",
+    "name": "La Poste",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lasership",
+    "name": "LaserShip",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "latvijas-pasts",
+    "name": "Latvia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lbcexpress",
+    "name": "LBC Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lbexps",
+    "name": "LiBang International Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ldlog",
+    "name": "LD Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ldxpress",
+    "name": "LDXpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "leda-express",
+    "name": "LD Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ledii",
+    "name": "Ledii",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "legionexp",
+    "name": "Legion Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "leopardschina",
+    "name": "Leopards Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lesotho-post",
+    "name": "Lesotho Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lexship",
+    "name": "Lexship",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lf-express",
+    "name": "LF Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lhexpressus",
+    "name": "UNICON EXPRESS USA",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lhtex",
+    "name": "LHT Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "liban-post",
+    "name": "Lebanon Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "liccardi-express",
+    "name": "LICCARDI",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "liechtenstein-post",
+    "name": "Liechtenstein Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lietuvos-pastas",
+    "name": "Lithuania Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "line-1",
+    "name": "Line-1 International Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "line-clear",
+    "name": "Line Clear Express & Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lineclearexpress",
+    "name": "Lineclear Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "linexsolutions",
+    "name": "Linex",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lingsong",
+    "name": "LingSong",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lmparcel",
+    "name": "LM Parcel",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "logisters",
+    "name": "Logisters",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "logistics",
+    "name": "WEL",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lonestar",
+    "name": "Lonestar",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "longcps",
+    "name": "LONGCPS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "loomis",
+    "name": "Loomis Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lpexpress",
+    "name": "LP Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lso",
+    "name": "Lone Star Overnight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ltexp",
+    "name": "Ltexp",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ltian",
+    "name": "Ltian",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lubang56",
+    "name": "LuBang56",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "luben",
+    "name": "Luben",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "luxembourg-post",
+    "name": "Luxembourg Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "lwehk",
+    "name": "LWE",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "m-xpress",
+    "name": "Mxpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "macao-post",
+    "name": "Macao Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "macedonia-post",
+    "name": "Macedonia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "madhur-couriers",
+    "name": "Madhur Couriers",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "madrooex",
+    "name": "madrooex",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "magyar-posta",
+    "name": "Magyar Posta",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mailamericas",
+    "name": "MailAmericas",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mainfreight",
+    "name": "Mainfreight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "malaysia-post",
+    "name": "Malaysia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "maldives-post",
+    "name": "Maldives Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "malta-post",
+    "name": "Malta Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "maratrack",
+    "name": "Maratrack",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "matdespatch",
+    "name": "Matdespatch",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "matkahuolto",
+    "name": "Matkahuolto",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mauritius-post",
+    "name": "Mauritius Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "maxcellents",
+    "name": "Maxcellents Pte Ltd",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "maxeedexpress",
+    "name": "maxeedexpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "maxway",
+    "name": "Maxway Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mbe",
+    "name": "Mail Boxed Etc",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "md-express",
+    "name": "MC Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "meest",
+    "name": "Meest Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mhsy88",
+    "name": "Mhsy88",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mircoexpress",
+    "name": "mircoexpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "miuson-international",
+    "name": "Miuson Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mm-logi",
+    "name": "MM-logi",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "moldova-post",
+    "name": "Moldova Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "monaco-ems",
+    "name": "Monaco EMS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mondialrelay",
+    "name": "Mondial Relay",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "mongol-post",
+    "name": "Mongol Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "morning",
+    "name": "Morning Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "morninglobal",
+    "name": "Morning Global",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mrw-spain",
+    "name": "MRW",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "myaustrianpost",
+    "name": "GmbH",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mydpd",
+    "name": "DPD Austria",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "myib",
+    "name": "MyIB",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mykn",
+    "name": "myKN",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mylerz",
+    "name": "Mylerz",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mypostonline",
+    "name": "Mypostonline",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mz56",
+    "name": "mz56",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "mzlyuanhao",
+    "name": "Yuan Hao",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "namibia-post",
+    "name": "Namibia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "nanjingwoyuan",
+    "name": "Nanjing Woyuan",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "naqel",
+    "name": "Naqel",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "nationwide-my",
+    "name": "Nationwide Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "nege-it",
+    "name": "UAB N\u0117g\u0117",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "netherlands-post",
+    "name": "Netherlands Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "new-caledonia-post",
+    "name": "New Caledonia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "new-zealand-post",
+    "name": "New Zealand Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "neway",
+    "name": "Neway",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "newgistics",
+    "name": "Newgistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "nexive",
+    "name": "Nexive",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "nextsmartship",
+    "name": "nextsmartship",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "nhans-solutions",
+    "name": "Nhans Solutions",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "nicaragua-post",
+    "name": "Nicaragua Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "nigeria-post",
+    "name": "Nigeria Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "nightline",
+    "name": "Nightline",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ninjavan",
+    "name": "Ninja Van Singapore",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ninjavan-my",
+    "name": "Ninja Van Malaysia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ninjavan-ph",
+    "name": "Ninja Van Philippines",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ninjavan-th",
+    "name": "Ninja Van Thailand",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ninjavan-vn",
+    "name": "Ninja Van Vietnam",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ninjaxpress",
+    "name": "Ninja Van Indonesia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "nippon",
+    "name": "Nippon Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "njfeibao",
+    "name": "Flying Leopards Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "norsk",
+    "name": "Norsk Global",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "nova-poshta",
+    "name": "Nova Poshta",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "nox-nighttimeexpress",
+    "name": "NOX Night Time Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ntlogistics-vn",
+    "name": "NT Logistics VN",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ntlsgj",
+    "name": "LvSe International",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "nzcouriers",
+    "name": "NZCouriers",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ocs",
+    "name": "OCS India",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ocs-worldwide",
+    "name": "OCS Worldwide",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ocschina",
+    "name": "OCS Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ogilogistic",
+    "name": "Guangzhou Onegoal International Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "old-dominion",
+    "name": "Old Dominion Freight Line",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "oman-post",
+    "name": "Oman Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "omni2",
+    "name": "Omni2",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "omniparcel",
+    "name": "Omni Parcel",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "omniva",
+    "name": "Estonia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "oneworldexpress",
+    "name": "One World Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ontrac",
+    "name": "OnTrac",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "opek",
+    "name": "FedEx Poland Domestic",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "orangeconnex",
+    "name": "ORANGE CONNEX",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "orangeds",
+    "name": "OrangeDS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "osmworldwide",
+    "name": "OSM Worldwide",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "overseas-logistics",
+    "name": "Overseas Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "overseas-territory-fr-ems",
+    "name": "Overseas Territory FR EMS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "overseas-territory-us-post",
+    "name": "Overseas Territory US Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "packeta",
+    "name": "Packeta",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "packlink",
+    "name": "Packlink",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "padtf",
+    "name": "Padtf",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pakistan-post",
+    "name": "Pakistan Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "palletways",
+    "name": "Palletways",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "pan-asia",
+    "name": "Pan-Asia International",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pandulogistics",
+    "name": "Pandu Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "paquet",
+    "name": "Paquet Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "parcel-force",
+    "name": "Parcel Force",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pargo",
+    "name": "Pargo",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "passtheparcel",
+    "name": "Pass The Parcel",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "payport",
+    "name": "Parcelport",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pca",
+    "name": "PCA",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pfcexpress",
+    "name": "PFC Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pflogistics",
+    "name": "Parcel Freight Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "phlpost",
+    "name": "Philippines Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pickrr",
+    "name": "Pickrr",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pickupp",
+    "name": "Pickupp",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pickupp-mys",
+    "name": "Pickupp",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pidge",
+    "name": "Pidge",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pilot",
+    "name": "Pilot",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pitneybowes",
+    "name": "Pitney Bowes",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pitneybowes1",
+    "name": "Pitneybowes1",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pittohio",
+    "name": "Pitt Ohio",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "poczta-polska",
+    "name": "Poland Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "polarexpress",
+    "name": "Polar Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pony-express",
+    "name": "Pony Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "poslaju",
+    "name": "PosLaju",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "posta-crne-gore",
+    "name": "Montenegro Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "posta-romana",
+    "name": "Romania Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "posta-shqiptare",
+    "name": "Albania Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "postaplus",
+    "name": "PostaPlus",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "poste-italiane",
+    "name": "Poste Italiane",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "poste-maroc",
+    "name": "Maroc Poste",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "posten-norge",
+    "name": "Posten Norge",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "posthaste",
+    "name": "Post Haste",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "postnl-3s",
+    "name": "Netherland Post - PostNL",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code",
+      "tracking_destination_country"
+    ]
+  },
+  {
+    "slug": "postnl-parcels",
+    "name": "PostNL International",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "postone",
+    "name": "Post One",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "postpng",
+    "name": "Papua New Guinea Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ppl-cz",
+    "name": "PPL CZ",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pressiode",
+    "name": "Pressiode",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "professional-couriers",
+    "name": "The Professional Couriers (TPC)",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "promeddelivery",
+    "name": "ProMed Deliversy",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "purolator",
+    "name": "Purolator",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "pushpak-courier",
+    "name": "Pushpak Courier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "qatar-post",
+    "name": "Qatar Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "qexlogistics",
+    "name": "Qexlogistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "qexpress",
+    "name": "QEXPRESS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "qfkd",
+    "name": "QFKD Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "qhxyyg",
+    "name": "Qhxyyg",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "qi-eleven",
+    "name": "7-ELEVEN",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "qichen",
+    "name": "venucia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "qiyue",
+    "name": "Qiyue Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "qlinyun",
+    "name": "QLINYUN",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "quantium",
+    "name": "Quantium",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "quickway",
+    "name": "QuicKway",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "quikenmx",
+    "name": "QuikenMx",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "quiqup",
+    "name": "Quiqup",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "qwintry",
+    "name": "Qwintry Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "qxpress",
+    "name": "Qxpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "qyexp",
+    "name": "QYEXP",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "raben-group",
+    "name": "Raben Group",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "raf",
+    "name": "RAF Philippines",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "raiderex",
+    "name": "RaidereX",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ram",
+    "name": "Ram",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "redchains",
+    "name": "RedC",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "redpack-mexico",
+    "name": "Redpack Mexico",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "redur-es",
+    "name": "Redur Spain",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "renrenex",
+    "name": "Renrenex",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "rl-carriers",
+    "name": "RL Carriers",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "roadbull",
+    "name": "Roadbull Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "rosan",
+    "name": "ROSAN EXPRESS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "royal-international",
+    "name": "Royal International",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "royal-mail",
+    "name": "UK Royal Mail",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "royal-shipments",
+    "name": "Royal Shipments",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "rpx",
+    "name": "RPX Indonesia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "rpxonline",
+    "name": "RPX Online",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "rrdonnelley",
+    "name": "RR Donnelley",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "rrs",
+    "name": "RRS Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "rrts",
+    "name": "Roadrunner Freight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "rufengda",
+    "name": "Rufengda",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "runbail",
+    "name": "Run Bai Internation",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "russian-post",
+    "name": "Russian Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ruston",
+    "name": "Ruston",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "rzyexpress",
+    "name": "RZY Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "safexpress",
+    "name": "Safexpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sagawa",
+    "name": "Sagawa",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sagawa-global",
+    "name": "Sagawa Global",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "saia-freight",
+    "name": "Saia LTL Freight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "saicheng",
+    "name": "Sai Cheng Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sailpost",
+    "name": "Sailpost",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "saint-lucia-post",
+    "name": "Saint Lucia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sameday",
+    "name": "sameday",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "samoa-post",
+    "name": "Samoa Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "san-marino-post",
+    "name": "San Marino Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sap-express",
+    "name": "SAP Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "saudi-post",
+    "name": "Saudi Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "scaexpress",
+    "name": "Sca Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "scg-express",
+    "name": "SCG Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sdhexpress",
+    "name": "SDH Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sdk-express",
+    "name": "SDK Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sdto",
+    "name": "Sdto",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "se-freightlines",
+    "name": "Southeastern Freightlines",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "seino",
+    "name": "SEINO(\u897f\u6fc3\u904b\u8f38)",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sendex",
+    "name": "Sendex",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sendle",
+    "name": "Sendle",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "senegal-post",
+    "name": "Senegal Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "serbia-post",
+    "name": "Serbia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "serpost",
+    "name": "Serpost",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "setel",
+    "name": "Setel Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "seychelles-post",
+    "name": "Seychelles Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sf-express",
+    "name": "Domestic SF Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sfb2c",
+    "name": "SF International Small Packet",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sfcservice",
+    "name": "SFC Service",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sfwl",
+    "name": "sfwl",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sgt-it",
+    "name": "SGT Corriere Espresso",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sgtwl",
+    "name": "SGT Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "shadowfax",
+    "name": "Shadowfax",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "shangqiao56",
+    "name": "Shang Qiao",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ship-it-asia",
+    "name": "Ship It Asia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "shipa",
+    "name": "Shipa",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "shipentegra",
+    "name": "ShipEntegra",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "shipgce",
+    "name": "Shipgce Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "shiprocket",
+    "name": "Shiprocket",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "showl",
+    "name": "Showl",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "shree-mahabali-express",
+    "name": "Shree Mahabali Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "shree-nandan",
+    "name": "Shree Nandan Courier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "shree-tirupati",
+    "name": "Shree Tirupati Courier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "shreemaruticourier",
+    "name": "Shree Maruti Courier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "shunchangguoji",
+    "name": "Shun Chang International",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sicepat",
+    "name": "Sicepat Ekspres",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "singapore-post",
+    "name": "Singapore Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sinoair",
+    "name": "SINOAIR",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "siodemka",
+    "name": "Siodemka",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sja56",
+    "name": "Sja56",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sjtsz",
+    "name": "SJTSZ Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "skr56",
+    "name": "SKR InterNational",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sky-postal",
+    "name": "SKY Postal",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "skybox",
+    "name": "skybox",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "skyex",
+    "name": "Sky Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "skynet",
+    "name": "SkyNet Malaysia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "skynet-za",
+    "name": "Skynet South Africa",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "skynetworldwide",
+    "name": "SkyNet Worldwide Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "skynetworldwide-uk",
+    "name": "Skynet Worldwide Express UK",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "slovakia-post",
+    "name": "Slovakia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "slovenia-post",
+    "name": "Slovenia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "smart-delivery",
+    "name": "Smart Delivery",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "smartcat",
+    "name": "Smartcat",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "smartr",
+    "name": "Smartr Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "smooth",
+    "name": "Smooth Parcel",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "smsa-express",
+    "name": "SMSA Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "solidlogistics",
+    "name": "Solid Logistcs",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "solomon-post",
+    "name": "Solomon Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sonapost",
+    "name": "Burkina Faso Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "south-africa-post",
+    "name": "South African Post Office",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "southamericapost",
+    "name": "South American Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "specialised-freight",
+    "name": "Specialised Freight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "speed-post",
+    "name": "Speed Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "speedaf",
+    "name": "Speedaf Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "speedee",
+    "name": "Spee-Dee Delivery",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "speedexcourier",
+    "name": "Speedex Courier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "speedpak",
+    "name": "SpeedPAK",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "spoton",
+    "name": "Spoton Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "spring-gds",
+    "name": "Spring GDS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sprintpack",
+    "name": "SprintPack",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "spsr",
+    "name": "SPSR",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "spx-id",
+    "name": "SPX ID",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "spx-my",
+    "name": "SPX MY",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "spx-ph",
+    "name": "SPX PH",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "spx-vn",
+    "name": "SPX VN",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "srekorea",
+    "name": "SRE Korea",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sri-lanka-post",
+    "name": "Sri Lanka Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ssd",
+    "name": "Ssd",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "stallionexpress",
+    "name": "Stallion Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "star-track",
+    "name": "StarTrack",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "starglobal",
+    "name": "Star Global",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "starken",
+    "name": "Starken",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ste56",
+    "name": "Suteng Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "stepforwardfs",
+    "name": "Step Forward Freight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sto",
+    "name": "STO Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "stone3pl",
+    "name": "STONE3PL",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sudan-post",
+    "name": "Sudan Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sumxpress",
+    "name": "Sum Xpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "suning",
+    "name": "SUNING",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sunjex",
+    "name": "Xinjie Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sunyou",
+    "name": "Sunyou",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "super-ton",
+    "name": "Superton",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "superb-express",
+    "name": "Superb Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "superoz",
+    "name": "SuperOZ Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sure56",
+    "name": "Sure56",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "suyd56",
+    "name": "SYD Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "svgpost",
+    "name": "Saint Vincent And The Grenadines",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sweden-posten",
+    "name": "Sweden Posten",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "swiship-au",
+    "name": "FBA AU Swiship",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "swiship-ca",
+    "name": "FBA CA Swiship",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "swiship-de",
+    "name": "FBA DE Swiship",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "swiship-es",
+    "name": "FBA ES Swiship",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "swiship-fr",
+    "name": "FBA FR Swiship",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "swiship-it",
+    "name": "FBA IT Swiship",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "swiship-jp",
+    "name": "FBA JP Swiship",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "swiship-uk",
+    "name": "FBA UK Swiship",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "swiship-usa",
+    "name": "FBA USA Swiship",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "swiss-post",
+    "name": "Swiss Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sxexpress",
+    "name": "SX-Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "sxjdfreight",
+    "name": "SXJD",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "syrian-post",
+    "name": "Syrian Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "szdpex",
+    "name": "DPEX China",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "szendex",
+    "name": "Szendex",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "szjiuz",
+    "name": "JIUZHOU Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "szpago",
+    "name": "Pago Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "szuem",
+    "name": "Szuem",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "szyn",
+    "name": "YingNuo Supply Chain",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "t-cat",
+    "name": "T Cat",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "taijin-logistics",
+    "name": "Taijin-logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "taimek",
+    "name": "Taimek",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "taiwan-post",
+    "name": "Chunghwa POST",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "takesend",
+    "name": "Takesend Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tanzania-post",
+    "name": "Tanzania Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "taoplus",
+    "name": "Taoplus",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "taqbin-hk",
+    "name": "TAQBIN Hong Kong",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "taqbin-jp",
+    "name": "Yamato Japan",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "taqbin-my",
+    "name": "TAQBIN Malaysia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tarrive",
+    "name": "TONGDA Global",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tascourier",
+    "name": "TAScourier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "taxydromiki",
+    "name": "Geniki Taxydromiki",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tci",
+    "name": "TCI Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tcs-express",
+    "name": "TCS Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tele-post",
+    "name": "Greenland Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tforce",
+    "name": "TForce Final Mile",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tgx",
+    "name": "TGX",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "thabit-logistics",
+    "name": "Thabit Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "thailand-post",
+    "name": "Thailand Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "thecourierguy",
+    "name": "The Courier Guy",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "thecourierguy-co",
+    "name": "The Courier Guy Co",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "thelorry",
+    "name": "The Lorry",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tianyun",
+    "name": "Tianyun International",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "timelytitan",
+    "name": "Timelytitan",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tip-sa",
+    "name": "TIPSA",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tk-kit",
+    "name": "Tk Kit",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tmw-express",
+    "name": "Tmw Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tnt",
+    "name": "TNT",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tnt-au",
+    "name": "TNT Australia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tnt-click",
+    "name": "TNT Click",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tnt-fr",
+    "name": "TNT France",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tnt-it",
+    "name": "TNT Italy",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tnt-lt",
+    "name": "TNT LT",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tnt-reference",
+    "name": "TNT Reference",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tnt-uk",
+    "name": "TNT UK",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "togo-post",
+    "name": "Togo Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "toll",
+    "name": "TOLL",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "toll-ipec",
+    "name": "Toll IPEC",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tonga-post",
+    "name": "Tonga Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "topdser",
+    "name": "TD Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "topyou",
+    "name": "TopYou",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tracknator",
+    "name": "Tracknator",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "trackon",
+    "name": "Trackon Courier",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "trackyourparcel",
+    "name": "Trackyourparcel",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code",
+      "tracking_destination_country"
+    ]
+  },
+  {
+    "slug": "trakpak",
+    "name": "P2P TrakPak",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "transrush",
+    "name": "Transrush",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tstexp",
+    "name": "Tstexp",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ttkd",
+    "name": "TTKD Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ttkeurope",
+    "name": "Ttkeurope",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tunisia-post",
+    "name": "Tunisia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "turkey-post",
+    "name": "Turkey Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "turkmenistan-post",
+    "name": "Turkmenistan Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tuvalu-post",
+    "name": "Tuvalu Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "twth",
+    "name": "TT Sucha",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tzgjwl",
+    "name": "Tianzheng International Freight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "tzky",
+    "name": "Tzky",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "u-speedex",
+    "name": "U-Speed Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ubi-logistics",
+    "name": "UBI Smart Parcel",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ubonex",
+    "name": "UBon Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ubx-uk",
+    "name": "UBX Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "uc-express",
+    "name": "UC Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ueq",
+    "name": "UEQ",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "uganda-post",
+    "name": "Uganda Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "uhiexpress",
+    "name": "Youhai International Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ukmail",
+    "name": "UK Mail",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ukraine-ems",
+    "name": "Ukraine EMS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ukraine-post",
+    "name": "Ukraine Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "uktracking-asendia",
+    "name": "UK Asendia",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "un-line",
+    "name": "Un-line",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "uni",
+    "name": "UniUni",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "uniteddeliveryservice",
+    "name": "United Delivery Services",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ups",
+    "name": "UPS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ups-freight",
+    "name": "UPS Freight",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ups-ground",
+    "name": "UPS Ground",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ups-mail-innovations",
+    "name": "UPS Mail Innovations",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ups-mi",
+    "name": "UPS Mail Innovations",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "upu",
+    "name": "UPU",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "uruguay-post",
+    "name": "Uruguay Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "urvaam",
+    "name": "urvaam",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "usasd",
+    "name": "Usasd",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "uskyexpress",
+    "name": "Usky",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "usps",
+    "name": "USPS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "utec",
+    "name": "utec",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "uvan",
+    "name": "UVAN Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "uzbekistan-ems",
+    "name": "Uzbekistan EMS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "uzbekistan-post",
+    "name": "Uzbekistan Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "v-xpress",
+    "name": "V-Xpress",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "valueway",
+    "name": "VALUEWAY",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "vanuatu-post",
+    "name": "Vanuatu Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "venipak",
+    "name": "Venipak",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "vietnam-post",
+    "name": "Vietnam Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "viettelpost",
+    "name": "Viettel Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "vncpost",
+    "name": "VNCPost",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "vova-logistics",
+    "name": "VOVA Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "wahana",
+    "name": "Wahana",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "wanbexpress",
+    "name": "Wanb Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "weaship",
+    "name": "Weaship",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "wedo",
+    "name": "WeDo Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "weworld-express",
+    "name": "We World Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "whistl",
+    "name": "Whistl",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "winit",
+    "name": "Winit",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "winlink",
+    "name": "Winlink logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "wise-express",
+    "name": "Wise Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "wiseloads",
+    "name": "Wiseloads",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "wishpost",
+    "name": "WishPost",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "wizmo",
+    "name": "Wizmo",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "wmycc",
+    "name": "Wanmeng",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "wndirect",
+    "name": "wnDirect",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "world-express",
+    "name": "World Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "worldwide-logistics",
+    "name": "Worldwide Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "wsgd-logistics",
+    "name": "WSGD Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "wyngs",
+    "name": "Wyngs",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xde",
+    "name": "XDE Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xdexpress",
+    "name": "XDEXPRESS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xdp-uk",
+    "name": "XDP Express",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "xend",
+    "name": "Xend Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xf-lt56",
+    "name": "XF-lt56",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xingyunyi",
+    "name": "XingYunYi",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xlobo",
+    "name": "Xlobo",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xpost",
+    "name": "XPOST",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xpoweb",
+    "name": "XPO Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xpressbees",
+    "name": "XpressBees",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xpresspost",
+    "name": "xpresspost",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xqwl",
+    "name": "XQ Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xru",
+    "name": "XRU",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xs-exp",
+    "name": "Xin Shu Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "xtl",
+    "name": "Xun Tian International",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yadex",
+    "name": "Yadex",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yakit",
+    "name": "yakit",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yanwen",
+    "name": "YANWEN",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ybdexpress",
+    "name": "Ybd Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ydexp",
+    "name": "Yide International Freight Forwarder",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ydhex",
+    "name": "YDH",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yemen-post",
+    "name": "Yemen Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yfhex",
+    "name": "YFHEX LOGISTICS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yht",
+    "name": "Eshipping Gateway",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yhtlogistics",
+    "name": "Hanghangtong Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yidingmu",
+    "name": "Monotetrad",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yimidida",
+    "name": "YMDD",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yiyuan",
+    "name": "YiYuan",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yji",
+    "name": "YJI",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yjs-china",
+    "name": "Yjs-China",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ylexp",
+    "name": "Yi Long Exp",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ymy",
+    "name": "Yong Man Yi",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yodel",
+    "name": "Yodel",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "yoseus",
+    "name": "Yousheng International Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "youban",
+    "name": "Postal State International",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yto",
+    "name": "YTO Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yue777",
+    "name": "Yuema Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yujtong",
+    "name": "Yujietong",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yunda",
+    "name": "Yunda Express",
+    "other_name": "",
+    "required_fields": [
+      "tracking_postal_code"
+    ]
+  },
+  {
+    "slug": "yunexpress",
+    "name": "Yun Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yunhui",
+    "name": "YunHui Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yunlu",
+    "name": "YL express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yuteng",
+    "name": "YuTeng Worldwide",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yxilogistics",
+    "name": "Yue Xi Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "yz-ex",
+    "name": "SLICITY",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zajil",
+    "name": "Zajil",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zambia-post",
+    "name": "Zambia Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zeleris",
+    "name": "Zeleris",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zes-express",
+    "name": "ESHUN International Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zhiguil",
+    "name": "Zhigu special goods",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zhiteng",
+    "name": "Zhi Teng Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zhonghuanus",
+    "name": "Central Transit",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zhongsu",
+    "name": "ZHONGSU International",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zhuozhi",
+    "name": "Top Ideal Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zim",
+    "name": "ZIM Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zimbabwe-post",
+    "name": "Zimbabwe Post",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zinc",
+    "name": "Zinc",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zip-ph",
+    "name": "Zip Philippines",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zjcy56",
+    "name": "zjcy56",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zjs-express",
+    "name": "ZJS International",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zlwww",
+    "name": "ZhongLu Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zmcexpress",
+    "name": "ZMC EXPRESS",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zrtl",
+    "name": "Zhongrong Tailong",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ztcce",
+    "name": "Midway Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "ztky",
+    "name": "Zhongtie Logistics",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zto",
+    "name": "ZTO Express",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zto-international",
+    "name": "ZTO International",
+    "other_name": "",
+    "required_fields": []
+  },
+  {
+    "slug": "zy100-express",
+    "name": "Cosco Express",
+    "other_name": "",
+    "required_fields": []
+  }
+]

@@ -1,0 +1,751 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "posts",
+            "featured-content": false,
+            "jetpack_global_styles": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": [],
+            "hide_front_page_title": true,
+            "custom_css_post_id": -1
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "post",
+            "post_title": "Our Latest Photo Shoot",
+            "post_content": "<!-- wp:paragraph -->\n<p>On crossing the imaginary line drawn from Punta Mala to <a href=\"http:\/\/twentysixteendemo.wordpress.com\/\">Azuera<\/a> the ships from Europe bound to Sulaco lose at once the strong breezes of the ocean. They become the prey of capricious airs that play with them for thirty hours at a stretch sometimes. Before them the head of the calm gulf is filled on most days of the year by a great body of motionless and opaque clouds. On the rare clear mornings another shadow is cast upon the sweep of the gulf.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "our-latest-photo-shoot",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 97,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/zainodemo.wpcomstaging.com\/wp-content\/uploads\/2022\/11\/pexels-vinta-supply-co-_-nyc-842947.jpg"
+        },
+        {
+            "post_type": "product",
+            "post_title": "Vegan Leather Backpack",
+            "post_content": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.",
+            "post_name": "product-art-poster-5",
+            "post_excerpt": "Nulla vitae elit libero, a pharetra augue.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 87,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/zainodemo.wpcomstaging.com\/wp-content\/uploads\/2022\/11\/wiser-by-the-mile-OFHkPCkhYEY-unsplash-e1669859194158.jpg",
+            "hs_post_meta": {
+                "_backorders": "no",
+                "_download_expiry": "0",
+                "_download_limit": "0",
+                "_downloadable": "no",
+                "_manage_stock": "no",
+                "_price": "225",
+                "_product_version": "7.1.0",
+                "_regular_price": "225",
+                "_sold_individually": "no",
+                "_stock": null,
+                "_stock_status": "instock",
+                "_tax_class": "",
+                "_tax_status": "taxable",
+                "_virtual": "no",
+                "_wc_average_rating": "0",
+                "_wc_review_count": "0",
+                "_wp_old_slug": "import-placeholder-for-135",
+                "total_sales": "0"
+            }
+        },
+        {
+            "post_type": "product",
+            "post_title": "Everyday Backpack",
+            "post_content": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.",
+            "post_name": "product-art-poster-2",
+            "post_excerpt": "Nulla vitae elit libero, a pharetra augue.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 84,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/zainodemo.wpcomstaging.com\/wp-content\/uploads\/2022\/11\/wiser-by-the-mile-3o-X8WJOP5E-unsplash-e1669859172922.jpg",
+            "hs_post_meta": {
+                "_backorders": "no",
+                "_download_expiry": "0",
+                "_download_limit": "0",
+                "_downloadable": "no",
+                "_manage_stock": "no",
+                "_price": "179",
+                "_product_version": "7.1.0",
+                "_regular_price": "179",
+                "_sold_individually": "no",
+                "_stock": null,
+                "_stock_status": "instock",
+                "_tax_class": "",
+                "_tax_status": "taxable",
+                "_virtual": "no",
+                "_wc_average_rating": "0",
+                "_wc_review_count": "0",
+                "_wp_old_slug": "import-placeholder-for-132",
+                "total_sales": "0"
+            }
+        },
+        {
+            "post_type": "product",
+            "post_title": "Leather Backpack",
+            "post_content": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.",
+            "post_name": "leather-backapck",
+            "post_excerpt": "Nulla vitae elit libero, a pharetra augue.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 85,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/zainodemo.wpcomstaging.com\/wp-content\/uploads\/2022\/11\/wiser-by-the-mile-OFHkPCkhYEY-unsplash-e1669859194158.jpg",
+            "hs_post_meta": {
+                "_backorders": "no",
+                "_download_expiry": "0",
+                "_download_limit": "0",
+                "_downloadable": "no",
+                "_manage_stock": "no",
+                "_price": "223",
+                "_product_version": "7.1.0",
+                "_regular_price": "223",
+                "_sold_individually": "no",
+                "_stock": null,
+                "_stock_status": "instock",
+                "_tax_class": "",
+                "_tax_status": "taxable",
+                "_virtual": "no",
+                "_wc_average_rating": "0",
+                "_wc_review_count": "0",
+                "_wp_old_slug": [
+                    "import-placeholder-for-133",
+                    "product-art-poster-3"
+                ],
+                "total_sales": "0"
+            }
+        },
+        {
+            "post_type": "product",
+            "post_title": "Classic Backpack",
+            "post_content": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.",
+            "post_name": "classic-backpack",
+            "post_excerpt": "Nulla vitae elit libero, a pharetra augue.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 86,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/zainodemo.wpcomstaging.com\/wp-content\/uploads\/2022\/11\/wiser-by-the-mile-3o-X8WJOP5E-unsplash-e1669859172922.jpg",
+            "hs_post_meta": {
+                "_backorders": "no",
+                "_download_expiry": "0",
+                "_download_limit": "0",
+                "_downloadable": "no",
+                "_manage_stock": "no",
+                "_price": "156",
+                "_product_version": "7.1.0",
+                "_regular_price": "156",
+                "_sold_individually": "no",
+                "_stock": null,
+                "_stock_status": "instock",
+                "_tax_class": "",
+                "_tax_status": "taxable",
+                "_virtual": "no",
+                "_wc_average_rating": "0",
+                "_wc_review_count": "0",
+                "_wp_old_slug": [
+                    "import-placeholder-for-134",
+                    "product-art-poster-4"
+                ],
+                "total_sales": "0"
+            }
+        },
+        {
+            "post_type": "page",
+            "post_title": "Shop",
+            "post_content": "",
+            "post_name": "shop",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 68,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Cart",
+            "post_content": "<!-- wp:woocommerce\/cart -->\n<div class=\"wp-block-woocommerce-cart is-loading\"><!-- wp:woocommerce\/filled-cart-block -->\n<div class=\"wp-block-woocommerce-filled-cart-block\"><!-- wp:woocommerce\/cart-items-block -->\n<div class=\"wp-block-woocommerce-cart-items-block\"><!-- wp:woocommerce\/cart-line-items-block -->\n<div class=\"wp-block-woocommerce-cart-line-items-block\"><\/div>\n<!-- \/wp:woocommerce\/cart-line-items-block -->\n\n<!-- wp:woocommerce\/cart-cross-sells-block -->\n<div class=\"wp-block-woocommerce-cart-cross-sells-block\"><!-- wp:heading {\"level\":3} -->\n<h3>You may be interested in\u2026<\/h3>\n<!-- \/wp:heading -->\n\n<!-- wp:woocommerce\/cart-cross-sells-products-block -->\n<div class=\"wp-block-woocommerce-cart-cross-sells-products-block\"><\/div>\n<!-- \/wp:woocommerce\/cart-cross-sells-products-block --><\/div>\n<!-- \/wp:woocommerce\/cart-cross-sells-block --><\/div>\n<!-- \/wp:woocommerce\/cart-items-block -->\n\n<!-- wp:woocommerce\/cart-totals-block -->\n<div class=\"wp-block-woocommerce-cart-totals-block\"><!-- wp:woocommerce\/cart-order-summary-block -->\n<div class=\"wp-block-woocommerce-cart-order-summary-block\"><!-- wp:woocommerce\/cart-order-summary-heading-block -->\n<div class=\"wp-block-woocommerce-cart-order-summary-heading-block\"><\/div>\n<!-- \/wp:woocommerce\/cart-order-summary-heading-block -->\n\n<!-- wp:woocommerce\/cart-order-summary-subtotal-block -->\n<div class=\"wp-block-woocommerce-cart-order-summary-subtotal-block\"><\/div>\n<!-- \/wp:woocommerce\/cart-order-summary-subtotal-block -->\n\n<!-- wp:woocommerce\/cart-order-summary-fee-block -->\n<div class=\"wp-block-woocommerce-cart-order-summary-fee-block\"><\/div>\n<!-- \/wp:woocommerce\/cart-order-summary-fee-block -->\n\n<!-- wp:woocommerce\/cart-order-summary-discount-block -->\n<div class=\"wp-block-woocommerce-cart-order-summary-discount-block\"><\/div>\n<!-- \/wp:woocommerce\/cart-order-summary-discount-block -->\n\n<!-- wp:woocommerce\/cart-order-summary-coupon-form-block -->\n<div class=\"wp-block-woocommerce-cart-order-summary-coupon-form-block\"><\/div>\n<!-- \/wp:woocommerce\/cart-order-summary-coupon-form-block -->\n\n<!-- wp:woocommerce\/cart-order-summary-shipping-block -->\n<div class=\"wp-block-woocommerce-cart-order-summary-shipping-block\"><\/div>\n<!-- \/wp:woocommerce\/cart-order-summary-shipping-block -->\n\n<!-- wp:woocommerce\/cart-order-summary-taxes-block -->\n<div class=\"wp-block-woocommerce-cart-order-summary-taxes-block\"><\/div>\n<!-- \/wp:woocommerce\/cart-order-summary-taxes-block --><\/div>\n<!-- \/wp:woocommerce\/cart-order-summary-block -->\n\n<!-- wp:woocommerce\/cart-express-payment-block -->\n<div class=\"wp-block-woocommerce-cart-express-payment-block\"><\/div>\n<!-- \/wp:woocommerce\/cart-express-payment-block -->\n\n<!-- wp:woocommerce\/proceed-to-checkout-block -->\n<div class=\"wp-block-woocommerce-proceed-to-checkout-block\"><\/div>\n<!-- \/wp:woocommerce\/proceed-to-checkout-block -->\n\n<!-- wp:woocommerce\/cart-accepted-payment-methods-block -->\n<div class=\"wp-block-woocommerce-cart-accepted-payment-methods-block\"><\/div>\n<!-- \/wp:woocommerce\/cart-accepted-payment-methods-block --><\/div>\n<!-- \/wp:woocommerce\/cart-totals-block --><\/div>\n<!-- \/wp:woocommerce\/filled-cart-block -->\n\n<!-- wp:woocommerce\/empty-cart-block -->\n<div class=\"wp-block-woocommerce-empty-cart-block\"><!-- wp:image {\"align\":\"center\",\"sizeSlug\":\"small\"} -->\n<figure class=\"wp-block-image aligncenter size-small\"><img src=\"data:image\/svg+xml;base64,PHN2ZyB3aWR0aD0iMzgiIGhlaWdodD0iMzgiIHZpZXdCb3g9IjAgMCAzOCAzOCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE5IDBDOC41MDQwMyAwIDAgOC41MDQwMyAwIDE5QzAgMjkuNDk2IDguNTA0MDMgMzggMTkgMzhDMjkuNDk2IDM4IDM4IDI5LjQ5NiAzOCAxOUMzOCA4LjUwNDAzIDI5LjQ5NiAwIDE5IDBaTTI1LjEyOSAxMi44NzFDMjYuNDg1MSAxMi44NzEgMjcuNTgwNiAxMy45NjY1IDI3LjU4MDYgMTUuMzIyNkMyNy41ODA2IDE2LjY3ODYgMjYuNDg1MSAxNy43NzQyIDI1LjEyOSAxNy43NzQyQzIzLjc3MyAxNy43NzQyIDIyLjY3NzQgMTYuNjc4NiAyMi42Nzc0IDE1LjMyMjZDMjIuNjc3NCAxMy45NjY1IDIzLjc3MyAxMi44NzEgMjUuMTI5IDEyLjg3MVpNMTEuNjQ1MiAzMS4yNTgxQzkuNjE0OTIgMzEuMjU4MSA3Ljk2Nzc0IDI5LjY0OTIgNy45Njc3NCAyNy42NTczQzcuOTY3NzQgMjYuMTI1IDEwLjE1MTIgMjMuMDI5OCAxMS4xNTQ4IDIxLjY5NjhDMTEuNCAyMS4zNjczIDExLjg5MDMgMjEuMzY3MyAxMi4xMzU1IDIxLjY5NjhDMTMuMTM5MSAyMy4wMjk4IDE1LjMyMjYgMjYuMTI1IDE1LjMyMjYgMjcuNjU3M0MxNS4zMjI2IDI5LjY0OTIgMTMuNjc1NCAzMS4yNTgxIDExLjY0NTIgMzEuMjU4MVpNMTIuODcxIDE3Ljc3NDJDMTEuNTE0OSAxNy43NzQyIDEwLjQxOTQgMTYuNjc4NiAxMC40MTk0IDE1LjMyMjZDMTAuNDE5NCAxMy45NjY1IDExLjUxNDkgMTIuODcxIDEyLjg3MSAxMi44NzFDMTQuMjI3IDEyLjg3MSAxNS4zMjI2IDEzLjk2NjUgMTUuMzIyNiAxNS4zMjI2QzE1LjMyMjYgMTYuNjc4NiAxNC4yMjcgMTcuNzc0MiAxMi44NzEgMTcuNzc0MlpNMjUuOTEwNSAyOS41ODc5QzI0LjE5NDQgMjcuNTM0NyAyMS42NzM4IDI2LjM1NDggMTkgMjYuMzU0OEMxNy4zNzU4IDI2LjM1NDggMTcuMzc1OCAyMy45MDMyIDE5IDIzLjkwMzJDMjIuNDAxNiAyMy45MDMyIDI1LjYxMTcgMjUuNDA0OCAyNy43ODc1IDI4LjAyNUMyOC44NDQ4IDI5LjI4MTUgMjYuOTI5NCAzMC44MjE0IDI1LjkxMDUgMjkuNTg3OVoiIGZpbGw9ImJsYWNrIi8+Cjwvc3ZnPgo=\" alt=\"\"\/><\/figure>\n<!-- \/wp:image -->\n\n<!-- wp:heading {\"textAlign\":\"center\",\"className\":\"wc-block-cart__empty-cart__title\"} -->\n<h2 class=\"has-text-align-center wc-block-cart__empty-cart__title\">Your cart is currently empty!<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"center\"} -->\n<p class=\"has-text-align-center\"><a href=\"https:\/\/zainodemo.wpcomstaging.com\/shop\/\">Browse store<\/a>.<\/p>\n<!-- \/wp:paragraph -->\n\n<!-- wp:separator {\"className\":\"is-style-dots\"} -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity is-style-dots\"\/>\n<!-- \/wp:separator -->\n\n<!-- wp:heading {\"textAlign\":\"center\"} -->\n<h2 class=\"has-text-align-center\">New in store<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:woocommerce\/product-new {\"rows\":1} \/--><\/div>\n<!-- \/wp:woocommerce\/empty-cart-block --><\/div>\n<!-- \/wp:woocommerce\/cart -->",
+            "post_name": "cart",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 69,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Checkout",
+            "post_content": "<!-- wp:woocommerce\/checkout -->\n<div class=\"wp-block-woocommerce-checkout wc-block-checkout is-loading\"><!-- wp:woocommerce\/checkout-fields-block -->\n<div class=\"wp-block-woocommerce-checkout-fields-block\"><!-- wp:woocommerce\/checkout-express-payment-block -->\n<div class=\"wp-block-woocommerce-checkout-express-payment-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-express-payment-block -->\n\n<!-- wp:woocommerce\/checkout-contact-information-block -->\n<div class=\"wp-block-woocommerce-checkout-contact-information-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-contact-information-block -->\n\n<!-- wp:woocommerce\/checkout-shipping-address-block -->\n<div class=\"wp-block-woocommerce-checkout-shipping-address-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-shipping-address-block -->\n\n<!-- wp:woocommerce\/checkout-billing-address-block -->\n<div class=\"wp-block-woocommerce-checkout-billing-address-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-billing-address-block -->\n\n<!-- wp:woocommerce\/checkout-shipping-methods-block -->\n<div class=\"wp-block-woocommerce-checkout-shipping-methods-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-shipping-methods-block -->\n\n<!-- wp:woocommerce\/checkout-payment-block -->\n<div class=\"wp-block-woocommerce-checkout-payment-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-payment-block -->\n\n<!-- wp:woocommerce\/checkout-order-note-block -->\n<div class=\"wp-block-woocommerce-checkout-order-note-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-order-note-block -->\n\n<!-- wp:woocommerce\/checkout-terms-block -->\n<div class=\"wp-block-woocommerce-checkout-terms-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-terms-block -->\n\n<!-- wp:woocommerce\/checkout-actions-block -->\n<div class=\"wp-block-woocommerce-checkout-actions-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-actions-block --><\/div>\n<!-- \/wp:woocommerce\/checkout-fields-block -->\n\n<!-- wp:woocommerce\/checkout-totals-block -->\n<div class=\"wp-block-woocommerce-checkout-totals-block\"><!-- wp:woocommerce\/checkout-order-summary-block -->\n<div class=\"wp-block-woocommerce-checkout-order-summary-block\"><!-- wp:woocommerce\/checkout-order-summary-cart-items-block -->\n<div class=\"wp-block-woocommerce-checkout-order-summary-cart-items-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-order-summary-cart-items-block -->\n\n<!-- wp:woocommerce\/checkout-order-summary-subtotal-block -->\n<div class=\"wp-block-woocommerce-checkout-order-summary-subtotal-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-order-summary-subtotal-block -->\n\n<!-- wp:woocommerce\/checkout-order-summary-fee-block -->\n<div class=\"wp-block-woocommerce-checkout-order-summary-fee-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-order-summary-fee-block -->\n\n<!-- wp:woocommerce\/checkout-order-summary-discount-block -->\n<div class=\"wp-block-woocommerce-checkout-order-summary-discount-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-order-summary-discount-block -->\n\n<!-- wp:woocommerce\/checkout-order-summary-coupon-form-block -->\n<div class=\"wp-block-woocommerce-checkout-order-summary-coupon-form-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-order-summary-coupon-form-block -->\n\n<!-- wp:woocommerce\/checkout-order-summary-shipping-block -->\n<div class=\"wp-block-woocommerce-checkout-order-summary-shipping-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-order-summary-shipping-block -->\n\n<!-- wp:woocommerce\/checkout-order-summary-taxes-block -->\n<div class=\"wp-block-woocommerce-checkout-order-summary-taxes-block\"><\/div>\n<!-- \/wp:woocommerce\/checkout-order-summary-taxes-block --><\/div>\n<!-- \/wp:woocommerce\/checkout-order-summary-block --><\/div>\n<!-- \/wp:woocommerce\/checkout-totals-block --><\/div>\n<!-- \/wp:woocommerce\/checkout -->",
+            "post_name": "checkout",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 70,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "My account",
+            "post_content": "<!-- wp:shortcode -->[woocommerce_my_account]<!-- \/wp:shortcode -->",
+            "post_name": "my-account",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 71,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "product",
+            "post_title": "Canvas Backpack",
+            "post_content": "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec ullamcorper nulla non metus auctor fringilla. Curabitur blandit tempus porttitor. Cras mattis consectetur purus sit amet fermentum.",
+            "post_name": "canvas-backpack",
+            "post_excerpt": "Nulla vitae elit libero, a pharetra augue.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 83,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/zainodemo.wpcomstaging.com\/wp-content\/uploads\/2022\/11\/jakob-owens-BmH09wAkJa8-unsplash-cropped.jpg",
+            "hs_post_meta": {
+                "_backorders": "no",
+                "_download_expiry": "0",
+                "_download_limit": "0",
+                "_downloadable": "no",
+                "_manage_stock": "no",
+                "_price": "179",
+                "_product_version": "7.1.0",
+                "_regular_price": "200",
+                "_sale_price": "179",
+                "_sold_individually": "no",
+                "_stock": null,
+                "_stock_status": "instock",
+                "_tax_class": "",
+                "_tax_status": "taxable",
+                "_virtual": "no",
+                "_wc_average_rating": "0",
+                "_wc_review_count": "0",
+                "_wp_old_slug": [
+                    "import-placeholder-for-127",
+                    "product-art-poster"
+                ],
+                "total_sales": "0"
+            }
+        },
+        {
+            "post_type": "page",
+            "post_title": "Blog",
+            "post_content": "<!-- wp:group {\"align\":\"full\",\"style\":{\"spacing\":{\"padding\":{\"top\":\"var:preset|spacing|50\",\"bottom\":\"var:preset|spacing|50\"}}},\"layout\":{\"type\":\"constrained\"}} -->\n<div class=\"wp-block-group alignfull\" style=\"padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)\"><!-- wp:query {\"queryId\":15,\"query\":{\"perPage\":\"6\",\"pages\":0,\"offset\":0,\"postType\":\"post\",\"order\":\"desc\",\"orderBy\":\"date\",\"author\":\"\",\"search\":\"\",\"exclude\":[],\"sticky\":\"exclude\",\"inherit\":false},\"displayLayout\":{\"type\":\"flex\",\"columns\":2},\"align\":\"wide\"} -->\n<div class=\"wp-block-query alignwide\"><!-- wp:post-template -->\n<!-- wp:group {\"style\":{\"spacing\":{\"padding\":{\"top\":\"0px\",\"right\":\"0px\",\"bottom\":\"0px\",\"left\":\"0px\"},\"blockGap\":\"16px\"}},\"layout\":{\"type\":\"flex\",\"orientation\":\"vertical\"}} -->\n<div class=\"wp-block-group\" style=\"padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px\"><!-- wp:post-featured-image {\"isLink\":true} \/-->\n\n<!-- wp:post-title {\"isLink\":true,\"style\":{\"typography\":{\"textDecoration\":\"underline\"}},\"fontSize\":\"medium\"} \/-->\n\n<!-- wp:read-more {\"content\":\"Read more\",\"style\":{\"typography\":{\"textDecoration\":\"underline\",\"textTransform\":\"uppercase\"}},\"fontSize\":\"small\"} \/--><\/div>\n<!-- \/wp:group -->\n<!-- \/wp:post-template -->\n\n<!-- wp:spacer -->\n<div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n<!-- \/wp:spacer -->\n\n<!-- wp:query-pagination {\"layout\":{\"type\":\"flex\",\"justifyContent\":\"space-between\"}} -->\n<!-- wp:query-pagination-previous \/-->\n\n<!-- wp:query-pagination-numbers \/-->\n\n<!-- wp:query-pagination-next \/-->\n<!-- \/wp:query-pagination --><\/div>\n<!-- \/wp:query --><\/div>\n<!-- \/wp:group -->",
+            "post_name": "blog",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 45,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "New: Leather Duffel Bag",
+            "post_content": "<!-- wp:paragraph -->\n<p>On crossing the imaginary line drawn from Punta Mala to <a href=\"http:\/\/\/twentysixteendemo.wordpress.com\">Azuera<\/a> the ships from Europe bound to Sulaco lose at once the strong breezes of the ocean. They become the prey of capricious airs that play with them for thirty hours at a stretch sometimes. Before them the head of the calm gulf is filled on most days of the year by a great body of motionless and opaque clouds. On the rare clear mornings another shadow is cast upon the sweep of the gulf.<\/p>\n<!-- \/wp:paragraph -->",
+            "post_name": "new-leather-duffel-bag",
+            "post_excerpt": "Individually, we are one drop. Together, we are an ocean.",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "open",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 4,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Uncategorized"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https:\/\/zainodemo.wpcomstaging.com\/wp-content\/uploads\/2022\/11\/pexels-mikhail-nilov-7821312-1.jpg"
+        }
+    ],
+    "menus": {
+        "main-menu": {
+            "name": "Main Menu",
+            "items": [
+                {
+                    "menu-item-title": "Home",
+                    "menu-item-db-id": 26,
+                    "menu-item-object-id": "26",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "\/"
+                },
+                {
+                    "menu-item-title": "About Twenty Sixteen",
+                    "menu-item-db-id": 27,
+                    "menu-item-object-id": "18",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Style Guide",
+                    "menu-item-db-id": 28,
+                    "menu-item-object-id": "3",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Image Alignments",
+                    "menu-item-db-id": 29,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "28",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "primary": {
+            "name": "Primary",
+            "items": [
+                {
+                    "menu-item-title": "Home",
+                    "menu-item-db-id": 20,
+                    "menu-item-object-id": "20",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "\/"
+                },
+                {
+                    "menu-item-title": "Image Alignments",
+                    "menu-item-db-id": 21,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "22",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Style Guide",
+                    "menu-item-db-id": 22,
+                    "menu-item-object-id": "3",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "About Twenty Sixteen",
+                    "menu-item-db-id": 24,
+                    "menu-item-object-id": "18",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social-links": {
+            "name": "Social Links",
+            "items": [
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 30,
+                    "menu-item-object-id": "30",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https:\/\/twitter.com\/"
+                },
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 31,
+                    "menu-item-object-id": "31",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "https:\/\/www.facebook.com\/"
+                },
+                {
+                    "menu-item-title": "Google+",
+                    "menu-item-db-id": 32,
+                    "menu-item-object-id": "32",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/plus.google.com"
+                },
+                {
+                    "menu-item-title": "GitHub",
+                    "menu-item-db-id": 33,
+                    "menu-item-object-id": "33",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/github.com"
+                },
+                {
+                    "menu-item-title": "WordPress.com",
+                    "menu-item-db-id": 34,
+                    "menu-item-object-id": "34",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http:\/\/wordpress.com"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https:\/\/zainodemo.wpcomstaging.com\/wp-content\/uploads\/2022\/11\/pexels-vinta-supply-co-_-nyc-842947.jpg",
+        "https:\/\/zainodemo.wpcomstaging.com\/wp-content\/uploads\/2022\/11\/pexels-mikhail-nilov-7821312-1.jpg",
+        "https:\/\/zainodemo.wpcomstaging.com\/wp-content\/uploads\/2022\/11\/wiser-by-the-mile-OFHkPCkhYEY-unsplash-e1669859194158.jpg",
+        "https:\/\/zainodemo.wpcomstaging.com\/wp-content\/uploads\/2022\/11\/wiser-by-the-mile-3o-X8WJOP5E-unsplash-e1669859172922.jpg",
+        "https:\/\/zainodemo.wpcomstaging.com\/wp-content\/uploads\/2022\/11\/jakob-owens-BmH09wAkJa8-unsplash-cropped.jpg",
+        "https:\/\/zainodemo.wpcomstaging.com\/wp-content\/uploads\/woocommerce-placeholder.png"
+    ],
+    "meta": {
+        "blog_id": 1,
+        "url": "https:\/\/zainodemo.wpcomstaging.com",
+        "update_date": "December 13, 2022, 6:30 pm",
+        "update_timestamp": 1670956217
+    },
+    "custom_terms_by_taxonomy": {
+        "product_type": [
+            {
+                "term_id": 50518538,
+                "name": "external",
+                "slug": "external",
+                "term_group": 0,
+                "term_taxonomy_id": 11,
+                "taxonomy": "product_type",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            },
+            {
+                "term_id": 50518536,
+                "name": "grouped",
+                "slug": "grouped",
+                "term_group": 0,
+                "term_taxonomy_id": 9,
+                "taxonomy": "product_type",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            },
+            {
+                "term_id": 50518535,
+                "name": "simple",
+                "slug": "simple",
+                "term_group": 0,
+                "term_taxonomy_id": 8,
+                "taxonomy": "product_type",
+                "description": "",
+                "parent": 0,
+                "count": 5,
+                "filter": "raw"
+            },
+            {
+                "term_id": 50518549,
+                "name": "subscription",
+                "slug": "subscription",
+                "term_group": 0,
+                "term_taxonomy_id": 22,
+                "taxonomy": "product_type",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            },
+            {
+                "term_id": 50518537,
+                "name": "variable",
+                "slug": "variable",
+                "term_group": 0,
+                "term_taxonomy_id": 10,
+                "taxonomy": "product_type",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            },
+            {
+                "term_id": 50518550,
+                "name": "Variable Subscription",
+                "slug": "variable-subscription",
+                "term_group": 0,
+                "term_taxonomy_id": 23,
+                "taxonomy": "product_type",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            }
+        ],
+        "product_visibility": [
+            {
+                "term_id": 50518540,
+                "name": "exclude-from-catalog",
+                "slug": "exclude-from-catalog",
+                "term_group": 0,
+                "term_taxonomy_id": 13,
+                "taxonomy": "product_visibility",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            },
+            {
+                "term_id": 50518539,
+                "name": "exclude-from-search",
+                "slug": "exclude-from-search",
+                "term_group": 0,
+                "term_taxonomy_id": 12,
+                "taxonomy": "product_visibility",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            },
+            {
+                "term_id": 50518541,
+                "name": "featured",
+                "slug": "featured",
+                "term_group": 0,
+                "term_taxonomy_id": 14,
+                "taxonomy": "product_visibility",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            },
+            {
+                "term_id": 50518542,
+                "name": "outofstock",
+                "slug": "outofstock",
+                "term_group": 0,
+                "term_taxonomy_id": 15,
+                "taxonomy": "product_visibility",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            },
+            {
+                "term_id": 50518543,
+                "name": "rated-1",
+                "slug": "rated-1",
+                "term_group": 0,
+                "term_taxonomy_id": 16,
+                "taxonomy": "product_visibility",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            },
+            {
+                "term_id": 50518544,
+                "name": "rated-2",
+                "slug": "rated-2",
+                "term_group": 0,
+                "term_taxonomy_id": 17,
+                "taxonomy": "product_visibility",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            },
+            {
+                "term_id": 50518545,
+                "name": "rated-3",
+                "slug": "rated-3",
+                "term_group": 0,
+                "term_taxonomy_id": 18,
+                "taxonomy": "product_visibility",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            },
+            {
+                "term_id": 50518546,
+                "name": "rated-4",
+                "slug": "rated-4",
+                "term_group": 0,
+                "term_taxonomy_id": 19,
+                "taxonomy": "product_visibility",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            },
+            {
+                "term_id": 50518547,
+                "name": "rated-5",
+                "slug": "rated-5",
+                "term_group": 0,
+                "term_taxonomy_id": 20,
+                "taxonomy": "product_visibility",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            }
+        ],
+        "product_cat": [
+            {
+                "term_id": 50518548,
+                "name": "Uncategorized",
+                "slug": "uncategorized",
+                "term_group": 0,
+                "term_taxonomy_id": 21,
+                "taxonomy": "product_cat",
+                "description": "",
+                "parent": 0,
+                "count": 0,
+                "filter": "raw"
+            }
+        ]
+    },
+    "custom_term_meta": [],
+    "custom_term_assignments": {
+        "87": {
+            "product_type": [
+                "simple"
+            ]
+        },
+        "86": {
+            "product_type": [
+                "simple"
+            ]
+        },
+        "85": {
+            "product_type": [
+                "simple"
+            ]
+        },
+        "84": {
+            "product_type": [
+                "simple"
+            ]
+        },
+        "83": {
+            "product_type": [
+                "simple"
+            ]
+        }
+    }
+}

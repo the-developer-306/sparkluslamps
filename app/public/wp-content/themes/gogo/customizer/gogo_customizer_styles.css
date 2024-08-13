@@ -1,0 +1,43 @@
+/***Section drag and drop feature***/
+#customize-control-home_sorting{
+	margin-top:20px;
+}
+#customize-control-home_sorting .customize-control-title{
+	margin-bottom:10px
+}
+ul#sortable li {
+	padding: 7px;
+	margin-bottom:15px;
+	box-shadow: 0 0 1px #7B7A7A;
+	cursor: move;
+	background: #fff;
+}
+ul#sortable li label{
+	cursor:move;
+}
+.ui-sortable-placeholder{
+	border: 2px dashed #00a0d2;
+	box-shadow:  none!important;
+	min-height:20px;
+}
+#customize-control-typo_menu_line_break .description {
+    font-size: 16px;
+    font-style: normal;
+    letter-spacing: 1px;
+	color: #101010;
+}
+.widget-content .wp-picker-input-wrap label{
+    padding:0;
+    display:inline;
+}
+/*    Section Hiding CSS */
+#customize-theme-controls .accordion-section-title.thunk-section-hidden:after{
+content: "\f530";
+color: #dcdcdc;
+}
+#customize-theme-controls .accordion-section-title.thunk-section-hidden{
+  color: #dcdcdc;  
+}
+#customize-control-gogo_container_site_layout.customize-control-radio-image label{
+max-width:50%;
+}

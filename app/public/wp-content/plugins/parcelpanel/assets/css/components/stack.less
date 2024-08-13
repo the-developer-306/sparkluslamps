@@ -1,0 +1,22 @@
+.pp-stack {
+  --pc-stack-spacing: 16px;
+
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: calc(var(--pc-stack-spacing) * -1);
+  margin-top: calc(var(--pc-stack-spacing) * -1);
+
+  &--spacing-extra-loose {
+    --pc-stack-spacing: 32px;
+  }
+
+  & > &__item {
+    margin-left: var(--pc-stack-spacing);
+    margin-top: var(--pc-stack-spacing);
+    max-width: 100%;
+
+    &--fill {
+      flex: 1;
+    }
+  }
+}

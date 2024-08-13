@@ -1,0 +1,71 @@
+
+.customize-control-radio-image .ui-buttonset {
+        text-align: center;
+      }
+#customize-control-zita_bottom_footer_widget_layout label{
+    width: 33.33%!important;
+    float: left;
+    text-align: left;
+    max-width:33.33%;
+}
+      .customize-control-radio-image label {
+        float:left;
+        max-width: 33.3%;
+        padding: 3px;
+        font-size: inherit;
+        line-height: inherit;
+        height: auto;
+        cursor: pointer;
+        border-width: 0;
+        -webkit-appearance: none;
+        -webkit-border-radius: 0;
+        border-radius: 0;
+        white-space: nowrap;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+        color: inherit;
+        background: none;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        vertical-align: inherit;
+      }
+
+      .customize-control-radio-image label:first-of-type {
+        float: left;
+      }
+      .customize-control-radio-image label:nth-of-type(n + 3){
+        float: left;
+      }
+
+      .customize-control-radio-image label:hover {
+        background: none;
+        border-color: inherit;
+        color: inherit;
+      }
+
+      .customize-control-radio-image label:active {
+        background: none;
+        border-color: inherit;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+      }
+
+      .customize-control-radio-image img { border: 1px solid transparent; }
+      .customize-control-radio-image .ui-state-active img {
+        border-color: #00b6ff;
+        -webkit-box-shadow: 0 0 1px #3ec8ff;
+        box-shadow: 0 0 5px #3EC8FE;
+      }
+      #customize-control-gogo_blog_layout.customize-control-radio-image label,
+      #customize-control-gogo_above_footer_layout.customize-control-radio-image label,
+      #customize-control-gogo_bottom_footer_layout.customize-control-radio-image label,
+      #customize-control-gogo_above_header_layout.customize-control-radio-image label,
+      #customize-control-gogo_main_header_layout.customize-control-radio-image label,
+      #customize-control-gogo_bottom_header_layout.customize-control-radio-image label{
+                width:25%;
+
+             }

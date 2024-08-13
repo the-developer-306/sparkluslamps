@@ -1,0 +1,159 @@
+/*
+ Theme Name:   oneplus
+ Theme URI:    https://themehunk.com/product/oneplus/
+ Description: Oneplus is a child theme of Gogo theme. Oneplus provide a new skin to Gogo theme.
+ Author:       ThemeHunk Team
+ Author URI:   http://www.themehunk.com/
+ Template:     gogo
+ Version:      1.0.2
+ License:      GNU General Public License v3 or later
+ License URI:   http://www.gnu.org/licenses/gpl-3.0.html
+Tags:one-column, two-columns, right-sidebar, flexible-header, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready 
+ Text Domain:  oneplus
+*/
+body{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    -moz-font-feature-settings: "liga" on;
+}
+a.type-button{
+border-width: 15px!important;
+       letter-spacing: 3px!important;
+    font-size: 16px;
+   text-transform: uppercase!important;
+padding:16px 25px!important;
+    box-shadow: 0px 20px 40px -7px rgba(134, 134, 134, 0.5);
+}
+.service-wrapper.thunk-three .service-holder{
+background-color: #ffffff;
+    box-shadow: 0px 12px 110px -6px rgba(0,0,0,0.1);
+    transition: margin 300ms ease 0ms;
+margin-top: -30px!important;
+    margin-right: 0px!important;
+padding:40px;
+}
+.service-wrapper.thunk-three .service-holder:hover{
+position: relative;
+    z-index: 4;
+}
+.thunk-service {
+    background-color: #f9f9fb!important;
+}
+.thunk-first {
+    background-color: #520505!important;
+}
+.thunk-call-to:before{
+background:linear-gradient(102deg , rgba(0, 0, 0, 0.8) 36%, rgba(226, 17, 17, 0.8) 100%)!important;
+}
+
+.vertical-pagi-list{
+background:linear-gradient(102deg , rgba(0, 0, 0, 0.8) 36%, rgba(226, 17, 17, 0.8) 100%);
+}
+.thunk-team-heading{
+margin:0!important;
+}
+   .thunk-team-post{ box-shadow: 0px 12px 110px -6px rgba(0,0,0,0.1);
+    transition: margin 300ms ease 0ms;
+}
+   .thunk-team-post:hover{ 
+   position;relative;
+z-index:4;
+}
+.pricing-post
+{ box-shadow: 0px 12px 110px -6px rgba(0,0,0,0.1)!important;
+    transition: 
+margin 300ms ease 0ms!important;
+border-radius:0!important;
+}
+
+.pricing-post:hover
+{ position;relative;
+z-index:4;
+box-shadow: 0px 12px 110px -6px rgba(0,0,0,0.1);
+}
+.pricing-post-heading {
+    background: #222!important;
+    padding: 38px!important;
+       border-radius: 0!important;
+font-size:28px!important;
+
+}
+.pricing-t-c {
+   padding-top: 30px;
+}
+.call-to-heading {
+        font-size: 28px;
+}
+.thunk-video-ribbon:before{
+background: linear-gradient(102deg , rgba(0, 0, 0, 0.8) 36%, rgba(226, 17, 17, 0.8) 100%)!important;
+}
+.short-heading {
+      font-size: 24px!important;
+}
+.vertical-text{
+	font-size:15px!important;
+}
+.thunk-masonry .th-grid-item{    background-color: #ffffff;
+    box-shadow: 0px 12px 110px -6px rgba(0,0,0,0.1);
+    transition: margin 300ms ease 0ms;
+      
+}
+.thumbnail-img a:hover:before{
+background: linear-gradient(102deg , rgba(0, 0, 0, 0.48) 36%, rgba(226, 17, 17, 0.4) 100%)!important;
+}
+.thunk-team-heading{
+background: linear-gradient(102deg , rgba(0, 0, 0, 0.48) 36%, rgba(226, 17, 17, 0.4) 100%)!important;
+}
+.thunk-team-name{
+color:#fff!important;
+}
+.thunk-team-img img{
+width:100%;
+}
+.thunk-team-img-overlay {
+   background: rgba(76, 13, 31, 0.69)!important;
+}
+.testimonial-post{
+box-shadow: 0 0 10px 0 rgba(0,0,0,.12);
+}
+.thunk-gogo-frontpage .thunk-contact-us:before{
+background: linear-gradient(102deg , rgba(0, 0, 0, 0.88) 56%, rgba(226, 17, 17, 0.84) 100%);
+}
+.post{background-color: #ffffff;
+    box-shadow: 0px 12px 110px -6px rgba(0,0,0,0.1);
+    transition: margin 300ms ease 0ms;
+        padding: 40px!important;
+}
+.post:hover{
+position:relative;
+z-index:4;
+}
+.thunk-contact-us .leadform-show-form.leadform-lite .lf-field input, .thunk-contact-us .leadform-show-form.leadform-lite .lf-field {
+    background: rgba(235, 229, 229, 0.42);
+}
+.thunk-contact-us .lf-form-submit{
+     letter-spacing: 3px!important;
+    font-size: 16px;
+    text-transform: uppercase!important;
+    padding: 16px 25px!important;
+    box-shadow: 0px 20px 40px -7px rgba(134, 134, 134, 0.5);
+}
+.thunk-contact-us .leadform-show-form.leadform-lite .lf-field:last-child{
+ border-radius: 4px!important;
+}
+.thunk-woocommerce .woocommerce ul.products li.product{background-color: #ffffff;
+    box-shadow: 0px 12px 110px -6px rgba(0,0,0,0.1);
+    transition: margin 300ms ease 0ms;
+     padding: 20px;
+}
+.thunk-woocommerce .woocommerce ul.products li.product:hover{
+position:relative;
+z-index:4;
+}
+.th-center-align .item-divider {
+    margin-top: 10px!important;
+}
+.item-divider {
+ height: 2px!important;
+}

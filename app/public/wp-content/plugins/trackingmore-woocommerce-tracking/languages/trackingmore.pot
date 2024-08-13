@@ -1,0 +1,2959 @@
+# Copyright (C) 2020 TrackingMore - WooCommerce Tracking
+# This file is distributed under the same license as the TrackingMore - WooCommerce Tracking package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TrackingMore - WooCommerce Tracking 1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/trackingmore-woocommerce-tracking\n"
+"POT-Creation-Date: 2020-09-10 06:43:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <service@trackingmore.org>\n"
+
+#: api/class-trackingmore-api-authentication.php:65
+msgid "TrackingMore's WordPress Key is missing"
+msgstr ""
+
+#: api/class-trackingmore-api-authentication.php:87
+msgid "TrackingMore's WordPress API Key is invalid"
+msgstr ""
+
+#: api/class-trackingmore-api-json-handler.php:52
+msgid "JSONP support is disabled on this site"
+msgstr ""
+
+#: api/class-trackingmore-api-json-handler.php:59
+msgid "The JSONP callback function is invalid"
+msgstr ""
+
+#: api/class-trackingmore-api-orders.php:168
+msgid "You do not have permission to read the orders count"
+msgstr ""
+
+#: api/class-trackingmore-api-resource.php:35
+msgid "Invalid %s ID"
+msgstr ""
+
+#: api/class-trackingmore-api-resource.php:44
+msgid "Invalid %s"
+msgstr ""
+
+#: api/class-trackingmore-api-resource.php:50
+msgid "You do not have permission to read this %s"
+msgstr ""
+
+#: api/class-trackingmore-api-resource.php:55
+msgid "You do not have permission to edit this %s"
+msgstr ""
+
+#: api/class-trackingmore-api-resource.php:60
+msgid "You do not have permission to delete this %s"
+msgstr ""
+
+#: api/class-trackingmore-api-resource.php:217
+msgid "Permanently deleted customer"
+msgstr ""
+
+#: api/class-trackingmore-api-resource.php:219
+msgid "The customer cannot be deleted"
+msgstr ""
+
+#: api/class-trackingmore-api-resource.php:227
+msgid "This %s cannot be deleted"
+msgstr ""
+
+#: api/class-trackingmore-api-resource.php:230
+msgid "Permanently deleted %s"
+msgstr ""
+
+#: api/class-trackingmore-api-resource.php:236
+msgid "Deleted %s"
+msgstr ""
+
+#: api/class-trackingmore-api-server.php:91
+msgid "Invalid authentication method"
+msgstr ""
+
+#: api/class-trackingmore-api-server.php:178
+msgid "Unsupported request method"
+msgstr ""
+
+#: api/class-trackingmore-api-server.php:195
+msgid "The handler for the route is invalid"
+msgstr ""
+
+#: api/class-trackingmore-api-server.php:229
+msgid "No route was found matching the URL and request method"
+msgstr ""
+
+#: api/class-trackingmore-api-server.php:249
+msgid "Missing parameter %s"
+msgstr ""
+
+#: class-trackingmore-settings.php:84
+msgid "Settings"
+msgstr ""
+
+#: class-trackingmore-settings.php:114
+msgid "Plugin"
+msgstr ""
+
+#: class-trackingmore-settings.php:122
+msgid "Couriers"
+msgstr ""
+
+#: class-trackingmore-settings.php:130
+msgid "Display Track Button at Order History Page"
+msgstr ""
+
+#: class-trackingmore-settings.php:146
+msgid "Content"
+msgstr ""
+
+#: class-trackingmore-settings.php:246 trackingmore.php:318
+msgid "Your order was shipped via "
+msgstr ""
+
+#: class-trackingmore-settings.php:251 trackingmore.php:319
+msgid "Tracking number is "
+msgstr ""
+
+#: class-trackingmore-settings.php:255
+msgid "Demo"
+msgstr ""
+
+#: class-trackingmore-settings.php:266
+msgid "Use Track Button"
+msgstr ""
+
+#: couriers.php:5
+msgid "13ten"
+msgstr ""
+
+#: couriers.php:11
+msgid "138sd"
+msgstr ""
+
+#: couriers.php:17
+msgid "139 ECONOMIC Package"
+msgstr ""
+
+#: couriers.php:23
+msgid "Antron Express"
+msgstr ""
+
+#: couriers.php:29
+msgid "17Feia Express"
+msgstr ""
+
+#: couriers.php:35
+msgid "17 Post Service"
+msgstr ""
+
+#: couriers.php:41
+msgid "1DL Express"
+msgstr ""
+
+#: couriers.php:47
+msgid "1hcang"
+msgstr ""
+
+#: couriers.php:53
+msgid "1SD"
+msgstr ""
+
+#: couriers.php:59
+msgid "2GO"
+msgstr ""
+
+#: couriers.php:65
+msgid "2U Express"
+msgstr ""
+
+#: couriers.php:71
+msgid "360lion Express"
+msgstr ""
+
+#: couriers.php:77
+msgid "360zebra"
+msgstr ""
+
+#: couriers.php:83
+msgid "4PX"
+msgstr ""
+
+#: couriers.php:89
+msgid "Best Express(logistic)"
+msgstr ""
+
+#: couriers.php:95
+msgid "BEL"
+msgstr ""
+
+#: couriers.php:101
+msgid "Profit Fields"
+msgstr ""
+
+#: couriers.php:107
+msgid "8Europe"
+msgstr ""
+
+#: couriers.php:113
+msgid "ABF Freight"
+msgstr ""
+
+#: couriers.php:119
+msgid "ABX Express"
+msgstr ""
+
+#: couriers.php:125
+msgid "ACOMMERCE"
+msgstr ""
+
+#: couriers.php:131
+msgid "ACS Courier"
+msgstr ""
+
+#: couriers.php:137
+msgid "ADSOne"
+msgstr ""
+
+#: couriers.php:143
+msgid "Afghan Post"
+msgstr ""
+
+#: couriers.php:149
+msgid "AIR21"
+msgstr ""
+
+#: couriers.php:155
+msgid "Airfex"
+msgstr ""
+
+#: couriers.php:161
+msgid "Airpak Express"
+msgstr ""
+
+#: couriers.php:167
+msgid "Airspeed International Corporation"
+msgstr ""
+
+#: couriers.php:173
+msgid "Airwings Courier Express India"
+msgstr ""
+
+#: couriers.php:179
+msgid "Ali Business Logistics"
+msgstr ""
+
+#: couriers.php:185
+msgid "Aland Post"
+msgstr ""
+
+#: couriers.php:191
+msgid "allekurier"
+msgstr ""
+
+#: couriers.php:197
+msgid "Alljoy"
+msgstr ""
+
+#: couriers.php:203
+msgid "Alpha Fast"
+msgstr ""
+
+#: couriers.php:209
+msgid "Amazon Logistics"
+msgstr ""
+
+#: couriers.php:215
+msgid "An Post"
+msgstr ""
+
+#: couriers.php:221
+msgid "Andorra Post"
+msgstr ""
+
+#: couriers.php:227
+msgid "Ane Express"
+msgstr ""
+
+#: couriers.php:233
+msgid "Anjun Logistics"
+msgstr ""
+
+#: couriers.php:239
+msgid "AnserX"
+msgstr ""
+
+#: couriers.php:245
+msgid "Antilles Post"
+msgstr ""
+
+#: couriers.php:251
+msgid "APC Postal Logistics"
+msgstr ""
+
+#: couriers.php:257
+msgid "A PLUS EXPRESS"
+msgstr ""
+
+#: couriers.php:263
+msgid "Aprche"
+msgstr ""
+
+#: couriers.php:269
+msgid "Aramex"
+msgstr ""
+
+#: couriers.php:275
+msgid "Ark express"
+msgstr ""
+
+#: couriers.php:281
+msgid "Armenia Post"
+msgstr ""
+
+#: couriers.php:287
+msgid "Arrow XL"
+msgstr ""
+
+#: couriers.php:293
+msgid "Art Logexpress"
+msgstr ""
+
+#: couriers.php:299
+msgid "Aruba Post"
+msgstr ""
+
+#: couriers.php:305
+msgid "Asendia"
+msgstr ""
+
+#: couriers.php:311
+msgid "Asendia Germany"
+msgstr ""
+
+#: couriers.php:317
+msgid "Asendia HK"
+msgstr ""
+
+#: couriers.php:323
+msgid "Asendia UK"
+msgstr ""
+
+#: couriers.php:329
+msgid "Asendia USA"
+msgstr ""
+
+#: couriers.php:335
+msgid "Asendia UK Premium"
+msgstr ""
+
+#: couriers.php:341
+msgid "AsiaFly"
+msgstr ""
+
+#: couriers.php:347
+msgid "ASM"
+msgstr ""
+
+#: couriers.php:353
+msgid "Asyad Express"
+msgstr ""
+
+#: couriers.php:359
+msgid "Auexpress"
+msgstr ""
+
+#: couriers.php:365
+msgid "Ausworld Express"
+msgstr ""
+
+#: couriers.php:371
+msgid "Auspost"
+msgstr ""
+
+#: couriers.php:377
+msgid "Australia EMS"
+msgstr ""
+
+#: couriers.php:383
+msgid "Australia Post"
+msgstr ""
+
+#: couriers.php:389
+msgid "Austrian Post"
+msgstr ""
+
+#: couriers.php:395
+msgid "Azerbaijan Post"
+msgstr ""
+
+#: couriers.php:401
+msgid "BAB international"
+msgstr ""
+
+#: couriers.php:407
+msgid "Bahrain Post"
+msgstr ""
+
+#: couriers.php:413
+msgid "Bangladesh EMS"
+msgstr ""
+
+#: couriers.php:419
+msgid "Barbados Post"
+msgstr ""
+
+#: couriers.php:425
+msgid "BRT Bartolini"
+msgstr ""
+
+#: couriers.php:431
+msgid "BDM Corriere espresso"
+msgstr ""
+
+#: couriers.php:437
+msgid "Beebird Logistics"
+msgstr ""
+
+#: couriers.php:443
+msgid "Bpost"
+msgstr ""
+
+#: couriers.php:449
+msgid "Belize Post"
+msgstr ""
+
+#: couriers.php:455
+msgid "Belarus Post"
+msgstr ""
+
+#: couriers.php:461
+msgid "Benin Post"
+msgstr ""
+
+#: couriers.php:467
+msgid "Bermuda Post"
+msgstr ""
+
+#: couriers.php:473
+msgid "Best Express"
+msgstr ""
+
+#: couriers.php:479
+msgid "Bhutan Post"
+msgstr ""
+
+#: couriers.php:485
+msgid "Bluecare Express"
+msgstr ""
+
+#: couriers.php:491
+msgid "Bluedart"
+msgstr ""
+
+#: couriers.php:497
+msgid "Blue Sky Express"
+msgstr ""
+
+#: couriers.php:503
+msgid "Bombino Express"
+msgstr ""
+
+#: couriers.php:509
+msgid "Bonds Couriers"
+msgstr ""
+
+#: couriers.php:515
+msgid "Border Express"
+msgstr ""
+
+#: couriers.php:521
+msgid "Bosnia And Herzegovina Post"
+msgstr ""
+
+#: couriers.php:527
+msgid "Botswana Post"
+msgstr ""
+
+#: couriers.php:533
+msgid "Boxc Logistics"
+msgstr ""
+
+#: couriers.php:539
+msgid "BQC"
+msgstr ""
+
+#: couriers.php:545
+msgid "Brazil Correios"
+msgstr ""
+
+#: couriers.php:551
+msgid "Brunei Post"
+msgstr ""
+
+#: couriers.php:557
+msgid "BSI express"
+msgstr ""
+
+#: couriers.php:563
+msgid "LJS"
+msgstr ""
+
+#: couriers.php:569
+msgid "Bao Tongda Freight Forwarding"
+msgstr ""
+
+#: couriers.php:575
+msgid "Buffalo"
+msgstr ""
+
+#: couriers.php:581
+msgid "Bulgaria Post"
+msgstr ""
+
+#: couriers.php:587
+msgid "Burundi Post"
+msgstr ""
+
+#: couriers.php:593
+msgid "Buylogic"
+msgstr ""
+
+#: couriers.php:599
+msgid "Cacesa Postal"
+msgstr ""
+
+#: couriers.php:605
+msgid "Aliexpress Standard Shipping"
+msgstr ""
+
+#: couriers.php:611
+msgid "Cambodia Post"
+msgstr ""
+
+#: couriers.php:617
+msgid "Cameroon Post"
+msgstr ""
+
+#: couriers.php:623
+msgid "Canada Post"
+msgstr ""
+
+#: couriers.php:629
+msgid "Canpar Courier"
+msgstr ""
+
+#: couriers.php:635
+msgid "CBL Logistics"
+msgstr ""
+
+#: couriers.php:641
+msgid "Better Express"
+msgstr ""
+
+#: couriers.php:647
+msgid "CDEK Express"
+msgstr ""
+
+#: couriers.php:653
+msgid "Cess"
+msgstr ""
+
+#: couriers.php:659
+msgid "CEVA Logistics"
+msgstr ""
+
+#: couriers.php:665
+msgid "ChangJiang Express"
+msgstr ""
+
+#: couriers.php:671
+msgid "China EMS"
+msgstr ""
+
+#: couriers.php:677
+msgid "China Post"
+msgstr ""
+
+#: couriers.php:683
+msgid "China Russia56"
+msgstr ""
+
+#: couriers.php:689
+msgid "Chinz Logistics"
+msgstr ""
+
+#: couriers.php:695
+msgid "CHOICE Logistics"
+msgstr ""
+
+#: couriers.php:701
+msgid "France EMS - Chronopost"
+msgstr ""
+
+#: couriers.php:707
+msgid "Chronopost Portugal"
+msgstr ""
+
+#: couriers.php:713
+msgid "Chukou1 Logistics"
+msgstr ""
+
+#: couriers.php:719
+msgid "City-Link Express"
+msgstr ""
+
+#: couriers.php:725
+msgid "CJ Packet"
+msgstr ""
+
+#: couriers.php:731
+msgid "CNE Express"
+msgstr ""
+
+#: couriers.php:737
+msgid "CNILINK"
+msgstr ""
+
+#: couriers.php:743
+msgid "Cnpex"
+msgstr ""
+
+#: couriers.php:749
+msgid "COE"
+msgstr ""
+
+#: couriers.php:755
+msgid "Colis Prive"
+msgstr ""
+
+#: couriers.php:761
+msgid "Colissimo"
+msgstr ""
+
+#: couriers.php:767
+msgid "Collect+"
+msgstr ""
+
+#: couriers.php:773
+msgid "Colombia Post"
+msgstr ""
+
+#: couriers.php:779
+msgid "Come One express"
+msgstr ""
+
+#: couriers.php:785
+msgid "Con-way Freight"
+msgstr ""
+
+#: couriers.php:791
+msgid "Correios Cabo Verde"
+msgstr ""
+
+#: couriers.php:797
+msgid "Argentina Post"
+msgstr ""
+
+#: couriers.php:803
+msgid "Paraguay Post"
+msgstr ""
+
+#: couriers.php:809
+msgid "Bolivia Post"
+msgstr ""
+
+#: couriers.php:815
+msgid "Correos Chile"
+msgstr ""
+
+#: couriers.php:821
+msgid "Ecuador Post"
+msgstr ""
+
+#: couriers.php:827
+msgid "Mexico Post"
+msgstr ""
+
+#: couriers.php:833
+msgid "Panama Post"
+msgstr ""
+
+#: couriers.php:839
+msgid "Correos Spain"
+msgstr ""
+
+#: couriers.php:845
+msgid "correosexpress"
+msgstr ""
+
+#: couriers.php:851
+msgid "COSCO eGlobal"
+msgstr ""
+
+#: couriers.php:857
+msgid "Cosex"
+msgstr ""
+
+#: couriers.php:863
+msgid "Cosmetics Now"
+msgstr ""
+
+#: couriers.php:869
+msgid "Courier IT"
+msgstr ""
+
+#: couriers.php:875
+msgid "CourierPost"
+msgstr ""
+
+#: couriers.php:881
+msgid "Couriers Please express"
+msgstr ""
+
+#: couriers.php:887
+msgid "CRE"
+msgstr ""
+
+#: couriers.php:893
+msgid "CSD Express"
+msgstr ""
+
+#: couriers.php:899
+msgid "CSE"
+msgstr ""
+
+#: couriers.php:905
+msgid "Portugal Post - CTT"
+msgstr ""
+
+#: couriers.php:911
+msgid "CTT Express"
+msgstr ""
+
+#: couriers.php:917
+msgid "Cuba Post"
+msgstr ""
+
+#: couriers.php:923
+msgid "CXC"
+msgstr ""
+
+#: couriers.php:929
+msgid "Cyprus Post"
+msgstr ""
+
+#: couriers.php:935
+msgid "Czech Post"
+msgstr ""
+
+#: couriers.php:941
+msgid "Dachser"
+msgstr ""
+
+#: couriers.php:947
+msgid "Dawn Wing"
+msgstr ""
+
+#: couriers.php:953
+msgid "DB Schenker"
+msgstr ""
+
+#: couriers.php:959
+msgid "DD Express"
+msgstr ""
+
+#: couriers.php:965
+msgid "Dekun"
+msgstr ""
+
+#: couriers.php:971
+msgid "Delcart"
+msgstr ""
+
+#: couriers.php:977
+msgid "Delhivery"
+msgstr ""
+
+#: couriers.php:983
+msgid "Dellin"
+msgstr ""
+
+#: couriers.php:989
+msgid "Trending Times"
+msgstr ""
+
+#: couriers.php:995
+msgid "Deltec Courier"
+msgstr ""
+
+#: couriers.php:1001
+msgid "Denmark post"
+msgstr ""
+
+#: couriers.php:1007
+msgid "DEPPON"
+msgstr ""
+
+#: couriers.php:1013
+msgid "Detrack"
+msgstr ""
+
+#: couriers.php:1019
+msgid "Deutsche Post"
+msgstr ""
+
+#: couriers.php:1025
+msgid "DEX-I"
+msgstr ""
+
+#: couriers.php:1031
+msgid "DHL Express"
+msgstr ""
+
+#: couriers.php:1037
+msgid "DHL Active Tracing"
+msgstr ""
+
+#: couriers.php:1043
+msgid "DHL Benelux"
+msgstr ""
+
+#: couriers.php:1049
+msgid "DHL Spain Domestic"
+msgstr ""
+
+#: couriers.php:1055
+msgid "dhl-fr"
+msgstr ""
+
+#: couriers.php:1061
+msgid "Deutsche Post DHL"
+msgstr ""
+
+#: couriers.php:1067
+msgid "DHL Global Forwarding"
+msgstr ""
+
+#: couriers.php:1073
+msgid "DHL Hong Kong"
+msgstr ""
+
+#: couriers.php:1079
+msgid "DHL Netherlands"
+msgstr ""
+
+#: couriers.php:1085
+msgid "DHL Poland Domestic"
+msgstr ""
+
+#: couriers.php:1091
+msgid "DHL Parcel UK"
+msgstr ""
+
+#: couriers.php:1097
+msgid "DHL Global Mail Asia"
+msgstr ""
+
+#: couriers.php:1103
+msgid "DHL ECommerce"
+msgstr ""
+
+#: couriers.php:1109
+msgid "DHL Parcel Netherlands"
+msgstr ""
+
+#: couriers.php:1115
+msgid "Direct Freight"
+msgstr ""
+
+#: couriers.php:1121
+msgid "CJ Logistics"
+msgstr ""
+
+#: couriers.php:1127
+msgid "Dotzot"
+msgstr ""
+
+#: couriers.php:1133
+msgid "DPD"
+msgstr ""
+
+#: couriers.php:1139
+msgid "DPD Belgium"
+msgstr ""
+
+#: couriers.php:1145
+msgid "DPD Germany"
+msgstr ""
+
+#: couriers.php:1151
+msgid "DPD(HK)"
+msgstr ""
+
+#: couriers.php:1157
+msgid "DPD Ireland"
+msgstr ""
+
+#: couriers.php:1163
+msgid "DPD Poland"
+msgstr ""
+
+#: couriers.php:1169
+msgid "DPD Romania"
+msgstr ""
+
+#: couriers.php:1175
+msgid "DPD UK"
+msgstr ""
+
+#: couriers.php:1181
+msgid "DPE Express"
+msgstr ""
+
+#: couriers.php:1187
+msgid "DPE South Africa"
+msgstr ""
+
+#: couriers.php:1193
+msgid "DPEX"
+msgstr ""
+
+#: couriers.php:1199
+msgid "DSV"
+msgstr ""
+
+#: couriers.php:1205
+msgid "DTDC"
+msgstr ""
+
+#: couriers.php:1211
+msgid "DTDC Plus"
+msgstr ""
+
+#: couriers.php:1217
+msgid "DWZ Express"
+msgstr ""
+
+#: couriers.php:1223
+msgid "DX Delivery"
+msgstr ""
+
+#: couriers.php:1229
+msgid "Taiwan Pelican Express"
+msgstr ""
+
+#: couriers.php:1235
+msgid "Easy Mail"
+msgstr ""
+
+#: couriers.php:1241
+msgid "EC-Firstclass"
+msgstr ""
+
+#: couriers.php:1247
+msgid "Ecargo"
+msgstr ""
+
+#: couriers.php:1253
+msgid "Echo"
+msgstr ""
+
+#: couriers.php:1259
+msgid "Ecom Express"
+msgstr ""
+
+#: couriers.php:1265
+msgid "ECPOST"
+msgstr ""
+
+#: couriers.php:1271
+msgid "EFSPost"
+msgstr ""
+
+#: couriers.php:1277
+msgid "Egypt Post"
+msgstr ""
+
+#: couriers.php:1283
+msgid "Ekart"
+msgstr ""
+
+#: couriers.php:1289
+msgid "El Salvador Post"
+msgstr ""
+
+#: couriers.php:1295
+msgid "Guatemala Post"
+msgstr ""
+
+#: couriers.php:1301
+msgid "E-lian"
+msgstr ""
+
+#: couriers.php:1307
+msgid "ELTA Courier"
+msgstr ""
+
+#: couriers.php:1313
+msgid "Emirates Post"
+msgstr ""
+
+#: couriers.php:1319
+msgid "EMPS Express"
+msgstr ""
+
+#: couriers.php:1325
+msgid "Envialia"
+msgstr ""
+
+#: couriers.php:1331
+msgid "ePacket"
+msgstr ""
+
+#: couriers.php:1337
+msgid "eParcel Korea"
+msgstr ""
+
+#: couriers.php:1343
+msgid "Equick China"
+msgstr ""
+
+#: couriers.php:1349
+msgid "Eritrea Post"
+msgstr ""
+
+#: couriers.php:1355
+msgid "ESNAD Express"
+msgstr ""
+
+#: couriers.php:1361
+msgid "Espeedpost"
+msgstr ""
+
+#: couriers.php:1367
+msgid "Espost"
+msgstr ""
+
+#: couriers.php:1373
+msgid "Estafeta USA"
+msgstr ""
+
+#: couriers.php:1379
+msgid "Estes"
+msgstr ""
+
+#: couriers.php:1385
+msgid "Ethiopia Post"
+msgstr ""
+
+#: couriers.php:1391
+msgid "eTotal"
+msgstr ""
+
+#: couriers.php:1397
+msgid "ETS Express"
+msgstr ""
+
+#: couriers.php:1403
+msgid "Euasia Express"
+msgstr ""
+
+#: couriers.php:1409
+msgid "Eurodis"
+msgstr ""
+
+#: couriers.php:1415
+msgid "EWE Global Express"
+msgstr ""
+
+#: couriers.php:1421
+msgid "DPD France"
+msgstr ""
+
+#: couriers.php:1427
+msgid "Exelot"
+msgstr ""
+
+#: couriers.php:1433
+msgid "Expeditors"
+msgstr ""
+
+#: couriers.php:1439
+msgid "Eyou800"
+msgstr ""
+
+#: couriers.php:1445
+msgid "Famiport"
+msgstr ""
+
+#: couriers.php:1451
+msgid "Far International Logistics"
+msgstr ""
+
+#: couriers.php:1457
+msgid "Faroe Islands Post"
+msgstr ""
+
+#: couriers.php:1463
+msgid "Fastgo"
+msgstr ""
+
+#: couriers.php:1469
+msgid "Fastrak Services"
+msgstr ""
+
+#: couriers.php:1475
+msgid "Fastway Australia"
+msgstr ""
+
+#: couriers.php:1481
+msgid "Fastway Ireland"
+msgstr ""
+
+#: couriers.php:1487
+msgid "Fastway New Zealand"
+msgstr ""
+
+#: couriers.php:1493
+msgid "Fastway South Africa"
+msgstr ""
+
+#: couriers.php:1499
+msgid "FAST BEE"
+msgstr ""
+
+#: couriers.php:1505
+msgid "FD Express"
+msgstr ""
+
+#: couriers.php:1511
+msgid "Fedex"
+msgstr ""
+
+#: couriers.php:1517
+msgid "Fedex Freight"
+msgstr ""
+
+#: couriers.php:1523
+msgid "FedEx Ground"
+msgstr ""
+
+#: couriers.php:1529
+msgid "FedEx UK"
+msgstr ""
+
+#: couriers.php:1535
+msgid "FERCAM Logistics & Transport"
+msgstr ""
+
+#: couriers.php:1541
+msgid "Fetchr"
+msgstr ""
+
+#: couriers.php:1547
+msgid "Fiji Post"
+msgstr ""
+
+#: couriers.php:1553
+msgid "Finland Post - Posti"
+msgstr ""
+
+#: couriers.php:1559
+msgid "First Flight"
+msgstr ""
+
+#: couriers.php:1565
+msgid "First Flight Couriers"
+msgstr ""
+
+#: couriers.php:1571
+msgid "FirstMile"
+msgstr ""
+
+#: couriers.php:1577
+msgid "Flash Express"
+msgstr ""
+
+#: couriers.php:1583
+msgid "Flyt Express"
+msgstr ""
+
+#: couriers.php:1589
+msgid "Flyway Express"
+msgstr ""
+
+#: couriers.php:1595
+msgid "FTD Express"
+msgstr ""
+
+#: couriers.php:1601
+msgid "Fulfillmen"
+msgstr ""
+
+#: couriers.php:1607
+msgid "Gao Post"
+msgstr ""
+
+#: couriers.php:1613
+msgid "Gati-KWE"
+msgstr ""
+
+#: couriers.php:1619
+msgid "GATI Courier"
+msgstr ""
+
+#: couriers.php:1625
+msgid "GDEX"
+msgstr ""
+
+#: couriers.php:1631
+msgid "WSE Logistics"
+msgstr ""
+
+#: couriers.php:1637
+msgid "GEL Express"
+msgstr ""
+
+#: couriers.php:1643
+msgid "Geodis"
+msgstr ""
+
+#: couriers.php:1649
+msgid "Georgia Post"
+msgstr ""
+
+#: couriers.php:1655
+msgid "Ghana Post"
+msgstr ""
+
+#: couriers.php:1661
+msgid "Giao H¨¤ng Nhanh"
+msgstr ""
+
+#: couriers.php:1667
+msgid "Gibraltar  Post"
+msgstr ""
+
+#: couriers.php:1673
+msgid "Global Order (Cainiao)"
+msgstr ""
+
+#: couriers.php:1679
+msgid "Echindia"
+msgstr ""
+
+#: couriers.php:1685
+msgid "Globegistics Inc."
+msgstr ""
+
+#: couriers.php:1691
+msgid "GLS"
+msgstr ""
+
+#: couriers.php:1697
+msgid "gls-es"
+msgstr ""
+
+#: couriers.php:1703
+msgid "GLS Italy"
+msgstr ""
+
+#: couriers.php:1709
+msgid "GLS Netherland"
+msgstr ""
+
+#: couriers.php:1715
+msgid "gls-pl"
+msgstr ""
+
+#: couriers.php:1721
+msgid "Gofly"
+msgstr ""
+
+#: couriers.php:1727
+msgid "GoJavas"
+msgstr ""
+
+#: couriers.php:1733
+msgid "Grand Slam Express"
+msgstr ""
+
+#: couriers.php:1739
+msgid "ELTA Hellenic Post"
+msgstr ""
+
+#: couriers.php:1745
+msgid "Greyhound"
+msgstr ""
+
+#: couriers.php:1751
+msgid "GTI"
+msgstr ""
+
+#: couriers.php:1757
+msgid "GuangChi Express"
+msgstr ""
+
+#: couriers.php:1763
+msgid "Guernsey Post"
+msgstr ""
+
+#: couriers.php:1769
+msgid "Hanjin Shipping"
+msgstr ""
+
+#: couriers.php:1775
+msgid "HCT Express"
+msgstr ""
+
+#: couriers.php:1781
+msgid "Hermesworld"
+msgstr ""
+
+#: couriers.php:1787
+msgid "Hermes Borderguru"
+msgstr ""
+
+#: couriers.php:1793
+msgid "Hermes Germany"
+msgstr ""
+
+#: couriers.php:1799
+msgid "MyHermes UK"
+msgstr ""
+
+#: couriers.php:1805
+msgid "Hua Han Logistics"
+msgstr ""
+
+#: couriers.php:1811
+msgid "Hi Life"
+msgstr ""
+
+#: couriers.php:1817
+msgid "HiveWMS"
+msgstr ""
+
+#: couriers.php:1823
+msgid "HKD"
+msgstr ""
+
+#: couriers.php:1829
+msgid "Hnfywl"
+msgstr ""
+
+#: couriers.php:1835
+msgid "Hong Kong Post"
+msgstr ""
+
+#: couriers.php:1841
+msgid "hound"
+msgstr ""
+
+#: couriers.php:1847
+msgid "Croatia Post"
+msgstr ""
+
+#: couriers.php:1853
+msgid "Hong Tai"
+msgstr ""
+
+#: couriers.php:1859
+msgid "Huida Express"
+msgstr ""
+
+#: couriers.php:1865
+msgid "Hui Logistics"
+msgstr ""
+
+#: couriers.php:1871
+msgid "Hunter Express"
+msgstr ""
+
+#: couriers.php:1877
+msgid "Hanxuan international express"
+msgstr ""
+
+#: couriers.php:1883
+msgid "I-parcel"
+msgstr ""
+
+#: couriers.php:1889
+msgid "Iceland Post"
+msgstr ""
+
+#: couriers.php:1895
+msgid "Dada logistic"
+msgstr ""
+
+#: couriers.php:1901
+msgid "IDEX"
+msgstr ""
+
+#: couriers.php:1907
+msgid "IEPost"
+msgstr ""
+
+#: couriers.php:1913
+msgid "IMEX Global Solutions"
+msgstr ""
+
+#: couriers.php:1919
+msgid "iMile"
+msgstr ""
+
+#: couriers.php:1925
+msgid "IML Logistics"
+msgstr ""
+
+#: couriers.php:1931
+msgid "India Post"
+msgstr ""
+
+#: couriers.php:1937
+msgid "Indonesia Post"
+msgstr ""
+
+#: couriers.php:1943
+msgid "Dominican Post"
+msgstr ""
+
+#: couriers.php:1949
+msgid "InPost Paczkomaty"
+msgstr ""
+
+#: couriers.php:1955
+msgid "intelcom"
+msgstr ""
+
+#: couriers.php:1961
+msgid "International Seur"
+msgstr ""
+
+#: couriers.php:1967
+msgid "Rwanda Post"
+msgstr ""
+
+#: couriers.php:1973
+msgid "Iran Post"
+msgstr ""
+
+#: couriers.php:1979
+msgid "Israel Post"
+msgstr ""
+
+#: couriers.php:1985
+msgid "Italy SDA"
+msgstr ""
+
+#: couriers.php:1991
+msgid "Ivory Coast EMS"
+msgstr ""
+
+#: couriers.php:1997
+msgid "J-NET Express"
+msgstr ""
+
+#: couriers.php:2003
+msgid "Jam Express"
+msgstr ""
+
+#: couriers.php:2009
+msgid "Jamaica Post"
+msgstr ""
+
+#: couriers.php:2015
+msgid "Janio Asia"
+msgstr ""
+
+#: couriers.php:2021
+msgid "Japan Post"
+msgstr ""
+
+#: couriers.php:2027
+msgid "Jayeek"
+msgstr ""
+
+#: couriers.php:2033
+msgid "Jayon Express (JEX)"
+msgstr ""
+
+#: couriers.php:2039
+msgid "JCEX"
+msgstr ""
+
+#: couriers.php:2045
+msgid "JD Express"
+msgstr ""
+
+#: couriers.php:2051
+msgid "JD Logistics"
+msgstr ""
+
+#: couriers.php:2057
+msgid "JINDOUYUN Logistics"
+msgstr ""
+
+#: couriers.php:2063
+msgid "Jersey Post"
+msgstr ""
+
+#: couriers.php:2069
+msgid "JET"
+msgstr ""
+
+#: couriers.php:2075
+msgid "Jet-Ship Worldwide"
+msgstr ""
+
+#: couriers.php:2081
+msgid "CNEX"
+msgstr ""
+
+#: couriers.php:2087
+msgid "Jiayi Express"
+msgstr ""
+
+#: couriers.php:2093
+msgid "Jordan Post"
+msgstr ""
+
+#: couriers.php:2099
+msgid "JS EXPRESS"
+msgstr ""
+
+#: couriers.php:2105 couriers.php:2123
+msgid "JT Express"
+msgstr ""
+
+#: couriers.php:2111
+msgid "JT Express PH"
+msgstr ""
+
+#: couriers.php:2117
+msgid "J&T Express TH"
+msgstr ""
+
+#: couriers.php:2129
+msgid "Kangaroo Worldwide Express"
+msgstr ""
+
+#: couriers.php:2135
+msgid "Kawa"
+msgstr ""
+
+#: couriers.php:2141
+msgid "Kazakhstan Post"
+msgstr ""
+
+#: couriers.php:2147
+msgid "Kenya Post"
+msgstr ""
+
+#: couriers.php:2153 couriers.php:2165
+msgid "Kerry Express"
+msgstr ""
+
+#: couriers.php:2159
+msgid "Kerry Tec"
+msgstr ""
+
+#: couriers.php:2171
+msgid "Kerry Express TH"
+msgstr ""
+
+#: couriers.php:2177
+msgid "KGM Hub"
+msgstr ""
+
+#: couriers.php:2183
+msgid "KINGRUNS"
+msgstr ""
+
+#: couriers.php:2189
+msgid "Fast Express"
+msgstr ""
+
+#: couriers.php:2195
+msgid "KJY Logistics"
+msgstr ""
+
+#: couriers.php:2201
+msgid "King Kong Express"
+msgstr ""
+
+#: couriers.php:2207
+msgid "Korea Post"
+msgstr ""
+
+#: couriers.php:2213
+msgid "K1 Express"
+msgstr ""
+
+#: couriers.php:2219
+msgid "KWT Express"
+msgstr ""
+
+#: couriers.php:2225
+msgid "KUAYUE EXPRESS"
+msgstr ""
+
+#: couriers.php:2231
+msgid "Kyrgyzstan Post"
+msgstr ""
+
+#: couriers.php:2237
+msgid "Monaco Post"
+msgstr ""
+
+#: couriers.php:2243
+msgid "Landmark Global"
+msgstr ""
+
+#: couriers.php:2249
+msgid "Laos Post"
+msgstr ""
+
+#: couriers.php:2255
+msgid "La Poste"
+msgstr ""
+
+#: couriers.php:2261
+msgid "LaserShip"
+msgstr ""
+
+#: couriers.php:2267
+msgid "Latvia Post"
+msgstr ""
+
+#: couriers.php:2273
+msgid "LBC Express"
+msgstr ""
+
+#: couriers.php:2279
+msgid "LiBang International Logistics"
+msgstr ""
+
+#: couriers.php:2285
+msgid "LD Logistics"
+msgstr ""
+
+#: couriers.php:2291
+msgid "LDXpress"
+msgstr ""
+
+#: couriers.php:2297
+msgid "Ledii"
+msgstr ""
+
+#: couriers.php:2303
+msgid "Leopards Express"
+msgstr ""
+
+#: couriers.php:2309
+msgid "Lesotho Post"
+msgstr ""
+
+#: couriers.php:2315
+msgid "Lexship"
+msgstr ""
+
+#: couriers.php:2321
+msgid "Lazada (LEX)"
+msgstr ""
+
+#: couriers.php:2327
+msgid "LHT Express"
+msgstr ""
+
+#: couriers.php:2333
+msgid "Lebanon Post"
+msgstr ""
+
+#: couriers.php:2339
+msgid "Liechtenstein Post"
+msgstr ""
+
+#: couriers.php:2345
+msgid "Lithuania Post"
+msgstr ""
+
+#: couriers.php:2351
+msgid "Line Clear Express & Logistics"
+msgstr ""
+
+#: couriers.php:2357
+msgid "Linex"
+msgstr ""
+
+#: couriers.php:2363
+msgid "WEL"
+msgstr ""
+
+#: couriers.php:2369
+msgid "LP Express"
+msgstr ""
+
+#: couriers.php:2375
+msgid "Ltexp"
+msgstr ""
+
+#: couriers.php:2381
+msgid "Ltian"
+msgstr ""
+
+#: couriers.php:2387
+msgid "Luxembourg Post"
+msgstr ""
+
+#: couriers.php:2393
+msgid "LWE"
+msgstr ""
+
+#: couriers.php:2399
+msgid "Macao Post"
+msgstr ""
+
+#: couriers.php:2405
+msgid "Macedonia Post"
+msgstr ""
+
+#: couriers.php:2411
+msgid "Magyar Posta"
+msgstr ""
+
+#: couriers.php:2417
+msgid "MailAmericas"
+msgstr ""
+
+#: couriers.php:2423
+msgid "Malaysia Post"
+msgstr ""
+
+#: couriers.php:2429
+msgid "Maldives Post"
+msgstr ""
+
+#: couriers.php:2435
+msgid "Malta Post"
+msgstr ""
+
+#: couriers.php:2441
+msgid "Matdespatch"
+msgstr ""
+
+#: couriers.php:2447
+msgid "Matkahuolto"
+msgstr ""
+
+#: couriers.php:2453
+msgid "Mauritius Post"
+msgstr ""
+
+#: couriers.php:2459
+msgid "Maxcellents Pte Ltd"
+msgstr ""
+
+#: couriers.php:2465
+msgid "MC Express"
+msgstr ""
+
+#: couriers.php:2471
+msgid "Meest Express"
+msgstr ""
+
+#: couriers.php:2477
+msgid "Miuson Express"
+msgstr ""
+
+#: couriers.php:2483
+msgid "Moldova Post"
+msgstr ""
+
+#: couriers.php:2489
+msgid "Monaco EMS"
+msgstr ""
+
+#: couriers.php:2495
+msgid "Mondial Relay"
+msgstr ""
+
+#: couriers.php:2501
+msgid "Mongol Post"
+msgstr ""
+
+#: couriers.php:2507
+msgid "MRW"
+msgstr ""
+
+#: couriers.php:2513
+msgid "GmbH"
+msgstr ""
+
+#: couriers.php:2519
+msgid "Mypostonline"
+msgstr ""
+
+#: couriers.php:2525
+msgid "Namibia Post"
+msgstr ""
+
+#: couriers.php:2531
+msgid "Nanjing Woyuan"
+msgstr ""
+
+#: couriers.php:2537
+msgid "Naqel"
+msgstr ""
+
+#: couriers.php:2543
+msgid "Nationwide Express"
+msgstr ""
+
+#: couriers.php:2549
+msgid "Netherlands Post"
+msgstr ""
+
+#: couriers.php:2555
+msgid "New Caledonia Post"
+msgstr ""
+
+#: couriers.php:2561
+msgid "New Zealand Post"
+msgstr ""
+
+#: couriers.php:2567
+msgid "Newgistics"
+msgstr ""
+
+#: couriers.php:2573
+msgid "Nexive"
+msgstr ""
+
+#: couriers.php:2579
+msgid "Nhans Solutions"
+msgstr ""
+
+#: couriers.php:2585
+msgid "Nicaragua Post"
+msgstr ""
+
+#: couriers.php:2591
+msgid "Nigeria Post"
+msgstr ""
+
+#: couriers.php:2597
+msgid "Nightline"
+msgstr ""
+
+#: couriers.php:2603
+msgid "Ninja Van"
+msgstr ""
+
+#: couriers.php:2609
+msgid "Ninja Van Malaysia"
+msgstr ""
+
+#: couriers.php:2615
+msgid "Ninja Van Philippines"
+msgstr ""
+
+#: couriers.php:2621
+msgid "Ninja Van Thailand"
+msgstr ""
+
+#: couriers.php:2627
+msgid "Ninja Van Vietnam"
+msgstr ""
+
+#: couriers.php:2633
+msgid "Ninja Van Indonesia"
+msgstr ""
+
+#: couriers.php:2639
+msgid "Nippon Express"
+msgstr ""
+
+#: couriers.php:2645
+msgid "Flying Leopards Express"
+msgstr ""
+
+#: couriers.php:2651
+msgid "Nova Poshta"
+msgstr ""
+
+#: couriers.php:2657
+msgid "NZCouriers"
+msgstr ""
+
+#: couriers.php:2663
+msgid "OCA Argentina"
+msgstr ""
+
+#: couriers.php:2669
+msgid "OCS Worldwide"
+msgstr ""
+
+#: couriers.php:2675
+msgid "OCS Express"
+msgstr ""
+
+#: couriers.php:2681
+msgid "Old Dominion Freight Line"
+msgstr ""
+
+#: couriers.php:2687
+msgid "Oman Post"
+msgstr ""
+
+#: couriers.php:2693
+msgid "Omni Parcel"
+msgstr ""
+
+#: couriers.php:2699
+msgid "Estonia Post"
+msgstr ""
+
+#: couriers.php:2705
+msgid "One World Express"
+msgstr ""
+
+#: couriers.php:2711
+msgid "OnTrac"
+msgstr ""
+
+#: couriers.php:2717
+msgid "FedEx Poland Domestic"
+msgstr ""
+
+#: couriers.php:2723
+msgid "ORANGE CONNEX"
+msgstr ""
+
+#: couriers.php:2729
+msgid "OrangeDS"
+msgstr ""
+
+#: couriers.php:2735
+msgid "Overnite Express"
+msgstr ""
+
+#: couriers.php:2741
+msgid "Overseas Logistics"
+msgstr ""
+
+#: couriers.php:2747
+msgid "Overseas Territory FR EMS"
+msgstr ""
+
+#: couriers.php:2753
+msgid "Overseas Territory US Post"
+msgstr ""
+
+#: couriers.php:2759
+msgid "Packlink"
+msgstr ""
+
+#: couriers.php:2765
+msgid "Pakistan Post"
+msgstr ""
+
+#: couriers.php:2771
+msgid "Palletways"
+msgstr ""
+
+#: couriers.php:2777
+msgid "Pandu Logistics"
+msgstr ""
+
+#: couriers.php:2783 couriers.php:2819
+msgid "Pitney Bowes"
+msgstr ""
+
+#: couriers.php:2789
+msgid "Parcel Force"
+msgstr ""
+
+#: couriers.php:2795
+msgid "PCA"
+msgstr ""
+
+#: couriers.php:2801
+msgid "PFC Express"
+msgstr ""
+
+#: couriers.php:2807
+msgid "Parcel Freight Logistics"
+msgstr ""
+
+#: couriers.php:2813
+msgid "Philippines Post"
+msgstr ""
+
+#: couriers.php:2825
+msgid "Poland Post"
+msgstr ""
+
+#: couriers.php:2831
+msgid "Pony Express"
+msgstr ""
+
+#: couriers.php:2837
+msgid "PosLaju"
+msgstr ""
+
+#: couriers.php:2843
+msgid "Montenegro Post"
+msgstr ""
+
+#: couriers.php:2849
+msgid "Romania Post"
+msgstr ""
+
+#: couriers.php:2855
+msgid "Albania Post"
+msgstr ""
+
+#: couriers.php:2861
+msgid "PostaPlus"
+msgstr ""
+
+#: couriers.php:2867
+msgid "Poste Italiane"
+msgstr ""
+
+#: couriers.php:2873
+msgid "Maroc Poste"
+msgstr ""
+
+#: couriers.php:2879
+msgid "Posten Norge"
+msgstr ""
+
+#: couriers.php:2885
+msgid "Post Haste"
+msgstr ""
+
+#: couriers.php:2891
+msgid "PostNL International 3S"
+msgstr ""
+
+#: couriers.php:2897
+msgid "Netherlands Post - PostNL"
+msgstr ""
+
+#: couriers.php:2903
+msgid "Papua New Guinea Post"
+msgstr ""
+
+#: couriers.php:2909
+msgid "The Professional Couriers (TPC)"
+msgstr ""
+
+#: couriers.php:2915
+msgid "Purolator"
+msgstr ""
+
+#: couriers.php:2921
+msgid "QEXPRESS"
+msgstr ""
+
+#: couriers.php:2927
+msgid "QFKD Express"
+msgstr ""
+
+#: couriers.php:2933
+msgid "7-ELEVEN"
+msgstr ""
+
+#: couriers.php:2939
+msgid "venucia"
+msgstr ""
+
+#: couriers.php:2945
+msgid "Quantium"
+msgstr ""
+
+#: couriers.php:2951
+msgid "QuicKway"
+msgstr ""
+
+#: couriers.php:2957
+msgid "Qxpress"
+msgstr ""
+
+#: couriers.php:2963
+msgid "RAF Philippines"
+msgstr ""
+
+#: couriers.php:2969
+msgid "RaidereX"
+msgstr ""
+
+#: couriers.php:2975
+msgid "Redpack Mexico"
+msgstr ""
+
+#: couriers.php:2981
+msgid "Redur Spain"
+msgstr ""
+
+#: couriers.php:2987
+msgid "RL Carriers"
+msgstr ""
+
+#: couriers.php:2993
+msgid "Roadbull Logistics"
+msgstr ""
+
+#: couriers.php:2999
+msgid "ROSAN EXPRESS"
+msgstr ""
+
+#: couriers.php:3005
+msgid "Royal Shipments"
+msgstr ""
+
+#: couriers.php:3011
+msgid "RPX Indonesia"
+msgstr ""
+
+#: couriers.php:3017
+msgid "RPX Online"
+msgstr ""
+
+#: couriers.php:3023
+msgid "RR Donnelley"
+msgstr ""
+
+#: couriers.php:3029
+msgid "RRS Logistics"
+msgstr ""
+
+#: couriers.php:3035
+msgid "Rufengda"
+msgstr ""
+
+#: couriers.php:3041
+msgid "Russian Post"
+msgstr ""
+
+#: couriers.php:3047
+msgid "Ruston"
+msgstr ""
+
+#: couriers.php:3053
+msgid "RZY Express"
+msgstr ""
+
+#: couriers.php:3059
+msgid "Safexpress"
+msgstr ""
+
+#: couriers.php:3065
+msgid "Sagawa"
+msgstr ""
+
+#: couriers.php:3071
+msgid "Saia LTL Freight"
+msgstr ""
+
+#: couriers.php:3077
+msgid "Sai Cheng Logistics"
+msgstr ""
+
+#: couriers.php:3083
+msgid "Sailpost"
+msgstr ""
+
+#: couriers.php:3089
+msgid "Saint Lucia Post"
+msgstr ""
+
+#: couriers.php:3095
+msgid "Samoa Post"
+msgstr ""
+
+#: couriers.php:3101
+msgid "San Marino Post"
+msgstr ""
+
+#: couriers.php:3107
+msgid "SAP Express"
+msgstr ""
+
+#: couriers.php:3113
+msgid "Saudi Post"
+msgstr ""
+
+#: couriers.php:3119
+msgid "SCG Express"
+msgstr ""
+
+#: couriers.php:3125
+msgid "Score Jp"
+msgstr ""
+
+#: couriers.php:3131
+msgid "Sendle"
+msgstr ""
+
+#: couriers.php:3137
+msgid "Senegal Post"
+msgstr ""
+
+#: couriers.php:3143
+msgid "Serbia Post"
+msgstr ""
+
+#: couriers.php:3149
+msgid "Serpost"
+msgstr ""
+
+#: couriers.php:3155
+msgid "Seychelles Post"
+msgstr ""
+
+#: couriers.php:3161
+msgid "S.F Express"
+msgstr ""
+
+#: couriers.php:3167
+msgid "SF International"
+msgstr ""
+
+#: couriers.php:3173
+msgid "SFC Service"
+msgstr ""
+
+#: couriers.php:3179
+msgid "SGT Corriere Espresso"
+msgstr ""
+
+#: couriers.php:3185
+msgid "SGT Express"
+msgstr ""
+
+#: couriers.php:3191
+msgid "Shipa"
+msgstr ""
+
+#: couriers.php:3197
+msgid "Shipgce Express"
+msgstr ""
+
+#: couriers.php:3203
+msgid "Showl"
+msgstr ""
+
+#: couriers.php:3209
+msgid "Shree Mahabali Express"
+msgstr ""
+
+#: couriers.php:3215
+msgid "Shree Tirupati Courier"
+msgstr ""
+
+#: couriers.php:3221
+msgid "Shree Maruti Courier"
+msgstr ""
+
+#: couriers.php:3227
+msgid "Singapore Post"
+msgstr ""
+
+#: couriers.php:3233
+msgid "Singapore Speedpost"
+msgstr ""
+
+#: couriers.php:3239
+msgid "SINOAIR"
+msgstr ""
+
+#: couriers.php:3245
+msgid "Siodemka"
+msgstr ""
+
+#: couriers.php:3251
+msgid "SJTSZ Express"
+msgstr ""
+
+#: couriers.php:3257
+msgid "SkyNet Malaysia"
+msgstr ""
+
+#: couriers.php:3263
+msgid "SkyNet Worldwide Express"
+msgstr ""
+
+#: couriers.php:3269
+msgid "Skynet Worldwide Express UK"
+msgstr ""
+
+#: couriers.php:3275
+msgid "Slovakia Post"
+msgstr ""
+
+#: couriers.php:3281
+msgid "Slovenia Post"
+msgstr ""
+
+#: couriers.php:3287
+msgid "SMSA Express"
+msgstr ""
+
+#: couriers.php:3293
+msgid "Solomon Post"
+msgstr ""
+
+#: couriers.php:3299
+msgid "Burkina Faso Post"
+msgstr ""
+
+#: couriers.php:3305
+msgid "South African Post Office"
+msgstr ""
+
+#: couriers.php:3311
+msgid "Specialised Freight"
+msgstr ""
+
+#: couriers.php:3317
+msgid "Speed Post"
+msgstr ""
+
+#: couriers.php:3323
+msgid "Spee-Dee Delivery"
+msgstr ""
+
+#: couriers.php:3329
+msgid "Speedex Courier"
+msgstr ""
+
+#: couriers.php:3335
+msgid "SpeedPAK"
+msgstr ""
+
+#: couriers.php:3341
+msgid "Spoton Logistics"
+msgstr ""
+
+#: couriers.php:3347
+msgid "spring-gds"
+msgstr ""
+
+#: couriers.php:3353
+msgid "SprintPack"
+msgstr ""
+
+#: couriers.php:3359
+msgid "SPSR"
+msgstr ""
+
+#: couriers.php:3365
+msgid "Shopee Express MY"
+msgstr ""
+
+#: couriers.php:3371
+msgid "Shopee Express VN"
+msgstr ""
+
+#: couriers.php:3377
+msgid "SRE Korea"
+msgstr ""
+
+#: couriers.php:3383
+msgid "Sri Lanka Post"
+msgstr ""
+
+#: couriers.php:3389
+msgid "StarTrack"
+msgstr ""
+
+#: couriers.php:3395
+msgid "Suteng Logistics"
+msgstr ""
+
+#: couriers.php:3401
+msgid "STO Express"
+msgstr ""
+
+#: couriers.php:3407
+msgid "Sudan Post"
+msgstr ""
+
+#: couriers.php:3413
+msgid "Sum Xpress"
+msgstr ""
+
+#: couriers.php:3419
+msgid "SUNING"
+msgstr ""
+
+#: couriers.php:3425
+msgid "Sunyou"
+msgstr ""
+
+#: couriers.php:3431
+msgid "SuperOZ Logistics"
+msgstr ""
+
+#: couriers.php:3437
+msgid "Sure56"
+msgstr ""
+
+#: couriers.php:3443
+msgid "SYD Express"
+msgstr ""
+
+#: couriers.php:3449
+msgid "Saint Vincent And The Grenadines"
+msgstr ""
+
+#: couriers.php:3455
+msgid "Sweden Posten"
+msgstr ""
+
+#: couriers.php:3461
+msgid "Swiss Post"
+msgstr ""
+
+#: couriers.php:3467
+msgid "SX-Express"
+msgstr ""
+
+#: couriers.php:3473
+msgid "Syrian Post"
+msgstr ""
+
+#: couriers.php:3479
+msgid "DPEX China"
+msgstr ""
+
+#: couriers.php:3485
+msgid "Szendex"
+msgstr ""
+
+#: couriers.php:3491
+msgid "YingNuo Supply Chain"
+msgstr ""
+
+#: couriers.php:3497
+msgid "T Cat"
+msgstr ""
+
+#: couriers.php:3503
+msgid "Chunghwa POST"
+msgstr ""
+
+#: couriers.php:3509
+msgid "Takesend Logistics"
+msgstr ""
+
+#: couriers.php:3515
+msgid "Tanzania Post"
+msgstr ""
+
+#: couriers.php:3521
+msgid "TAQBIN Hong Kong"
+msgstr ""
+
+#: couriers.php:3527
+msgid "Yamato Japan"
+msgstr ""
+
+#: couriers.php:3533
+msgid "TAQBIN Malaysia"
+msgstr ""
+
+#: couriers.php:3539
+msgid "TONGDA Global"
+msgstr ""
+
+#: couriers.php:3545
+msgid "Geniki Taxydromiki"
+msgstr ""
+
+#: couriers.php:3551
+msgid "Smartcat"
+msgstr ""
+
+#: couriers.php:3557
+msgid "tcs-express"
+msgstr ""
+
+#: couriers.php:3563
+msgid "Greenland Post"
+msgstr ""
+
+#: couriers.php:3569
+msgid "TGX"
+msgstr ""
+
+#: couriers.php:3575
+msgid "Thailand Post"
+msgstr ""
+
+#: couriers.php:3581
+msgid "The Courier Guy"
+msgstr ""
+
+#: couriers.php:3587
+msgid "Tiki"
+msgstr ""
+
+#: couriers.php:3593
+msgid "TIPSA"
+msgstr ""
+
+#: couriers.php:3599
+msgid "Tk Kit"
+msgstr ""
+
+#: couriers.php:3605
+msgid "TNT"
+msgstr ""
+
+#: couriers.php:3611
+msgid "TNT Australia"
+msgstr ""
+
+#: couriers.php:3617
+msgid "TNT Click"
+msgstr ""
+
+#: couriers.php:3623
+msgid "TNT France"
+msgstr ""
+
+#: couriers.php:3629
+msgid "TNT Italy"
+msgstr ""
+
+#: couriers.php:3635
+msgid "TNT LT"
+msgstr ""
+
+#: couriers.php:3641
+msgid "TNT Reference"
+msgstr ""
+
+#: couriers.php:3647
+msgid "TNT UK"
+msgstr ""
+
+#: couriers.php:3653
+msgid "Togo Post"
+msgstr ""
+
+#: couriers.php:3659
+msgid "TOLL"
+msgstr ""
+
+#: couriers.php:3665
+msgid "Toll IPEC"
+msgstr ""
+
+#: couriers.php:3671
+msgid "Tonga Post"
+msgstr ""
+
+#: couriers.php:3677
+msgid "TopYou"
+msgstr ""
+
+#: couriers.php:3683
+msgid "Trackon Courier"
+msgstr ""
+
+#: couriers.php:3689
+msgid "TrakPak"
+msgstr ""
+
+#: couriers.php:3695
+msgid "Transrush"
+msgstr ""
+
+#: couriers.php:3701
+msgid "TTKD Express"
+msgstr ""
+
+#: couriers.php:3707
+msgid "tuffnells"
+msgstr ""
+
+#: couriers.php:3713
+msgid "Tunisia Post"
+msgstr ""
+
+#: couriers.php:3719
+msgid "Turkey Post"
+msgstr ""
+
+#: couriers.php:3725
+msgid "Tuvalu Post"
+msgstr ""
+
+#: couriers.php:3731
+msgid "TT Sucha"
+msgstr ""
+
+#: couriers.php:3737
+msgid "UBI Smart Parcel"
+msgstr ""
+
+#: couriers.php:3743
+msgid "UBon Express"
+msgstr ""
+
+#: couriers.php:3749
+msgid "UBX Express"
+msgstr ""
+
+#: couriers.php:3755
+msgid "UC Express"
+msgstr ""
+
+#: couriers.php:3761
+msgid "UEQ"
+msgstr ""
+
+#: couriers.php:3767
+msgid "Uganda Post"
+msgstr ""
+
+#: couriers.php:3773
+msgid "UK Mail"
+msgstr ""
+
+#: couriers.php:3779
+msgid "Ukraine EMS"
+msgstr ""
+
+#: couriers.php:3785
+msgid "Ukraine Post"
+msgstr ""
+
+#: couriers.php:3791
+msgid "UK Asendia"
+msgstr ""
+
+#: couriers.php:3797
+msgid "Un-line"
+msgstr ""
+
+#: couriers.php:3803
+msgid "UPS"
+msgstr ""
+
+#: couriers.php:3809
+msgid "UPS Freight"
+msgstr ""
+
+#: couriers.php:3815
+msgid "UPS Ground"
+msgstr ""
+
+#: couriers.php:3821 couriers.php:3827
+msgid "UPS Mail Innovations"
+msgstr ""
+
+#: couriers.php:3833
+msgid "UPU"
+msgstr ""
+
+#: couriers.php:3839
+msgid "Uruguay Post"
+msgstr ""
+
+#: couriers.php:3845
+msgid "Usky"
+msgstr ""
+
+#: couriers.php:3851
+msgid "USPS"
+msgstr ""
+
+#: couriers.php:3857
+msgid "utec"
+msgstr ""
+
+#: couriers.php:3863
+msgid "UVAN Express"
+msgstr ""
+
+#: couriers.php:3869
+msgid "Uzbekistan Post"
+msgstr ""
+
+#: couriers.php:3875
+msgid "V-Xpress"
+msgstr ""
+
+#: couriers.php:3881
+msgid "Vanuatu Post"
+msgstr ""
+
+#: couriers.php:3887
+msgid "Venipak"
+msgstr ""
+
+#: couriers.php:3893
+msgid "Vietnam Post"
+msgstr ""
+
+#: couriers.php:3899
+msgid "Viettel Post"
+msgstr ""
+
+#: couriers.php:3905
+msgid "VNCPost"
+msgstr ""
+
+#: couriers.php:3911
+msgid "VOVA Logistics"
+msgstr ""
+
+#: couriers.php:3917
+msgid "Wahana"
+msgstr ""
+
+#: couriers.php:3923
+msgid "Wanb Express"
+msgstr ""
+
+#: couriers.php:3929
+msgid "Weaship"
+msgstr ""
+
+#: couriers.php:3935
+msgid "WeDo Logistics"
+msgstr ""
+
+#: couriers.php:3941
+msgid "We World Express"
+msgstr ""
+
+#: couriers.php:3947
+msgid "Whistl"
+msgstr ""
+
+#: couriers.php:3953
+msgid "Winit"
+msgstr ""
+
+#: couriers.php:3959
+msgid "Winlink logistics"
+msgstr ""
+
+#: couriers.php:3965
+msgid "Wise Express"
+msgstr ""
+
+#: couriers.php:3971
+msgid "Wiseloads"
+msgstr ""
+
+#: couriers.php:3977
+msgid "WishPost"
+msgstr ""
+
+#: couriers.php:3983
+msgid "wnDirect"
+msgstr ""
+
+#: couriers.php:3989
+msgid "WSGD Logistics"
+msgstr ""
+
+#: couriers.php:3995
+msgid "XDEXPRESS"
+msgstr ""
+
+#: couriers.php:4001
+msgid "XDP Express"
+msgstr ""
+
+#: couriers.php:4007
+msgid "Xend Express"
+msgstr ""
+
+#: couriers.php:4013
+msgid "Xing Yuan"
+msgstr ""
+
+#: couriers.php:4019
+msgid "XingYunYi"
+msgstr ""
+
+#: couriers.php:4025
+msgid "XPOST"
+msgstr ""
+
+#: couriers.php:4031
+msgid "XpressBees"
+msgstr ""
+
+#: couriers.php:4037
+msgid "xpresspost"
+msgstr ""
+
+#: couriers.php:4043
+msgid "XQ Express"
+msgstr ""
+
+#: couriers.php:4049
+msgid "XRU"
+msgstr ""
+
+#: couriers.php:4055
+msgid "yakit"
+msgstr ""
+
+#: couriers.php:4061
+msgid "YANWEN"
+msgstr ""
+
+#: couriers.php:4067
+msgid "YDH"
+msgstr ""
+
+#: couriers.php:4073
+msgid "Yemen Post"
+msgstr ""
+
+#: couriers.php:4079
+msgid "Eshipping"
+msgstr ""
+
+#: couriers.php:4085
+msgid "YMDD"
+msgstr ""
+
+#: couriers.php:4091
+msgid "YJI"
+msgstr ""
+
+#: couriers.php:4097
+msgid "Yong Man Yi"
+msgstr ""
+
+#: couriers.php:4103
+msgid "Yodel"
+msgstr ""
+
+#: couriers.php:4109
+msgid "YTO Express"
+msgstr ""
+
+#: couriers.php:4115
+msgid "Yunda Express"
+msgstr ""
+
+#: couriers.php:4121
+msgid "Yun Express"
+msgstr ""
+
+#: couriers.php:4127
+msgid "YL express"
+msgstr ""
+
+#: couriers.php:4133
+msgid "Zajil"
+msgstr ""
+
+#: couriers.php:4139
+msgid "Zambia Post"
+msgstr ""
+
+#: couriers.php:4145
+msgid "ESHUN International Logistics"
+msgstr ""
+
+#: couriers.php:4151
+msgid "ZHONGSU International"
+msgstr ""
+
+#: couriers.php:4157
+msgid "Top Ideal Express"
+msgstr ""
+
+#: couriers.php:4163
+msgid "Zimbabwe Post"
+msgstr ""
+
+#: couriers.php:4169
+msgid "ZJS International"
+msgstr ""
+
+#: couriers.php:4175
+msgid "Zhongtie Logistics"
+msgstr ""
+
+#: couriers.php:4181
+msgid "ZTO Express"
+msgstr ""
+
+#: couriers.php:4187
+msgid "ZTO International"
+msgstr ""
+
+#: trackingmore-fields.php:25
+msgid "Tracking number:"
+msgstr ""
+
+#. #-#-#-#-#  trackingmore.pot (TrackingMore - WooCommerce Tracking 1.0.7)  #-#-#-#-#
+#. Author of the plugin/theme
+#: trackingmore.php:159
+msgid "TrackingMore"
+msgstr ""
+
+#: trackingmore.php:171
+msgid "Carrier:"
+msgstr ""
+
+#: trackingmore.php:177
+msgid "Please Select"
+msgstr ""
+
+#: trackingmore.php:179
+msgid "Update carrier list"
+msgstr ""
+
+#: trackingmore.php:238
+msgid "TrackingMore's WordPress API Key"
+msgstr ""
+
+#: trackingmore.php:244
+msgid "Generate API Key"
+msgstr ""
+
+#: trackingmore.php:250
+msgid "Revoke API Key"
+msgstr ""
+
+#: trackingmore.php:300
+msgid "l jS F Y"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "TrackingMore - WooCommerce Tracking"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.trackingmore.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add tracking number and carrier name to WooCommerce, display tracking info at order history page, auto import tracking numbers to trackingmore."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.trackingmore.com"
+msgstr ""

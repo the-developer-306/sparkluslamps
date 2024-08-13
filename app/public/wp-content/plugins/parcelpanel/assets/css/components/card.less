@@ -1,0 +1,93 @@
+@import "../variables";
+
+//card 组件
+.pp-card {
+  width: inherit; //继承父宽度
+  background-color: @pp-card-background-color;
+  margin-bottom: 20px;
+  box-shadow: 0px -1px 0px 0px #ddd inset;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+
+  // 卡片标题
+  h3.pp-card-title {
+    margin: 0;
+    padding: @pp-card-h1-padding;
+    font-size: @pp-card-h1-font-size;
+    font-weight: @pp-card-h1-font-weight;
+    line-height: @pp-card-h1-line-height;
+
+    + .pp-card-body {
+      padding-top: 0;
+    }
+  }
+
+  // 卡片文字
+  p {
+    margin: 0;
+    //margin-top: 0 !important;
+    //margin-bottom: 4px !important;
+    font-size: inherit;
+    line-height: inherit;
+  }
+
+  // 卡片头部，带关闭按钮
+  .pp-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+    padding: @pp-card-h1-padding;
+    box-shadow: inset 0px -1px 0px #ddd;
+    line-height: 24px;
+
+    h3 {
+      margin: 0;
+      font-size: @pp-card-h1-font-size;
+      font-weight: @pp-card-h1-font-weight;
+      line-height: @pp-card-h1-line-height;
+    }
+
+    // 关闭按钮样式
+    .close-btn {
+      font-size: 14px;
+      font-weight: 800;
+      color: @pp-title-color;
+      text-decoration: none;
+    }
+
+    + .pp-card-body {
+      padding: @pp-panel-body-padding;
+    }
+  }
+
+  // 卡片主体
+  .pp-card-body {
+    padding: @pp-card-body-padding;
+    font-size: @pp-card-body-font-size;
+    font-weight: @pp-card-body-font-weight;
+    line-height: @pp-card-body-line-height;
+  }
+
+  // 卡片底部
+  .pp-card-footer {
+    border-top: 1px solid #F0F0F0;
+    padding: @pp-card-footer-padding;
+
+    // 按钮向右
+    &.to-right {
+      display: flex;
+      justify-content: flex-end;
+
+      button {
+        margin-right: 8px;
+
+        &:last-child {
+          margin-right: 0;
+        }
+      }
+    }
+  }
+}

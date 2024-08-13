@@ -1,0 +1,131 @@
+(R=>{R(()=>{const i=5;const t=R("#pp-tk-btn-show-form"),e=R("#pp-mdl-import"),a=e.find(".back"),n=R("#pp-pnl-upload"),s=R("#pp-upload-progress"),o=s.find(".percent"),r=s.find(".progress-bar"),d=n.find(".box-import-records"),p=n.find(".lst-records"),l=R("#pp-pnl-record-detail"),c=l.find(".filename"),_=l.find(".total"),m=l.find(".succeeded"),u=l.find(".failed"),h=l.find(".details"),f=n.find(".pp-ipt-upload-wrapper"),g=R("#pp-ipt-upload-file"),b=e.find(".modal-close"),v=e.find(".btn-import");let w=R(".edit-php.post-type-shop_order"),k=w.find(".page-title-action:first");let x=R("body").hasClass("woocommerce_page_wc-orders");if(x){w=R(".woocommerce_page_wc-orders");k=w.find(".page-title-action:first")}let y=[];let $=false;let S=0;const C=window.parcelpanel_admin_wc_meta_boxes.import_type==="shop_order"||window.parcelpanel_admin_wc_meta_boxes.import_type==="shop_order_hpos"&&!window.parcelpanel_admin_wc_meta_boxes.post_id;if(C){R("<a/>",{class:"page-title-action",href:parcelpanel_admin.urls.import_tracking_number,text:parcelpanel_admin.strings.import_tracking_number}).insertAfter(k)}const P=e=>{return`<div class="pp-number-input"><input max="${e.max_value}" data-item-id="${e.id}" value="${e.value}" autocomplete="off" ${e.is_editable?"":"disabled"} min="0" type="number" class="pp-number-input-input item-quantity" data-v-ubw820r6><div class="pp-number-input-suffix">of ${e.max_value}</div></div>`};const j=window.parcelpanel_admin_wc_meta_boxes.i18n;if(!j.show_add_status.delivered_type){R('#order_status option[value="wc-delivered"]').hide()}if(!j.show_add_status.shipped_type){R('#order_status option[value="wc-shipped"]').hide()}if(!j.show_add_status.partial_shipped_type){R('#order_status option[value="wc-partial-shipped"]').hide()}R(".select2-container").on("click",function(){const e=j.order_status_new.partially_shipped??"Partially Shipped";const t=j.order_status_new.completed_text??"Shipped";const a=j.order_status_new.shipped_text??"Shipped";const i=j.order_status_new.delivered_text??"Delivered";if(!j.show_add_status.delivered_type){R('ul.select2-results__options li:contains("'+i+'")').hide()}if(!j.show_add_status.shipped_type){R('ul.select2-results__options li:contains("'+a+'"):eq(1)').hide();R('ul.select2-results__options li:contains("'+e+'")').show()}if(!j.show_add_status.partial_shipped_type){R('ul.select2-results__options li:contains("'+e+'")').hide()}});const M={is_open_modal:false,order_id:0,tracking_id:0,tracking_number:"",courier_code:"",fulfilled_date:"",is_saving:false,line_items:[],shipments:[],has_full_shipped:false,refresh_page_after_saved:false,init:function(){R("#pp-wc-shop_order-shipment-tracking").on("click",".delete-tracking",this.delete_tracking).on("click","#pp-tk-btn-show-form",this.show_form_click).on("click",".edit-tracking",this.edit_tracking);w.on("click",".parcelpanel_add_tracking",this.handle_admin_order_actions_add_track_click)},handle_admin_order_actions_add_track_click:function(e){e.preventDefault();if(!e.target||e.target.getAttribute("disabled")){return}const t=parseInt((e.target.href||"").split("#")[1]);if(!t){return}w.find(".parcelpanel_add_tracking").attr("disabled","disabled");M.refresh_page_after_saved=true;M.tracking_id=0;M.tracking_number="";M.courier_code="";M.fulfilled_date="";M.order_id=t;M.show_form().finally(()=>{w.find(".parcelpanel_add_tracking").removeAttr("disabled")})},edit_tracking:function(){const e=R(this).closest("li.tracking-item");const t=e.data("tracking-id");const a=e.find(".number").text();const i=e.find(".courier").data("value");const n=e.data("fulfilled-date");M.tracking_id=t;M.tracking_number=a;M.courier_code=i;M.fulfilled_date=n;M.order_id=parseInt(parcelpanel_admin_wc_meta_boxes.post_id);M.show_form()},show_form_click:function(){t.attr("disabled","disabled").addClass("is-busy");M.tracking_id=0;M.tracking_number="";M.courier_code="";M.fulfilled_date="";M.order_id=parseInt(parcelpanel_admin_wc_meta_boxes.post_id);M.show_form().finally(()=>{t.removeAttr("disabled").removeClass("is-busy")})},req_get_tracking_items:()=>{const e=`${ajaxurl}?action=pp_get_tracking_items&order_id=${M.order_id}&_ajax_nonce=${parcelpanel_admin_wc_meta_boxes.get_shipment_item_nonce}`;return fetch(e).then(e=>e.json()).catch(e=>{R.toastr.error("Server error, please try again or refresh the page");return e})},refresh_meta_box_shipments(){if(!window.parcelpanel_admin_wc_meta_boxes_shipments)return;M.req_get_tracking_items().then(e=>{window.parcelpanel_admin_wc_meta_boxes_shipments.shipments=e.data.shipments;M.render_shipment_items();return e})},show_form:function(){return M.req_get_tracking_items().then(e=>{M.line_items=e.data.line_items;M.shipments=e.data.shipments;M.order_number=e.data.order_number;if(window.parcelpanel_admin_wc_meta_boxes_shipments){window.parcelpanel_admin_wc_meta_boxes_shipments.shipments=e.data.shipments;M.render_shipment_items()}M.render_add_tracking_modal();return e})},render_shipment_items:function(){const e=window.parcelpanel_admin_wc_meta_boxes_shipments.shipments.map((e,t)=>{return`<li class="tracking-item" data-fulfilled-date="${e.fulfilled_date}" data-tracking-id="${e.id}" id="pp-tracking-item-${e.id}"><div style="display:flex;margin-bottom:8px;justify-content:space-between;"><div>Shipment ${t+1}</div><div><a class="edit-tracking">Edit</a><a class="delete-tracking">Delete</a></div></div><div class="tracking-content"><div class="tracking-number"><strong class="courier" data-value="${e.courier_code}">${e.courier_name}</strong> - <a class="number" href="${e.tracking_url}" target="_blank" title="Tracking order">${e.tracking_number}</a></div><div class="tracking-status"><span class="pp-tracking-icon icon-${e.shipment_status_label}">${e.shipment_status_text}</span></div><div class="tracking-info"></div></div><p class="meta"><span class="fulfilled_on">${e.shipped_on_text}</span></p></li>`});R("#pp-tk-tracking-items").html(e.join(""));t.removeAttr("disabled")},render_add_tracking_modal:function(){if(M.is_open_modal){return}M.is_open_modal=true;const g=window.parcelpanel_admin_wc_meta_boxes.i18n;const e=M.line_items;let b=M.tracking_id;const t=M.shipments.some(e=>e.ship_type===1);const i=!!b;const n=new Set(M.shipments.map(({line_items:e})=>e.filter(({quantity:e})=>!e).map(({id:e})=>e)).flat());const a=M.shipments.find(e=>e.tracking_id===b)||{};const{ship_type:v=0}=a;const s=b?g.edit_tracking:g.add_tracking;const o=b?g.save:g.add;const r=M.order_number;const d={};a.line_items?.forEach(e=>{d[e.id]=(d[e.id]??0)+e.quantity});const p=v===1;const l=e.map(e=>{let t=e.remain_quantity;let a=i?d[e.id]??0:t;if(i){t+=d[e.id]??0}if(d[e.id]!==0&&!t){return}return{...e,value:d[e.id]===0?e.quantity:a,max_value:d[e.id]===0?e.quantity:t,is_editable:!n.has(e.id)}}).filter(e=>e);const c=()=>{return l.map(e=>`<tr><td><div class="thumb">${e.image_url?`<img src="${e.image_url}" alt>`:""}</div></td><td class="column-name" style="    overflow: hidden;"><div class="pp-product-show-text">${e.name}</div>${e.sku?`<div class="pp-product-show-text" style="color:#757575;font-size:12px;">${g.sku} ${e.sku}</div>`:``}</td><td>${P(e)}</td></tr>`).join("")};const _=()=>{return(window.parcelpanel_courier_list||{}).map(e=>{return{id:e.code,text:e.name,selected:e.code===a.courier_code}})};const m=()=>{return(window.parcelpanel_courier_list_enabled||{}).map(e=>{return{id:e.code,text:e.name,selected:e.code===a.courier_code}})};let{tracking_number:u,courier_code:h,fulfilled_date:f}=M;const w=t||!l.length;const k=!b&&w;let x=!p?!w?`<table class="pp-items"><tbody>${c()}</tbody></table>`:`<div class="fulfilled-tip">${g.items_has_fulfilled}</div>`:"";if(x){x+='<hr class="pp-divider">'}R(document.body).append(`<div id="PP-Modal-UVSNWm" class="components-modal__screen-overlay pp-modal">
+<style>
+.pp-items{display:grid;text-align:left;grid-template-columns:auto 1fr auto;column-gap:10px;row-gap:8px}
+.pp-items thead,.pp-items tbody,.pp-items tr{display:contents;}
+.pp-items th{margin-bottom:8px;}
+.pp-items th.column-items{grid-column:1/span 2}
+.pp-items .column-name{align-self:center}
+.pp-items .thumb{position:relative;display:block;width:40px;height:40px;border:0px solid #e8e8e8;background:#f8f8f8;color:#ccc;text-align:center;font-size:21px}
+.pp-items .thumb:before{position:absolute;top:0;left:0;display:block;margin:0;width:100%;height:100%;content:"\\f128";text-align:center;text-indent:0;text-transform:none;font-weight:400;font-variant:normal;font-family:Dashicons;line-height:40px;speak:never;-webkit-font-smoothing:antialiased}
+.pp-items .thumb img{position:relative;margin:0;padding:0;width:100%;height:100%}
+.pp-modal th:last-child,.pp-modal td:last-child{text-align:right;}
+
+.pp-divider{margin:16px 0;height:0;border:solid #ddd;border-width:0 0 1px;}
+
+.pp-input-box{display:grid;color:#3c434a;column-gap:20px;grid-template-columns:1fr 1fr;row-gap:12px}
+.pp-input-box label{display:flex;flex-direction:column;}
+
+.fulfilled-tip{color:#999c9f;text-align:center;font-size:16px}
+
+.pp-number-input{display:inline-flex;overflow:hidden;border:1px solid #8c8f94;border-radius:4px;background:#f1f1f1;align-items:center}
+input.pp-number-input-input[data-v-ubw820r6]{margin:0;padding:0 0 0 8px;width:100%;outline:0!important;border:0!important;border-radius:0;box-shadow:none!important}
+.pp-number-input-suffix{margin:0 8px;color:#646970;flex:0 0 auto}
+@-moz-document url-prefix() {
+.pp-number-input{background:0 0}
+}
+
+.pp-input-box-new{display:grid;color:#3c434a;column-gap:20px;row-gap:12px;margin-bottom:16px;}
+.pp-input-box-new label{display:flex;flex-direction:column;}
+.pp-input-title-style{margin-bottom: 4px;}
+.pp-cursor{cursor: pointer;}
+#PP-click-status input {vertical-align: sub;}
+
+.pp-tracking-number-tip{display: none;align-items: center;margin-top: 4px;color:#CC1818;}
+
+.pp-product-show-text{white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
+.pp-modal .components-modal__header {height: 60px;font-size:16px}
+.pp-modal .components-modal__header .components-modal__header-heading {font-size:16px;line-height: 24px;font-weight: 600;}
+.pp-modal .components-modal__content {display:flex;flex-direction:column;margin-top: 60px;}
+
+</style>
+<div role="dialog" tabindex="-1" class="components-modal__frame" style="border-radius: 2px;">
+  <div role="document" class="components-modal__content">
+    <div class="components-modal__header">
+      <div class="components-modal__header-heading-container"><h1 class="components-modal__header-heading">#${r} ${s}</h1></div>
+      <button type="button" id="pp-tk-modal-close" aria-label="Close dialog" class="components-button has-icon" style="position:unset;margin-right:-8px;width:36px;">
+        <svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M11.414 10l6.293-6.293a1 1 0 10-1.414-1.414L10 8.586 3.707 2.293a1 1 0 00-1.414 1.414L8.586 10l-6.293 6.293a1 1 0 101.414 1.414L10 11.414l6.293 6.293A.998.998 0 0018 17a.999.999 0 00-.293-.707L11.414 10z" fill="#5C5F62"></path></svg>
+      </button>
+    </div>
+    <div class="pp-modal-body">
+${x}
+
+<div class="pp-input-box-new">
+<div><label><div class="pp-input-title-style">${g.tracking_number}</div><input placeholder="${g.tracking_number_eg}" type="text" id="pp-tk-ipt-tracking-number" value="${u}"></label><div class="pp-tracking-number-tip"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11 13V7H13V13H11Z" fill="#CC1818"/>
+<path d="M11 15V17H13V15H11Z" fill="#CC1818"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.75 12C20.75 16.8325 16.8325 20.75 12 20.75C7.16751 20.75 3.25 16.8325 3.25 12C3.25 7.16751 7.16751 3.25 12 3.25C16.8325 3.25 20.75 7.16751 20.75 12ZM12 19.25C16.0041 19.25 19.25 16.0041 19.25 12C19.25 7.99594 16.0041 4.75 12 4.75C7.99594 4.75 4.75 7.99594 4.75 12C4.75 16.0041 7.99594 19.25 12 19.25Z" fill="#CC1818"/>
+</svg>
+<span style="margin-left: 4px;">${g.tracking_number_tip}</span></div></div>
+</div>
+
+<div class="pp-input-box">
+<div><label><div class="pp-input-title-style">${g.courier}</div><select id="pp-tk-slc-courier"><option value>${g.auto_matching}</option></select></label></div>
+<div><label><div class="pp-input-title-style">${g.date_shipped}</div><input type="text" id="pp-tk-ipt-date-shipped" class="date-picker-field" value="${f}" placeholder="${window.parcelpanel_admin_wc_meta_boxes.today}"></label></div>
+</div>
+
+<hr class="pp-divider">
+
+<div style="margin-bottom: 4px;">${g.order_status_options}</div> 
+
+<div style="display: flex;${g.threeShow}" id="PP-click-status">
+    <span class="pp-cursor">
+        <input name="_shipStatus" value="${g.order_status_new.do_not_change_status}" type="radio" class="select short" style="" ${g.order_status_new.no_check}>
+        <span>${g.order_status_new.do_not_change}</span>
+    </span>
+
+    <span class="pp-cursor" style="${g.hiddenCheckStatus}">
+        <input name="_shipStatus" value="${g.order_status_new.partially_shipped_status}" type="radio" class="select short" style="" ${g.order_status_new.partially_shipped_check}>
+        <span>${g.order_status_new.partially_shipped}</span>
+    </span>
+
+    <span class="pp-cursor" style="${g.order_status_new.show_completed}">
+        <input name="_shipStatus" value="${g.order_status_new.completed_status}" type="radio" class="select short" style="" ${g.order_status_new.completed_check}>
+        <span>${g.order_status_new.completed_text}</span>
+    </span>
+
+    <span class="pp-cursor" style="${g.order_status_new.show_shipped}">
+        <input name="_shipStatus" value="${g.order_status_new.shipped_status}" type="radio" class="select short" style="" ${g.order_status_new.shipped_check}>
+        <span>${g.order_status_new.shipped_text}</span>
+    </span>
+    
+</div>
+
+    </div>
+  </div>
+
+<div class="components-modal__footer">
+<button type="button" class="components-button pp-button button" id="pp-tk-btn-cancel">
+<span>${g.cancel}</span>
+</button>
+<button type="button" class="components-button pp-button is-primary" id="pp-tk-btn-ok" ${k?"disabled":""}>
+<span>${o}</span>
+</button>
+</div>
+
+</div>
+</div>`);R("#PP-click-status span").click(e=>{var t=R(e.target).prev();t.click()});let y=window.parcelpanel_admin.strings.frequently_used_carriers??"FREQUENTLY USED CARRIERS";let $=window.parcelpanel_admin.strings.other_carriers??"OTHER CARRIERS";R("#PP-Modal-UVSNWm #pp-tk-slc-courier").append("<option value disabled>"+y+"</option>");R("#PP-Modal-UVSNWm #pp-tk-slc-courier").selectWoo({data:m(),width:"auto"});R("#PP-Modal-UVSNWm #pp-tk-slc-courier").append('<option value="new-category" disabled>'+$+"</option>");R("#PP-Modal-UVSNWm #pp-tk-slc-courier").selectWoo({data:_(),width:"auto"});R(document.body).trigger("wc-init-datepickers");R("#PP-Modal-UVSNWm").on("click","#pp-tk-modal-close",M.close_add_tracking_modal).on("click","#pp-tk-btn-cancel",M.close_add_tracking_modal).on("click","#pp-tk-btn-ok",()=>{const{save_shipment_item_nonce:e}=window.parcelpanel_admin_wc_meta_boxes;const{order_id:t}=M;const a=R(".pp-tracking-number-tip");const i=R("#pp-tk-ipt-tracking-number");const n=R("#pp-tk-ipt-date-shipped");const s=R("#pp-tk-slc-courier");const o=R('#PP-click-status input[name="_shipStatus"]:checked');let r=false;if(i.val()===""){O(i);H(a);r=true}else{F(i);Z(a)}if(r)return;const d=[];if(v!==1){R(".item-quantity").each((e,t)=>{const a=parseInt(R(t).data("item-id"));const i=parseInt(R(t).val());if(a&&i>0){d.push({id:a,quantity:i})}});if(!d.length){R.toastr.warning("Empty line items");return}}const p=n.datepicker("getDate")||new Date,l=p.getDate(),c=p.getMonth()+1,_=p.getFullYear();const m={order_id:t,mark_order_as:o.val(),tracking_id:b,tracking_number:i.val(),courier_code:s.val(),fulfilled_date:`${_}-${c}-${l}`,line_items:d};let u=m["mark_order_as"]??"";g.order_status_new.partially_shipped_check="";g.order_status_new.completed_check="";g.order_status_new.shipped_check="";g.order_status_new.no_check="";if(u=="partial-shipped"){g.order_status_new.partially_shipped_check='checked="checked"'}else if(u=="completed"){g.order_status_new.completed_check='checked="checked"'}else if(u=="shipped"){g.order_status_new.shipped_check='checked="checked"'}else{g.order_status_new.no_check='checked="checked"'}const h=["mark_order_as","tracking_id","courier_code"];h.map(e=>{m[e]=m[e]||undefined});const f=`${ajaxurl}?action=pp_shipment_item_save&_ajax_nonce=${e}`;if(M.is_saving)return;M.is_saving=true;R("#pp-tk-btn-ok").attr("disabled","disabled").addClass("is-busy");fetch(f,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(m)}).then(e=>e.json()).then(e=>{if(!e.success){R.toastr.warning(e.msg||"Unknown error!");return}R.toastr.success("Saved successfully");if(M.refresh_page_after_saved){window.location.reload();return}M.refresh_meta_box_shipments();M.close_add_tracking_modal();if(["completed","partial-shipped","shipped"].includes(o.val())){R("#order_status").val(`wc-${o.val()}`).trigger("change");R("#post").before('<div id="order_updated_message" class="updated notice notice-success is-dismissible"><p>Order updated.</p><button type="button" class="notice-dismiss update-dismiss"><span class="screen-reader-text">Dismiss this notice.</span></button></div>')}}).catch(()=>{R.toastr.error("Server error, please try again or refresh the page")}).finally(()=>{R("#pp-tk-btn-ok").removeAttr("disabled").removeClass("is-busy");M.is_saving=false})})},close_add_tracking_modal:()=>{R("#PP-Modal-UVSNWm").remove();M.is_open_modal=false},delete_tracking:function(){const n=R(this).closest("li.tracking-item");const s=n.data("tracking-id");B(parcelpanel_admin_wc_meta_boxes.i18n_delete_tracking,"Delete tracking number",e=>{if(!e){return}n.block({message:null,overlayCSS:{background:"#fff",opacity:.6}});const{post_id:t,delete_shipment_item_nonce:a}=window.parcelpanel_admin_wc_meta_boxes;const i={action:"pp_delete_tracking_item",order_id:t,tracking_id:s,_ajax_nonce:a};R.post(woocommerce_admin_meta_boxes.ajax_url,i,e=>{n.unblock();M.order_id=t;M.refresh_meta_box_shipments();if(e.success){n.remove();R.toastr.success(e.msg)}else{R.toastr.error(e.msg)}})});return false}};M.init();if(window.parcelpanel_admin_wc_meta_boxes_shipments){M.render_shipment_items()}R(".pp-tips").tipTip();v.on("click",()=>{N(g[0])});b.on("click",()=>{A()});a.on("click",()=>{D()});p.on("click",".view",function(){const t=parseInt(R(this).data("id"));const e=y.find(e=>{return e.id===t});if(e){E(e)}});R(window).bind("beforeunload",()=>{if($){return true}});function z(){if(!y.length){V()}D();e.show()}function A(){e.hide()}function q(e){s.show();o.html(`${e}%`);r.css("width",`${e}%`);f.hide()}function T(){s.hide();f.show()}function I(){n.hide();l.show();v.hide()}function D(){n.show();l.hide();v.show()}function L(e){const t=e.value;const a=t.lastIndexOf(".");const i=t.substr(a+1);return"csv"===i}function N(e){if($){R.toastr.warning("Importing");return}if(!L(e)){R.toastr.error("Please choose a CSV file");return}$=true;q(1);const t=new FormData;t.append("action","pp_upload_csv");t.append("import",e.files[0]);t.append("_ajax_nonce",pp_upload_nonce);R.ajax({type:"POST",url:ajaxurl,data:t,cache:false,processData:false,contentType:false,success:e=>{if(false===e.success){$=false;T();R.toastr.error(e.msg||"Upload failed! Unknown error");return}g.val("");S=0;U(e.data.file)},error(){R.toastr.error("Server error, please try again or refresh the page")}})}function U(t,e=0,a=0){R.ajax({type:"POST",url:ajaxurl,data:{_ajax_nonce:pp_import_nonce,action:"pp_import_csv",file:t,id:e,position:a},success:e=>{S=0;q(e.data.percentage);if(e.data.percentage<100){U(t,e.data.id,e.data.position)}else{$=false;V();setTimeout(()=>{T();E(e.data)},1e3)}},error:()=>{if(S<i){S++;setTimeout(()=>U(t,e,a),2e3)}else{R.toastr.error("Server error, please try again or refresh the page")}}})}function V(){const e={action:"pp_tracking_number_import_record",_ajax_nonce:pp_get_history_nonce};R.ajax({type:"GET",url:ajaxurl,data:e,success:e=>{W(e.data)}})}function E(e,t=true){c.html(e.filename);_.html(e.total);m.html(e.succeeded);u.html(e.failed);h.html(e.details.join("<br/>"));if(t){I()}}function W(e){y=e;const a=[];e.forEach(e=>{const t=parcelpanel_admin.strings.import_records.replace("${date}",e.date).replace("${filename}",e.filename).replace("${total}",e.total).replace("${failed}",e.failed);a.push(`<p>${t} <a class="view" data-id="${e.id}">view details.</a></p>`)});p.html(a.join(""));d.show()}});function O(e){e.css("border-color","red")}function F(e){e.css("border-color","")}function H(e){e.css("display","flex")}function Z(e){e.css("display","none")}R.fn.pp_snackbar=e=>{if(!R("body > .pp-snackbars").length){R("body").append("<div class=pp-snackbars></div>")}const t=`<div class=components-snackbar><div class=components-snackbar__content>${e}</div></div>`;const a=R(t);R(".pp-snackbars").append(a);setTimeout(()=>a.remove(),5e3);return this};function B(e,t,a){const i=Math.ceil(Math.random()*1e4);const n=window.parcelpanel_admin_wc_meta_boxes.i18n;const s=`
+<style> 
+.pp-modal .components-modal__header {height: 60px;font-size:16px}
+.pp-modal .components-modal__header .components-modal__header-heading {font-size:16px;line-height: 24px;font-weight: 600;}
+.pp-modal .components-modal__content {display:flex;flex-direction:column;margin-top: 60px;}
+</style>        
+<div class="components-modal__screen-overlay pp-modal" id="pp-modal-${i}">
+<div role="dialog" tabindex="-1" class="components-modal__frame" style="border-radius: 2px;">
+<div role="document" class="components-modal__content">
+  <div class="components-modal__header">
+    <div class="components-modal__header-heading-container"><h1 class="components-modal__header-heading">${t}</h1></div>
+    <button type="button" aria-label="Close dialog" class="components-button has-icon btn-close" style="position: unset; margin-right: -8px;">
+      <svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+        <path d="M11.414 10l6.293-6.293a1 1 0 10-1.414-1.414L10 8.586 3.707 2.293a1 1 0 00-1.414 1.414L8.586 10l-6.293 6.293a1 1 0 101.414 1.414L10 11.414l6.293 6.293A.998.998 0 0018 17a.999.999 0 00-.293-.707L11.414 10z" fill="#5C5F62"></path>
+      </svg>
+    </button>
+  </div>
+  <div class="pp-modal-body"><p>${e}</p></div>
+</div>
+<div class="components-modal__footer">
+  <button type="button" class="components-button pp-button is-secondary"><span>${n.cancel}</span></button>
+  <button type="button" class="components-button pp-button is-primary is-destructive"><span>${n.save}</span></button>
+</div>
+</div>
+</div>
+`;R("body").append(s);const o=R(`#pp-modal-${i}`);o.on("click",".is-primary",function(){o.remove();a(true)}).on("click",".is-secondary",function(){o.remove();a(false)}).on("click",".btn-close",function(){o.remove();a(false)})}})(jQuery);

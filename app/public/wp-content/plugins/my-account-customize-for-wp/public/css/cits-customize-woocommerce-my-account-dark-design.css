@@ -1,0 +1,93 @@
+.woocommerce-MyAccount-navigation ul li a {
+	border-bottom: 1px solid #2c3e50 !important;
+	padding: 18px 20px !important;
+	background:#1D2238;
+	color: #FFF !important;
+}
+
+
+.woocommerce-MyAccount-navigation ul li.is-active a, 
+.woocommerce-MyAccount-navigation ul li:hover a {
+	background: linear-gradient(120deg, #354060, #262D47) !important;
+}
+
+.woocommerce-MyAccount-navigation ul {
+	border: 1px solid #DDD;
+}
+
+.woocommerce-MyAccount-content {
+	padding: 3%;
+	box-sizing: border-box;
+	background: #1D2238;
+	color: #FFF;
+}
+.cits-dashbord-single-item span {
+	color: #FFF !important;
+}
+
+.dashbord-simple-area p {
+	padding-bottom: 15px;
+}
+
+.cits-dashbord-single-item {
+	padding: 30px 10px;
+	width: 100%;
+	text-align: center;
+/*	border: 1px solid #dddddd47;*/
+	background: linear-gradient(120deg, #354060, #262D47) !important;
+	color: #FFF;
+}
+.cits-dashbord-single-item:hover{
+	background: linear-gradient(120deg, #262D47, #354060) !important;
+}
+
+
+.dashbord-simple-area p a:hover{
+	text-decoration: underline;
+}
+
+
+.cits-dashbord-single-item span svg {
+	fill: #FFF;
+	width: 30px;
+	height: 30px;
+	object-fit: contain;
+}
+
+h3,
+.woocommerce-Address-title.title a {
+	color: #FFF;
+}
+
+
+.woocommerce-orders-table__cell.woocommerce-orders-table__cell-order-number a {
+	color: #FFF !important;
+}
+
+.woocommerce-orders-table.woocommerce-MyAccount-orders tbody tr td{
+	border-top: 1px solid #2c3e50 !important;
+}
+
+.woocommerce-orders-table.woocommerce-MyAccount-orders tbody tr:last-child td{
+	border-bottom: 1px solid #2c3e50 !important;
+}
+
+.white-image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.dark-image{
+	display: none;
+}
+
+
+ 
+/*Responsive*/
+@media all and (max-width: 767px){
+	.woocommerce-MyAccount-navigation ul li a {
+		padding: 12px 15px !important;
+	}
+
+
+}
